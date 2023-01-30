@@ -1,0 +1,183 @@
+{
+  "profile": {
+    "title": "Wonhyuk Son",
+    "items": [
+      {
+        "year": null,
+        "text": [
+          "Born in 1999 Seoul, South Korea"
+        ]
+      }
+    ]
+  },
+  "soloExhibition": {
+    "title": "Solo Exhibition",
+    "items": [
+      {
+        "year": "2022",
+        "text": [
+          "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)"
+        ]
+      },
+      {
+        "year": "2021",
+        "text": [
+          "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)"
+        ]
+      },
+      {
+        "year": "2020",
+        "text": [
+          "Dream Land (H.art.bridge, Seoul, Korea)"
+        ]
+      }
+    ]
+  },
+  "groupExhibition": {
+    "title": "Group Exhibition",
+    "items": [
+      {
+        "year": "2023",
+        "text": [
+          "Portrait (CICA Museum, Gimpo, Korea)"
+        ]
+      },
+      {
+        "year": "2022",
+        "text": [
+          "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
+          "VENOMOLD (Gallery OOOJH, Seoul, Korea)"
+        ]
+      },
+      {
+        "year": "2021",
+        "text": [
+          "Singing word, singing text (COEX, Seoul, Korea, Metaverse online)",
+          "Relativity Circuit: Sustainability Report (Dongduk art gallery, Seoul, Korea)",
+          "Over the structures (CICA Museum, Gimpo, Korea)"
+        ]
+      },
+      {
+        "year": "2020",
+        "text": [
+          "Contactless (Culture Station Seoul 284 RTO, Seoul, Korea, Online)"
+        ]
+      },
+      {
+        "year": "2019",
+        "text": [
+          "Knowing (MJ Gallery, Seoul, Korea)",
+          "bauhaus mirror (DDP, Seoul, Korea)",
+          "The 55th Gyeonggi art contest (Gyeonggi art center gallery, Suwon, Korea)",
+          "Watch the world through the art (Gangnam-gu office, Seoul, Korea)"
+        ]
+      },
+      {
+        "year": "2018",
+        "text": [
+          "International young artist association contest (Gallery We, Seoul, Korea)"
+        ]
+      },
+      {
+        "year": "2016",
+        "text": [
+          "Rebellion of brick ‘I AM ROBOT’ (RoboPark, Bucheon, Korea)",
+          "Brick Convention (Hyundai Departmentstore, Pangyo, Korea)",
+          "Seoul Craft Fair (DDP, Seoul, Korea)"
+        ]
+      },
+      {
+        "year": "2015",
+        "text": [
+          "Brick Convention (Hyundai Departmentstore, Pangyo, Korea)"
+        ]
+      }
+    ]
+  },
+  "artFair": {
+    "title": "Art Fair",
+    "items": [
+      {
+        "year": "2018",
+        "text": [
+          "Miami Scope Art Fair (Scope art fair, Miami, USA)"
+        ]
+      }
+    ]
+  },
+  "prizeArchive": {
+    "title": "Prizes and Grants",
+    "items": [
+      {
+        "year": "2021",
+        "text": [
+          "Gwangmyeong Cultural Foundation ‘Young Artist Support Project’"
+        ]
+      },
+      {
+        "year": "2020",
+        "text": [
+          "Arts Council Korea 'Visual Art Space Support Project'"
+        ]
+      },
+      {
+        "year": "2019",
+        "text": [
+          "The 55th Gyeonggi art contest ‘Sculpture’ award"
+        ]
+      }
+    ]
+  },
+  "ph": {
+    "title": "PH",
+    "items": [
+      {
+        "year": "2019",
+        "text": [
+          "AhnGraphics Publishers | Designer (intern)"
+        ]
+      }
+    ]
+  },
+  "division": {
+    "title": "Division",
+    "items": [
+      {
+        "year": "2022 -",
+        "text": [
+          "OBSERVER: SCULPTURE (OS) | Member"
+        ]
+      },
+      {
+        "year": "2020 -",
+        "text": [
+          "Korean Society of Typography | Regular Member"
+        ]
+      }
+    ]
+  },
+  "references": {
+    "title": "References",
+    "items": [
+      {
+        "year": "2022",
+        "text": [
+          "Workroom Specter 『Vibrating Birds and Handwritten Letter』| Exhibition catalogue"
+        ]
+      },
+      {
+        "year": "2021",
+        "text": [
+          "Art Continue 『2022 Nominated Artists in South Korea』",
+          "CA BOOKS no.254 『Contactless』"
+        ]
+      },
+      {
+        "year": "2017",
+        "text": [
+          "Creator no.9 『 IDEA OF CREATION』| Interview"
+        ]
+      }
+    ]
+  }
+}
