@@ -47,13 +47,10 @@ export default createStore({
         loadWorksList({commit, state}) {
             return axios.get("../sample/" + state.lang + "/data-result.json")
                 .then(response => {
-                    console.log('response는 >>>', response)
                     if (response.statusText === "OK" || response.status === 200) {
-                        console.log('loadWorksList 성공');
                         commit('worksList', response.data)
                     } else {
                         // TODO: error handling.
-                        console.log('loadWorksList 실패');
                     }
                 }).catch(error => {
                 console.log('error', error);

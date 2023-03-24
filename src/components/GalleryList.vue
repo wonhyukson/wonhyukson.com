@@ -1,11 +1,10 @@
 <template>
   <div class="contents">
-    <ul @click="onCheckListData">
+    <ul>
       <li v-for="item in listData" :key="item.id">
         <gallery-list-item :item-data="item"/>
       </li>
     </ul>
-<!--    <router-view/>-->
   </div>
 </template>
 
@@ -31,9 +30,7 @@ export default {
     }
   },
   methods: {
-    onCheckListData() {
-      console.log('itemData 확인 >>>', this.listData)
-    }
+
   }
 }
 </script>
