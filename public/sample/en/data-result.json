@@ -153,8 +153,8 @@
   },
   {
     "type": "painting",
-    "id": "untited",
-    "title": "Untitled",
+    "id": "untitled",
+    "title": "untitled",
     "year": 2022,
     "caption": "2022, colored lego brick and acrylic on canvas, 72.7 x 60.6cm x 2",
     "thumb": "img/painting/untitled/01.jpg",
@@ -1053,10 +1053,6 @@
       {
         "title": "Supported by",
         "text": "Gyeonggi-do, Korean Fine Arts Association, The Federation of Artistic & Cultural Organization of Korea"
-      },
-      {
-        "title": "기획·진행",
-        "text": "김진주, 홍수진, 최아란, 한윤진"
       }
     ],
     "thumb": "img/archive/2019-gyeonggi-art-contest/thumb.jpg",
