@@ -1,6 +1,6 @@
 <template>
-  <div id="mobile-nav" :class="{active: !this.isActive}" v-if="this.$route.name !== 'Intro'">
-    <router-link to="/sculpture" class="logo">Wonhyuk Son</router-link>
+  <div id="mobile-nav" :class="{active: this.isActive}" v-if="this.$route.name !== 'Intro'">
+    <router-link @click="closeMobileMenu(false)" to="/main" class="logo">Wonhyuk Son</router-link>
     <div class="lang-container">
       <button :class='{active : currentLang === Constants.lang.kr}' @click="onClickLang(Constants.lang.kr)"><span>KR</span></button>
       <button :class='{active : currentLang === Constants.lang.en}' @click="onClickLang(Constants.lang.en)"><span>EN</span></button>
@@ -9,7 +9,7 @@
       <span></span>
     </button>
   </div>
-  <MobileHamburgerMenu :is-active="!this.isActive" @removeClass="closeMobileMenu"/>
+  <MobileHamburgerMenu :is-active="this.isActive" @removeClass="closeMobileMenu"/>
 </template>
 
 <script>
@@ -29,7 +29,7 @@ export default {
   data() {
     return{
       Constants,
-      isActive: Boolean,
+      isActive: false,
       currentScrollTop: Number,
       pastScrollTop: Number
     }
@@ -43,8 +43,8 @@ export default {
     onClickMenu() {
       this.isActive = !this.isActive
     },
-    closeMobileMenu(close) {
-      this.isActive = !close;
+    closeMobileMenu() {
+      this.isActive = false;
     },
     onScrollHideNav(direction) {
       let nav = document.querySelector("#mobile-nav");
@@ -55,7 +55,7 @@ export default {
         }
     },
     onScrollToggleClass() {
-      this.currentScrollTop = window.pageYOffset || 0;
+      this.currentScrollTop = window.scrollY || 0;
       if (this.currentScrollTop > this.pastScrollTop) {
         this.onScrollHideNav("down");
       } else if (this.currentScrollTop < this.pastScrollTop) {

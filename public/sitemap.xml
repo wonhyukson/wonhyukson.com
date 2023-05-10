@@ -8,45 +8,50 @@
 
 
 <url>
-  <loc>http://wonhyukson.com/</loc>
+  <loc>https://wonhyukson.com/</loc>
+  <lastmod>2023-05-10T09:22:10+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>https://wonhyukson.com/main</loc>
   <lastmod>2022-04-22T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
 <url>
-  <loc>http://wonhyukson.com/sculptur/</loc>
+  <loc>https://wonhyukson.com/sculptur</loc>
   <lastmod>2022-04-22T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
 <url>
-  <loc>http://wonhyukson.com/painting</loc>
+  <loc>https://wonhyukson.com/painting</loc>
   <lastmod>2022-04-22T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
 <url>
-  <loc>http://wonhyukson.com/typography</loc>
+  <loc>https://wonhyukson.com/typography</loc>
   <lastmod>2022-04-22T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
  <url>
-  <loc>http://wonhyukson.com/review</loc>
+  <loc>https://wonhyukson.com/review</loc>
   <lastmod>2022-04-22T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
  <url>
-  <loc>http://wonhyukson.com/archive</loc>
+  <loc>https://wonhyukson.com/archive</loc>
   <lastmod>2022-04-22T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
 <url>
-  <loc>http://wonhyukson.com/cv</loc>
+  <loc>https://wonhyukson.com/cv</loc>
   <lastmod>2022-04-22T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
-<url>
-  <loc>http://wonhyukson.com/contact</loc>
-  <lastmod>2022-04-22T09:22:10+00:00</lastmod>
+<!--<url>
+  <loc>https://wonhyukson.com/news</loc>
+  <lastmod>2023-05-10T09:22:10+00:00</lastmod>
   <changefreq>always</changefreq>
-</url>
+</url>-->
 
 
 </urlset>
