@@ -24,17 +24,32 @@
     ],
     "caption": "2022, 판넬에 아크릴, 채색된 레고 블록, 가변크기 (각 50 x 50 x 94cm x 4개)"
   },
-    {
-      "type": "sculpture",
-      "id": "composition-6",
-      "title": "구성 6 (분리 - 조합)",
-      "year": 2022,
-      "thumb": "img/sculpture/composition-6/01.jpg",
-      "imgs": [
-        "img/sculpture/composition-6/01.jpg"
-      ],
-      "caption": "2022, 판넬에 아크릴, 채색된 레고 블록, 35 x 35 x 20cm"
-    },
+  {
+    "type": "sculpture",
+    "id": "composition-6",
+    "title": "구성 6 (분리 - 조합)",
+    "year": 2022,
+    "thumb": "img/sculpture/composition-6/01.jpg",
+    "imgs": [
+      "img/sculpture/composition-6/01.jpg"
+    ],
+    "caption": "2022, 판넬에 아크릴, 채색된 레고 블록, 35 x 35 x 20cm"
+  },
+  {
+    "type": "sculpture",
+    "id": "sample-buddha",
+    "title": "고화질 이미지 (레고 부처)",
+    "year": 2021,
+    "thumb": "img/sculpture/sample_buddha/01.jpg",
+    "imgs": [
+      "img/sculpture/sample_buddha/01.jpg",
+      "img/sculpture/sample_buddha/02.jpg",
+      "img/sculpture/sample_buddha/03.jpg",
+      "img/sculpture/sample_buddha/04.jpg"
+    ],
+    "caption": "2021, 캔버스에 실크스크린, TV, 레고 블록, 가변크기 (430 x 400 x 140cm)",
+    "text": "색의 순환과 부처의 확장.\n표정과 형태가 명확히 보이지 않는, 무한히 확장하며 수렴하는 무한(無限)의 흰색 부처가 투명한 부처를 바라본다.\n프리즘의 역할을 하는 투명한 부처의 얼굴을 지나 흰색 부처는 디지털의 원색인 RGB (빨강, 초록, 파랑)의 부처와 아날로그의 원색인 CMYK(시안, 마젠타, 노랑, 검정)의 부처로 확장한다.\n그렇게 프리즘으로 투과된 색은 무한의 부처로 다시 순환한다.\n모든 색은 순환하며 모든 색을 구현할 수 있으며 부처의 형태를 통해 확장되며 수렴된다.\n시작과 끝이 존재하지 않으며 끊임없이 확장하고 수렴하는 부처는 색으로 순환되는 모래시계 구조로 4-3-1-∞(무한)으로 순환한다.\n색으로 분리된 부처는 선을 상징하고, 프리즘으로 수렴되는 투명의 부처는 점을 상징하며, 분리된 선의 부처가 모인 무한의 색을 가진 다(多)부처는 면을 상징하여 점•선•면의 구조로 이루어져 있다."
+  },
   {
     "type": "sculpture",
     "id": "lego-buddha",
@@ -360,17 +375,6 @@
   },
   {
     "type": "painting",
-    "id": "blueportrait",
-    "title": "푸른 초상",
-    "year": 2019,
-    "caption": "2019, 캔버스에 레고 및 아크릴, 65.1 x 50cm",
-    "thumb": "img/painting/blueportrait/01.jpg",
-    "imgs": [
-      "img/painting/blueportrait/01.jpg"
-    ]
-  },
-  {
-    "type": "painting",
     "id": "twisted-harmony",
     "title": "뒤틀린 조화",
     "year": 2018,
@@ -571,6 +575,62 @@
     "text": "클라이언트: 안그라픽스\n\n바우하우스 100주년을 기념하여 한국에서 바우하우스를 탐구하는 주된 인물들의 강연 영상을 편집, 디자인한 작업.\n동대문디자인플라자에서 진행된 바우하우스 100주년 기념 바우하우스 미러 전시회에도 상영되었다."
   },
   {
+    "type": "news",
+    "id": "23-OS Round table",
+    "title": "옵서버 라운드 테이블",
+    "year": 2023,
+    "caption": "2023년 1월 28일",
+    "info": [
+      {
+        "title": "주최·주관",
+        "text": "옵서버"
+      },
+      {
+        "title": "장소",
+        "text": "서교예술실험센터"
+      },
+      {
+        "title": "소개",
+        "text": "OBSERVER:SCULPTURE (OS) 라운드 테이블 1.28\nOS 참여 작가들의 이야기를 나누는 자리를 마련했습니다.\n지난 22년 진행된 OS의 대담 활동과 전시 <개척자와 부유하는 시>, <VENOMOLD>, <압점시각>을 돌아보고, 걸어갈 길과 연대에 관해 이야기 나눕니다.\n섹션 1. 본인은 조각가인가? (13:00~13:45),\n섹션 2. ‘만듦’을 추동하는 힘 (13:45~14:20),\n섹션 3. 시차 적응 (14:40~15:20),\n섹션 4. 느슨한 연대에서 단단한 땅 밟기 (15:20~16:00)"
+      }
+    ],
+    "thumb": "img/news/23-OS Round table/01.jpg",
+    "imgs": [
+      "img/news/23-OS Round table/01.jpg"
+    ]
+  },
+  {
+    "type": "news",
+    "id": "22-Vibrating Birds and Handwritten Letter",
+    "title": "진동새와 손편지 | 출판",
+    "year": 2022,
+    "caption": "2022년 11월 9일",
+    "info": [
+      {
+        "title": "출판사",
+        "text": "작업실유령"
+      },
+      {
+        "title": "저자",
+        "text": "한국타이포그라피학회, 김초엽"
+      },
+      {
+        "title": "ISBN",
+        "text": "9791189356880"
+      },
+      {
+        "title": "소개",
+        "text": "『진동새와 손편지』는 (1) 한국타이포그라피학회의 열여섯 번째 전시이자, (2) SF 소설가 김초엽의 신작 소설이자, (3) 한국타이포그라피학회 회원 및 비회원 194명/팀이 참여한 26분 길이의 영상 작품이자, (4) 작품과 참여자를 종이 위에 망라한 오프라인 출판물이자, (5) 작품과 참여자를 웹사이트상에 망라한 온라인 출판물이다."
+      }
+    ],
+    "thumb": "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
+    "imgs": [
+      "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
+      "img/news/22-Vibrating Birds and Handwritten Letter/02.png",
+      "img/news/22-Vibrating Birds and Handwritten Letter/03.png"
+    ]
+  },
+  {
     "type": "archive",
     "id": "23-portrait",
     "title": "Portrait | 단체전",
@@ -722,13 +782,13 @@
     "thumb": "img/archive/2022-assemblogy/thumb.jpg",
     "imgs": [
       "img/archive/2022-assemblogy/thumb.jpg",
-      "img/archive/2022-assemblogy/08.jpg",  
+      "img/archive/2022-assemblogy/08.jpg",
       "img/archive/2022-assemblogy/06.jpg",
       "img/archive/2022-assemblogy/05.jpg",
       "img/archive/2022-assemblogy/07.jpg",
       "img/archive/2022-assemblogy/01.jpg",
       "img/archive/2022-assemblogy/03.jpg",
-      "img/archive/2022-assemblogy/04.jpg"  
+      "img/archive/2022-assemblogy/04.jpg"
     ]
   },
   {

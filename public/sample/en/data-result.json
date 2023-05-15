@@ -11,7 +11,7 @@
     ],
     "caption": "2022, Acrylic on panel, colored lego brick, Dimensions variable (each 50 x 50 x 94cm x 4ea)"
   },
-  
+
   {
     "type": "sculpture",
     "id": "assemble-sculpture",
@@ -35,6 +35,21 @@
       "img/sculpture/composition-6/01.jpg"
     ],
     "caption": "2022, Acrylic on panel, colored lego brick, 35 x 35 x 20cm"
+  },
+  {
+    "type": "sculpture",
+    "id": "sample-buddha",
+    "title": "High Quality Image (Lego Buddha)",
+    "year": 2021,
+    "thumb": "img/sculpture/sample_buddha/01.jpg",
+    "imgs": [
+      "img/sculpture/sample_buddha/01.jpg",
+      "img/sculpture/sample_buddha/02.jpg",
+      "img/sculpture/sample_buddha/03.jpg",
+      "img/sculpture/sample_buddha/04.jpg"
+    ],
+    "caption": "2021, Slikscreen on canvas, Tv, Lego brick, Dimensions variable (430 x 400 x 140cm)",
+    "text": "An infinite white Buddha who expands and converges infinitely, whose expression and shape cannot be clearly seen, looks at the transparent Buddha.\nThrough the prism of the transparent Buddha's face, the white Buddha turns into the original digital colors RGB (Red, Green, Blue) and CMYK (Cyan, Magenta, Yellow, and Black).\nThrough the prism, the transmitted color circulates back to the infinite Buddha.\nAll of the colors circulate and can implement all the colors, expand and converge through the form of Buddha. In a color-circulating hourglass structure, the Buddha, which continuously expands and converges, circulates in a circle of 4-3-1-∞ (infinite)."
   },
   {
     "type": "sculpture",
@@ -361,17 +376,6 @@
   },
   {
     "type": "painting",
-    "id": "blueportrait",
-    "title": "Blue portrait",
-    "year": 2019,
-    "caption": "2019, Acrylic and Lego brick on canvas, 65.1 x 50cm",
-    "thumb": "img/painting/blueportrait/01.jpg",
-    "imgs": [
-      "img/painting/blueportrait/01.jpg"
-    ]
-  },
-  {
-    "type": "painting",
     "id": "twisted-harmony",
     "title": "Twisted harmony",
     "year": 2018,
@@ -572,6 +576,62 @@
     "text": "Client: AhnGraphics Publisher\n\nVideo created for the 100th anniversary of Bauhaus that combines lecture videos of its main characters exploring bauhaus in South Korea.\nAdditionally, it was screened at Dongdaemun Design Plaza in commemoration of Bauhaus' 100th anniversary."
   },
   {
+    "type": "news",
+    "id": "23-OS Round table",
+    "title": "OS Round table",
+    "year": 2023,
+    "caption": "January 28, 2023",
+    "info": [
+      {
+        "title": "Hosted by",
+        "text": "OBSERVER:SCULPTURE"
+      },
+      {
+        "title": "Venue",
+        "text": "Art Space Seogyo"
+      },
+      {
+        "title": "Introduction",
+        "text": "OBSERVER: SCULPTURE (OS) Round Table 1.28\nOur team has prepared a place to have conversations with the artists participating in the OS.\nTogether, we’ll review OS’s conversation activities and exhibitions in 2022, <Pioneer and Drifty poems>, <VENOMOLD>, <Pressure perspective> and talk about the path and solidarity ahead.\nSection 1. Are you a sculptor? (13:00-13:45),\nSection 2. Power to drive 'creation’ (13:45-14:20),\nSection 3. Time difference adaptation (14:40-15:20),\nSection 4. Stepping on hard ground in loose solidarity (15:20-16:00)"
+      }
+    ],
+    "thumb": "img/news/23-OS Round table/01.jpg",
+    "imgs": [
+      "img/news/23-OS Round table/01.jpg"
+    ]
+  },
+  {
+    "type": "news",
+    "id": "22-Vibrating Birds and Handwritten Letter",
+    "title": "Vibrating Birds and Handwritten Letter | Publication",
+    "year": 2022,
+    "caption": "November 9, 2022",
+    "info": [
+      {
+        "title": "Publisher",
+        "text": "workroom specter"
+      },
+      {
+        "title": "Writer",
+        "text": "Korean Society of Typography, Kim Cho-yeop"
+      },
+      {
+        "title": "ISBN",
+        "text": "9791189356880"
+      },
+      {
+        "title": "Introduction",
+        "text": "『Vibrating Birds and Handwritten Letter』 is composed of (1) the 16th exhibition of the Korea Typography Society, (2) a new novel by SF novelist Kim Cho-yeop, (3) a video work involving 194 members and non-members, (4) an offline publication covering works and participants on paper, and (5) an an online website."
+      }
+    ],
+    "thumb": "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
+    "imgs": [
+      "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
+      "img/news/22-Vibrating Birds and Handwritten Letter/02.png",
+      "img/news/22-Vibrating Birds and Handwritten Letter/03.png"
+    ]
+  },
+  {
     "type": "archive",
     "id": "23-portrait",
     "title": "Portrait | Group exhibition",
@@ -593,10 +653,10 @@
     ],
     "thumb":"img/archive/2023-portrait/thumb.jpg",
     "imgs": [
-    "img/archive/2023-portrait/thumb.jpg",
-    "img/archive/2023-portrait/01.jpg",
-    "img/archive/2023-portrait/02.jpg",
-    "img/archive/2023-portrait/03.jpg"
+      "img/archive/2023-portrait/thumb.jpg",
+      "img/archive/2023-portrait/01.jpg",
+      "img/archive/2023-portrait/02.jpg",
+      "img/archive/2023-portrait/03.jpg"
     ]
   },
   {
@@ -739,13 +799,13 @@
     "thumb": "img/archive/2022-assemblogy/thumb.jpg",
     "imgs": [
       "img/archive/2022-assemblogy/thumb.jpg",
-      "img/archive/2022-assemblogy/08.jpg",  
+      "img/archive/2022-assemblogy/08.jpg",
       "img/archive/2022-assemblogy/06.jpg",
       "img/archive/2022-assemblogy/05.jpg",
       "img/archive/2022-assemblogy/07.jpg",
       "img/archive/2022-assemblogy/01.jpg",
       "img/archive/2022-assemblogy/03.jpg",
-      "img/archive/2022-assemblogy/04.jpg"  
+      "img/archive/2022-assemblogy/04.jpg"
     ]
   },
   {

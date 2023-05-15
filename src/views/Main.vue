@@ -1,7 +1,7 @@
 <template>
   <div class="wrap">
     <PageTitle v-if="!isTouchDevice"/>
-    <div :style="{backgroundImage: 'url(img/main/01' + isTouchDevice + '.png)'}" class="spot"></div>
+    <div :style="{backgroundImage: 'url(img/main/01' + isTouchDevice + '.jpg)'}" class="spot"></div>
     <div class="contents">
       <div class="exhibition">
         <router-link to="/archive">
@@ -14,7 +14,7 @@
           </li>
         </ul>
       </div>
-<!--      <div class="news">
+      <div class="news">
         <router-link to="/news">
           <h4 class="title">{{ isKorean ? '소식' : 'NEWS' }}</h4>
           <span :style="{backgroundImage: 'url(' + svgIcon.get('rightArrowIcon') + ')'}" class="right-arrow"></span>
@@ -24,7 +24,7 @@
             <GalleryListItem :item-data="item"/>
           </li>
         </ul>
-      </div>-->
+      </div>
     </div>
   </div>
 </template>

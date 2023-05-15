@@ -44,11 +44,11 @@ const gnb = [
     name: "CV",
     component: () => import("../views/CV.vue"),
   },
-/*  {
+  {
     path: "/news",
     name: "News",
     component: () => import("../views/News.vue"),
-  },*/
+  },
 ];
 
 const routes = [

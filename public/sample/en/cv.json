@@ -13,112 +13,84 @@
           }
         ]
       },
-      "soloExhibition": {
-        "title": "Solo Exhibition",
-        "items": [
-          {
-            "year": "2022",
-            "text": [
-              "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)"            ]
-          },
-          {
-            "year": "2021",
-            "text": [
-              "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)"
-            ]
-          }
-        ]
-      },
-      "groupExhibition": {
-        "title": "Group Exhibition",
-        "items": [
-          {
-            "year": "2023",
-            "text": [
-              "Portrait (CICA Museum, Gimpo, Korea)"
-            ]
-          },
-          {
-            "year": "2022",
-            "text": [
-              "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
-              "VENOMOLD (Gallery OOOJH, Seoul, Korea)"
-            ]
-          },
-          {
-            "year": "2021",
-            "text": [
-              "Singing word, singing text (COEX, Seoul, Korea, Metaverse online)",
-              "Relativity Circuit: Sustainability Report (Dongduk art gallery, Seoul, Korea)",
-              "Over the structures (CICA Museum, Gimpo, Korea)"
-            ]
-          },
-          {
-            "year": "2020",
-            "text": [
-              "Contactless | Korean Society of Typography Exhibition 14 (Culture Station Seoul 284 RTO, Seoul, Online)"
-            ]
-          }
-        ]
-      },
-      "prizeArchive": {
-        "title": "Prize and Support",
-        "items": [
-          {
-            "year": "2021",
-            "text": [
-              "Gwangmyeong Cultural Foundation ‘Young Artist Support Project’"
-            ]
-          }
-        ]
-      },
-      "ph": {
-        "title": "PH",
-        "items": [
-          {
-            "year": "2019",
-            "text": [
-              "AhnGraphics Publishers | Designer (intern)"
-            ]
-          }
-        ]
-      },
-      "division": {
-        "title": "Division",
-        "items": [
-          {
-            "year": "2022 -",
-            "text": [
-              "OBSERVER: SCULPTURE (OS) | Member"
-            ]
-          },
-          {
-            "year": "2020 -",
-            "text": [
-              "Korean Society of Typography | Regular Member"
-            ]
-          }
-        ]
-      },
-      "introduction": {
-        "title": "Introduction",
-        "items": [
-          {
-            "year": "2022",
-            "text": [
-              "Workroom Specter 『Vibrating Birds and Handwritten Letter』| Exhibition catalogue"
-            ]
-          },
-          {
-            "year": "2021",
-            "text": [
-              "CA BOOKS 『#254 Contactless』"
-            ]
-          }
-        ]
+        "soloExhibition": {
+          "title": "Solo Exhibition",
+          "items": [
+            {
+              "year": "2022",
+              "text": [
+                "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)"
+              ]
+            },
+            {
+              "year": "2021",
+              "text": [
+                "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)"
+              ]
+            }
+          ]
+        },
+        "groupExhibition": {
+          "title": "Group Exhibition",
+          "items": [
+            {
+              "year": "2023",
+              "text": [
+                "Portrait (CICA Museum, Gimpo, Korea)"
+              ]
+            },
+            {
+              "year": "2022",
+              "text": [
+                "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
+                "VENOMOLD (Gallery OOOJH, Seoul, Korea)"
+              ]
+            },
+            {
+              "year": "2021",
+              "text": [
+                "Relativity Circuit: Sustainability Report (Dongduk art gallery, Seoul, Korea)",
+                "Over the structures (CICA Museum, Gimpo, Korea)"
+              ]
+            },
+            {
+              "year": "2020",
+              "text": [
+                "Contactless (Culture Station Seoul 284 RTO, Seoul, Korea, Online)"
+              ]
+            }
+          ]
+        },
+        "prizeArchive": {
+          "title": "Prize and Support",
+          "items": [
+            {
+              "year": "2021",
+              "text": [
+                "Gwangmyeong Cultural Foundation ‘Young Artist Support Project’"
+              ]
+            }
+          ]
+        },
+        "division": {
+          "title": "Division",
+          "items": [
+            {
+              "year": "2022 -",
+              "text": [
+                "OBSERVER: SCULPTURE (OS) | Member"
+              ]
+            },
+            {
+              "year": "2020 -",
+              "text": [
+                "Korean Society of Typography | Regular Member"
+              ]
+            }
+          ]
+        }
       }
-    }
-  },
+    },
   "fullCv": {
     "name": "Full CV",
     "list": {
@@ -206,7 +178,7 @@
             "text": [
               "Rebellion of brick ‘I AM ROBOT’ (RoboPark, Bucheon, Korea)",
               "Brick Convention (Hyundai Departmentstore, Pangyo, Korea)",
-              "DDP Craft exposition (DDP, Seoul, Korea)"
+              "Seoul Craft Fair (DDP, Seoul, Korea)"
             ]
           },
           {
@@ -223,7 +195,7 @@
           {
             "year": "2018",
             "text": [
-              "Miami Scope Art Fair (Scope art fair, Miami, US)"
+              "Miami Scope Art Fair (Scope art fair, Miami, USA)"
             ]
           }
         ]
@@ -279,9 +251,15 @@
           }
         ]
       },
-      "introduction": {
-        "title": "Introduction",
+      "References": {
+        "title": "References",
         "items": [
+          {
+            "year": "2022",
+            "text": [
+              "Workroom Specter 『Vibrating Birds and Handwritten Letter』| Exhibition catalogue"
+            ]
+          },
           {
             "year": "2021",
             "text": [
@@ -292,7 +270,7 @@
           {
             "year": "2017",
             "text": [
-              "Creator 『#9 IDEA OF CREATION』 (Interview)"
+              "Creator 『#9 IDEA OF CREATION』| Interview"
             ]
           }
         ]
