@@ -648,6 +648,34 @@
     ]
   },
   {
+    "type": "news",
+    "id": "23-CICA PRESS CICA ART NOW 2023",
+    "title": "CICA ART NOW 2023 | Publication",
+    "year": 2023,
+    "caption": "August 31, 2023",
+    "info": [
+      {
+        "title": "Publisher",
+        "text": "CICA PRESS"
+      },
+      {
+        "title": "ISBN",
+        "text": "2672-0345 35"
+      },
+      {
+        "title": "Introduction",
+        "text": "CICA Art Now 2023 features 52 artists from the CICA Contemporary Art Solo Show Series and CICA Young Korean Artists."
+      }
+    ],
+    "thumb": "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
+    "imgs": [
+      "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/02.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/03.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/04.jpg"
+    ]
+  },
+  {
     "type": "archive",
     "id": "22-observer",
     "title": "VENOMOLD | Group exhibition",

@@ -499,6 +499,34 @@
   },
   {
     "type": "news",
+    "id": "23-CICA PRESS CICA ART NOW 2023",
+    "title": "CICA ART NOW 2023 | 출판",
+    "year": 2023,
+    "caption": "2023년 8월 31일",
+    "info": [
+      {
+        "title": "출판사",
+        "text": "CICA PRESS"
+      },
+      {
+        "title": "ISBN",
+        "text": "2672-0345 35"
+      },
+      {
+        "title": "소개",
+        "text": "CICA ART NOW는 동시대 청년 예술인 52명의 CICA 미술관 개인전 시리즈와 작가들을 엮은 책입니다."
+      }
+    ],
+    "thumb": "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
+    "imgs": [
+      "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/02.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/03.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/04.jpg"
+    ]
+  },
+  {
+    "type": "news",
     "id": "23-OS Round table",
     "title": "옵서버 라운드 테이블",
     "year": 2023,
