@@ -62,12 +62,19 @@
         ]
       },
       "prizeArchive": {
-        "title": "Prize and Support",
+        "title": "Awards and Grants",
         "items": [
           {
             "year": "2023",
             "text": [
-              "Incheon Foundation For Arts & Culture ‘Artist Support Project’"
+              "Incheon Foundation For Arts & Culture grant",
+              "Incheon Foundation For Arts & Culture, Space ilbu grant"
+            ]
+          },
+          {
+            "year": "2021",
+            "text": [
+              "Gwangmyeong Cultural Foundation grant"
             ]
           },
           {
@@ -173,18 +180,19 @@
         ]
       },
       "prizeArchive": {
-        "title": "Prize and Support",
+        "title": "Awards and Grants",
         "items": [
           {
             "year": "2023",
             "text": [
-              "Incheon Foundation For Arts & Culture ‘Artist Support Project’"
+              "Incheon Foundation For Arts & Culture grant",
+              "Incheon Foundation For Arts & Culture, Space ilbu grant"
             ]
           },
           {
             "year": "2021",
             "text": [
-              "Gwangmyeong Cultural Foundation ‘Young Artist Support Project’"
+              "Gwangmyeong Cultural Foundation grant"
             ]
           }
         ]
