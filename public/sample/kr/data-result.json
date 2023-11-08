@@ -378,6 +378,27 @@
   },
   {
     "type": "typography",
+    "id": "book-Dream Land-assemblogy",
+    "title": "드림랜드·조립학",
+    "year": 2023,
+    "caption": "2023, 오프셋 인쇄, 무선제본, 203 x 254mm, 72쪽",
+    "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
+    "imgs": [
+      "img/typography/23-Dream Land-assemblogy/01.jpg",
+      "img/typography/23-Dream Land-assemblogy/02.jpg",
+      "img/typography/23-Dream Land-assemblogy/03.jpg",
+      "img/typography/23-Dream Land-assemblogy/04.jpg",
+      "img/typography/23-Dream Land-assemblogy/05.jpg",
+      "img/typography/23-Dream Land-assemblogy/06.jpg",
+      "img/typography/23-Dream Land-assemblogy/07.jpg",
+      "img/typography/23-Dream Land-assemblogy/08.jpg",
+      "img/typography/23-Dream Land-assemblogy/09.jpg",
+      "img/typography/23-Dream Land-assemblogy/10.jpg",
+      "img/typography/23-Dream Land-assemblogy/11.jpg"
+    ]
+  },
+  {
+    "type": "typography",
     "id": "spaceship",
     "title": "겉보기에 손상은 없었으나 마치 난파된 것 같은 우주선",
     "year": 2022,
@@ -496,6 +517,63 @@
       "img/typography/cycle/04.jpg"
     ],
     "text": "인간이 창조해낸 글자를 통해 다시 인간의 세상을 바라보며 해석한다.\n소리가 세어지고 약해짐에 따라 형태가 변화되는 가획의 원리는 인간 세상의 순환을 함축적으로 비유할 수 있다\n각기 다른 모습과 성질을 내포하지만 결국에는 한 맥락 속에서 기본 도형인 원, 네모, 세모의 균형으로 맞추어 나아간다.\n그렇기 때문에 시간의 시작과 끝이 구분이 안가는 초현실적인 구조도 내포되어 있고, 산세리프 형태의 기하학적이고 구체예술적 성격이 두드러진다."
+  },
+  {
+    "type": "news",
+    "id": "23-Dream Land-assemblogy",
+    "title": "드림랜드·조립학 | 출판",
+    "year": 2023,
+    "caption": "2023년 11월 3일",
+    "info": [
+      {
+        "title": "출판사",
+        "text": "독립 출판"
+      },
+      {
+        "title": "사양",
+        "text": "오프셋인쇄, 무선제본, 203 x 254mm, 72쪽"
+      },
+      {
+        "title": "편집, 디자인",
+        "text": "손원혁"
+      },
+      {
+        "title": "글",
+        "text": "정해선"
+      },
+      {
+        "title": "번역, 감수",
+        "text": "서울셀렉션"
+      },
+      {
+        "title": "사진",
+        "text": "안희상, 광명문화재단"
+      },
+      {
+        "title": "도움",
+        "text": "문지숙, 유성운"
+      },
+      {
+        "title": "인쇄",
+        "text": "인타임"
+      },
+      {
+        "title": "후원",
+        "text": "인천광역시, 인천문화재단, 시작공간일부"
+      },
+      {
+        "title": "소개",
+        "text": "광명시민회관, CICA 미술관에서의 개인전, 작가노트, 정해선 큐레이터의 글을 엮은 도록입니다."
+      }
+    ],
+    "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
+    "imgs": [
+      "img/typography/23-Dream Land-assemblogy/01.jpg",
+      "img/typography/23-Dream Land-assemblogy/02.jpg",
+      "img/typography/23-Dream Land-assemblogy/03.jpg",
+      "img/typography/23-Dream Land-assemblogy/08.jpg",
+      "img/typography/23-Dream Land-assemblogy/10.jpg"
+    ]
   },
   {
     "type": "news",

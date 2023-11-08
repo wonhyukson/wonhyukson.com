@@ -8,13 +8,14 @@
           {
             "year": null,
             "text": [
-              "Born in 1999 Seoul, South Korea"
+              "Born in 1999 Seoul, South Korea",
+              "Lives and works in Incheon and Seoul, South Korea"
             ]
           }
         ]
       },
       "soloExhibition": {
-        "title": "Solo Exhibition",
+        "title": "Solo Exhibitions",
         "items": [
           {
             "year": "2022",
@@ -31,7 +32,7 @@
         ]
       },
       "groupExhibition": {
-        "title": "Group Exhibition",
+        "title": "Group Exhibitions",
         "items": [
           {
             "year": "2023",
@@ -78,6 +79,17 @@
             ]
           }
         ]
+      },
+      "Publication": {
+        "title": "Publication",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "『Dream Land·assemblogy』 Independent Publishing"
+            ]
+          }
+        ]
       }
     }
   },
@@ -96,7 +108,7 @@
         ]
       },
       "soloExhibition": {
-        "title": "Solo Exhibition",
+        "title": "Solo Exhibitions",
         "items": [
           {
             "year": "2022",
@@ -119,7 +131,7 @@
         ]
       },
       "groupExhibition": {
-        "title": "Group Exhibition",
+        "title": "Group Exhibitions",
         "items": [
           {
             "year": "2023",
@@ -156,6 +168,17 @@
           }
         ]
       },
+      "project": {
+        "title": "Project",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "Orgin of forms: Letters and typography (Online exhibition)"
+            ]
+          }
+        ]
+      },
       "prizeArchive": {
         "title": "Awards and Grants",
         "items": [
@@ -186,7 +209,7 @@
         ]
       },
       "division": {
-        "title": "Division",
+        "title": "Divisions",
         "items": [
           {
             "year": "2022 -",
@@ -202,31 +225,44 @@
           }
         ]
       },
+      "Publication": {
+        "title": "Publication",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "『Dream Land·assemblogy』 Independent Publishing"
+            ]
+          }
+        ]
+      },
       "References": {
         "title": "References",
         "items": [
           {
             "year": "2023",
             "text": [
+              "Wonhyuk Son 『Dream Land·assemblogy』",
               "CICA PRESS 『CICA ART NOW 2023』"
             ]
           },
           {
             "year": "2022",
             "text": [
-              "Workroom Specter 『Vibrating Birds and Handwritten Letter』| Exhibition catalogue"
+              "Workroom Specter 『Vibrating Birds and Handwritten Letter』"
             ]
           },
           {
             "year": "2021",
             "text": [
+              "Art Continue 『2022 Nominated Artists in South Korea』",
               "CA BOOKS #254 『Contactless』"
             ]
           },
           {
             "year": "2017",
             "text": [
-              "Creator #9 『IDEA OF CREATION』| Interview"
+              "Creator #9 『IDEA OF CREATION』 Interview"
             ]
           }
         ]
