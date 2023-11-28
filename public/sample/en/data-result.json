@@ -177,6 +177,19 @@
   },
   {
     "type": "painting",
+    "id": "Assembly 20231028",
+    "title": "Assembly 20231028",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x91cm (2ea)",
+    "thumb": "img/painting/Assembly 20231028/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231028/01.jpg",
+      "img/painting/Assembly 20231028/02.jpg",
+      "img/painting/Assembly 20231028/03.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20231021",
     "title": "Assembly 20231021",
     "year": 2023,
@@ -250,6 +263,19 @@
     "thumb": "img/painting/Assembly 20230930/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230930/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230911",
+    "title": "Assembly 20230911",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x72.7cm (2ea)",
+    "thumb": "img/painting/Assembly 20230911/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230911/01.jpg",
+      "img/painting/Assembly 20230911/02.jpg",
+      "img/painting/Assembly 20230911/03.jpg"
     ]
   },
   {
