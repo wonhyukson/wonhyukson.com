@@ -152,6 +152,155 @@
   },
   {
     "type": "painting",
+    "id": "Assembly 20231107",
+    "title": "조립 20231107",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 72.7x60.6cm (2개)",
+    "thumb": "img/painting/Assembly 20231107/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231107/01.jpg",
+      "img/painting/Assembly 20231107/02.jpg",
+      "img/painting/Assembly 20231107/03.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20231106",
+    "title": "조립 20231106",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴, 90.9x72.7cm",
+    "thumb": "img/painting/Assembly 20231106/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231106/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20231021",
+    "title": "조립 20231021",
+    "year": 2023,
+    "caption": "2023, 종이에 아크릴 및 실크스크린, 39.4x27.2cm",
+    "thumb": "img/painting/Assembly 20231021/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231021/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20231020",
+    "title": "조립 20231020",
+    "year": 2023,
+    "caption": "2023, 종이에 실크스크린, 39.4x27.2cm",
+    "thumb": "img/painting/Assembly 20231020/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231020/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20231011",
+    "title": "조립 20231011",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴, 24.2x24.2cm",
+    "thumb": "img/painting/Assembly 20231011/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231011/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20231006",
+    "title": "조립 20231006",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 72.7x60.6cm",
+    "thumb": "img/painting/Assembly 20231006/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231006/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20231005",
+    "title": "조립 20231005",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴, 72.7x60.6cm",
+    "thumb": "img/painting/Assembly 20231005/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231005/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "블록 20231002",
+    "title": "블록 20231002",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴, 45.5x45.5cm",
+    "thumb": "img/painting/Block 20231002/01.jpg",
+    "imgs": [
+      "img/painting/Block 20231002/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230930",
+    "title": "조립 20230930",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 53x45.5cm",
+    "thumb": "img/painting/Assembly 20230930/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230930/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230824",
+    "title": "조립 20230824",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴, 45.5x53cm",
+    "thumb": "img/painting/Assembly 20230824/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230824/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230901",
+    "title": "조립 20230901",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 76.6x32.3cm (4개)",
+    "thumb": "img/painting/Assembly 20230901/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230901/01.jpg",
+      "img/painting/Assembly 20230901/02.jpg",
+      "img/painting/Assembly 20230901/03.jpg",
+      "img/painting/Assembly 20230901/04.jpg",
+      "img/painting/Assembly 20230901/05.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230904",
+    "title": "조립 20230904",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 80.3x80.3cm",
+    "thumb": "img/painting/Assembly 20230904/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230904/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230919",
+    "title": "조립 20230919",
+    "year": 2023,
+    "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 72.7x53cm",
+    "thumb": "img/painting/Assembly 20230919/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230919/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "untitled",
     "title": "무제",
     "year": 2022,
@@ -523,7 +672,7 @@
     "id": "23-Dream Land-assemblogy",
     "title": "드림랜드·조립학 | 출판",
     "year": 2023,
-    "caption": "2023년 11월 3일",
+    "caption": "2023년 11월",
     "info": [
       {
         "title": "출판사",
