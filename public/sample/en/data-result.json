@@ -2,7 +2,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture2",
-    "title": "Assemble sculpture 221116",
+    "title": "Assemble sculpture 22-1",
     "year": 2022,
     "thumb": "img/sculpture/assemblesculpture2/01.jpg",
     "imgs": [
@@ -153,21 +153,30 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231107",
-    "title": "Assembly 20231107",
+    "id": "Assembly 20231107-2",
+    "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x60.6cm (2ea)",
-    "thumb": "img/painting/Assembly 20231107/01.jpg",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x60.6cm",
+    "thumb": "img/painting/Assembly 20231107/03.jpg",
     "imgs": [
-      "img/painting/Assembly 20231107/01.jpg",
-      "img/painting/Assembly 20231107/02.jpg",
       "img/painting/Assembly 20231107/03.jpg"
     ]
   },
   {
     "type": "painting",
+    "id": "Assembly 20231107-1",
+    "title": "Assembly",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x60.6cm",
+    "thumb": "img/painting/Assembly 20231107/02.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231107/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20231106",
-    "title": "Assembly 20231106",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 90.9x72.7cm",
     "thumb": "img/painting/Assembly 20231106/01.jpg",
@@ -177,21 +186,30 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231028",
-    "title": "Assembly 20231028",
+    "id": "Assembly 20231028-2",
+    "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x91cm (2ea)",
-    "thumb": "img/painting/Assembly 20231028/01.jpg",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x91cm",
+    "thumb": "img/painting/Assembly 20231028/03.jpg",
     "imgs": [
-      "img/painting/Assembly 20231028/01.jpg",
-      "img/painting/Assembly 20231028/02.jpg",
       "img/painting/Assembly 20231028/03.jpg"
     ]
   },
   {
     "type": "painting",
+    "id": "Assembly 20231028-1",
+    "title": "Assembly",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x91cm",
+    "thumb": "img/painting/Assembly 20231028/02.jpg",
+    "imgs": [
+      "img/painting/Assembly 20231028/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20231021",
-    "title": "Assembly 20231021",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic, slikscreen on paper, 39.4x27.2cm",
     "thumb": "img/painting/Assembly 20231021/01.jpg",
@@ -202,9 +220,9 @@
   {
     "type": "painting",
     "id": "Assembly 20231020",
-    "title": "Assembly 20231020",
+    "title": "Assembly",
     "year": 2023,
-    "caption": "2023, slikscreen on paper, 39.4x27.2cm",
+    "caption": "2023, Slikscreen on paper, 39.4x27.2cm",
     "thumb": "img/painting/Assembly 20231020/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231020/01.jpg"
@@ -213,7 +231,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231011",
-    "title": "Assembly 20231011",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 24.2x24.2cm",
     "thumb": "img/painting/Assembly 20231011/01.jpg",
@@ -224,7 +242,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231006",
-    "title": "Assembly 20231006",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x60.6cm",
     "thumb": "img/painting/Assembly 20231006/01.jpg",
@@ -235,7 +253,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231005",
-    "title": "Assembly 20231005",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 72.7x60.6cm",
     "thumb": "img/painting/Assembly 20231005/01.jpg",
@@ -245,8 +263,8 @@
   },
   {
     "type": "painting",
-    "id": "Block 20231002",
-    "title": "Block 20231002",
+    "id": "block 20231002",
+    "title": "Block",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 45.5x45.5cm",
     "thumb": "img/painting/Block 20231002/01.jpg",
@@ -257,7 +275,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230930",
-    "title": "Assembly 20230930",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 53x45.5cm",
     "thumb": "img/painting/Assembly 20230930/01.jpg",
@@ -267,21 +285,30 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230911",
-    "title": "Assembly 20230911",
+    "id": "Assembly 20230911-2",
+    "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x72.7cm (2ea)",
-    "thumb": "img/painting/Assembly 20230911/01.jpg",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x72.7cm",
+    "thumb": "img/painting/Assembly 20230911/03.jpg",
     "imgs": [
-      "img/painting/Assembly 20230911/01.jpg",
-      "img/painting/Assembly 20230911/02.jpg",
       "img/painting/Assembly 20230911/03.jpg"
     ]
   },
   {
     "type": "painting",
+    "id": "Assembly 20230911-1",
+    "title": "Assembly",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x72.7cm",
+    "thumb": "img/painting/Assembly 20230911/02.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230911/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20230824",
-    "title": "Assembly 20230824",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 45.5x53cm",
     "thumb": "img/painting/Assembly 20230824/01.jpg",
@@ -291,23 +318,52 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230901",
-    "title": "Assembly 20230901",
+    "id": "Assembly 20230801-4",
+    "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm (4ea)",
-    "thumb": "img/painting/Assembly 20230901/01.jpg",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "thumb": "img/painting/Assembly 20230901/05.jpg",
     "imgs": [
-      "img/painting/Assembly 20230901/01.jpg",
-      "img/painting/Assembly 20230901/02.jpg",
-      "img/painting/Assembly 20230901/03.jpg",
-      "img/painting/Assembly 20230901/04.jpg",
       "img/painting/Assembly 20230901/05.jpg"
     ]
   },
   {
     "type": "painting",
-    "id": "Assembly 20230904",
-    "title": "Assembly 20230904",
+    "id": "Assembly 20230801-3",
+    "title": "Assembly",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "thumb": "img/painting/Assembly 20230901/04.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230901/04.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230801-2",
+    "title": "Assembly",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "thumb": "img/painting/Assembly 20230901/03.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230901/03.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230801-1",
+    "title": "Assembly",
+    "year": 2023,
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "thumb": "img/painting/Assembly 20230901/02.jpg",
+    "imgs": [
+      "img/painting/Assembly 20230901/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20230404",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 80.3x80.3cm",
     "thumb": "img/painting/Assembly 20230904/01.jpg",
@@ -317,8 +373,8 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230919",
-    "title": "Assembly 20230919",
+    "id": "Assembly 20230119",
+    "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x53cm",
     "thumb": "img/painting/Assembly 20230919/01.jpg",
@@ -329,9 +385,9 @@
   {
     "type": "painting",
     "id": "untitled",
-    "title": "untitled",
+    "title": "Untitled",
     "year": 2022,
-    "caption": "2022, colored lego brick and acrylic on canvas, 72.7 x 60.6cm (2ea)",
+    "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm x 2개",
     "thumb": "img/painting/untitled/01.jpg",
     "imgs": [
       "img/painting/untitled/01.jpg",
@@ -343,7 +399,7 @@
     "id": "harmony",
     "title": "Harmony",
     "year": 2022,
-    "caption": "2022, colored lego brick and acrylic on canvas, 20 x 20cm",
+    "caption": "2022, Colored lego brick and acrylic on canvas, 20 x 20 cm",
     "thumb": "img/painting/harmony/01.jpg",
     "imgs": [
       "img/painting/harmony/01.jpg",
@@ -355,9 +411,9 @@
   {
     "type": "painting",
     "id": "composition5",
-    "title": "Composition 5 (Division – Unity)",
+    "title": "composition 5 (Division – Unity)",
     "year": 2022,
-    "caption": "2022, acrylic on canvas, 35cm x 35cm",
+    "caption": "2022, Acrylic on canvas, 35cm x 35cm",
     "thumb": "img/painting/composition-5/01.jpg",
     "imgs": [
       "img/painting/composition-5/01.jpg",
@@ -369,7 +425,7 @@
     "id": "assembly-2",
     "title": "Assembly",
     "year": 2022,
-    "caption": "2022, colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
+    "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6 cm",
     "thumb": "img/painting/assembly-2/01.jpg",
     "imgs": [
       "img/painting/assembly-2/01.jpg"
@@ -380,7 +436,7 @@
     "id": "assembly-1",
     "title": "Assembly",
     "year": 2022,
-    "caption": "2022, colored lego brick and acrylic on canvas, 160 x 132cm",
+    "caption": "2022, Colored lego brick and acrylic on canvas, 160 x 132 cm",
     "thumb": "img/painting/assembly-1/01.jpg",
     "imgs": [
       "img/painting/assembly-1/01.jpg",
@@ -391,9 +447,9 @@
   {
     "type": "painting",
     "id": "composition-2-1",
-    "title": "composition 2-1",
+    "title": "Composition 2-1",
     "year": 2022,
-    "caption": "2022, acrylic on canvas, 80.3cm x 80.3cm",
+    "caption": "2022, Acrylic on canvas, 80.3cm x 80.3cm",
     "thumb": "img/painting/composition-2-1/01.jpg",
     "imgs": [
       "img/painting/composition-2-1/01.jpg",
@@ -405,7 +461,7 @@
     "id": "assemble-landscape",
     "title": "Assemble landscape",
     "year": 2022,
-    "caption": "2022, acrylic on canvas, Dimensions variable (each 37.9 x 37.9cm)",
+    "caption": "2022, Acrylic on canvas, Dimensions variable (each 37.9 x 37.9cm)",
     "thumb": "img/painting/assemblelandscape/01.jpg",
     "imgs": [
       "img/painting/assemblelandscape/01.jpg",
@@ -415,49 +471,212 @@
   {
     "type": "painting",
     "id": "block211128",
-    "title": "Block 211128",
+    "title": "블록 21-2",
     "year": 2021,
-    "caption": "2021, acrylic on canvas, Dimensions variable",
+    "caption": "2021, Acrylic on canvas, Dimensions variable",
     "thumb": "img/painting/block211128/01.jpg",
     "imgs": [
       "img/painting/block211128/01.jpg",
       "img/painting/block211128/02.jpg",
       "img/painting/block211128/03.jpg"
-    ],
-    "text": "Experimental work on possibility and origin on Lego, not as a physical formative material but when reconstructed as a flat painting.\nIt changes its form even with the same limited colors and shapes through composition.\nshowing Lego's identity, assembly.\nEach form, geometric as a face and has attribute of nature, expresses a form, close to concrete art."
+    ]
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
-    "title": "Assemble Abstract",
+    "id": "assemble-abstract-16",
+    "title": "Assemble abstract",
     "year": 2021,
-    "caption": "2021, acrylic on canvas, 80.3 x 80.3 cm",
-    "thumb": "img/painting/assemble/thumb.jpg",
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/16.jpg",
     "imgs": [
-      "img/painting/assemble/thumb.jpg",
-      "img/painting/assemble/01.jpg",
-      "img/painting/assemble/02.jpg",
-      "img/painting/assemble/03.jpg",
-      "img/painting/assemble/04.jpg",
-      "img/painting/assemble/05.jpg",
-      "img/painting/assemble/06.jpg",
-      "img/painting/assemble/07.jpg",
-      "img/painting/assemble/08.jpg",
-      "img/painting/assemble/09.jpg",
-      "img/painting/assemble/10.jpg",
-      "img/painting/assemble/11.jpg",
-      "img/painting/assemble/12.jpg",
-      "img/painting/assemble/13.jpg",
-      "img/painting/assemble/14.jpg",
+      "img/painting/assemble/16.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-15",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/15.jpg",
+    "imgs": [
       "img/painting/assemble/15.jpg",
-      "img/painting/assemble/16.jpg"
-    ],
-    "text": "Color plane abstraction that established color variations, harmony and contrast, and equilibrium between balance and tension.\nEach painting can be assembled in a plane.\nThe block is implemented in a three-dimensional assembly, but the assemble abstract is a mobile painting that varies in various ways without being restricted to the location, and can be assembled in a rhythmic and flat form.\nIn the intensified form of the Composition 1 (Division – Unity), the composition series is a variation on the form, and the assemble abstract is a series of variations on the color."
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-14",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/14.jpg",
+    "imgs": [
+      "img/painting/assemble/14.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-13",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/13.jpg",
+    "imgs": [
+      "img/painting/assemble/13.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-12",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/12.jpg",
+    "imgs": [
+      "img/painting/assemble/12.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-11",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/11.jpg",
+    "imgs": [
+      "img/painting/assemble/11.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-10",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/10.jpg",
+    "imgs": [
+      "img/painting/assemble/10.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-9",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/09.jpg",
+    "imgs": [
+      "img/painting/assemble/09.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-8",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/08.jpg",
+    "imgs": [
+      "img/painting/assemble/08.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-7",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/07.jpg",
+    "imgs": [
+      "img/painting/assemble/07.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-6",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/06.jpg",
+    "imgs": [
+      "img/painting/assemble/06.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-5",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/05.jpg",
+    "imgs": [
+      "img/painting/assemble/05.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-4",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/04.jpg",
+    "imgs": [
+      "img/painting/assemble/04.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-3",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/03.jpg",
+    "imgs": [
+      "img/painting/assemble/03.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-2",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/02.jpg",
+    "imgs": [
+      "img/painting/assemble/02.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-abstract-1",
+    "title": "Assemble abstract",
+    "year": 2021,
+    "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
+    "thumb": "img/painting/assemble/01.jpg",
+    "imgs": [
+      "img/painting/assemble/01.jpg",
+      "img/painting/assemble/thumb.jpg"
+    ]
   },
   {
     "type": "painting",
     "id": "block210929",
-    "title": "Block 210929",
+    "title": "Block 21-1",
     "year": 2021,
     "caption": "2021, acrylic on canvas, Dimensions variable",
     "thumb": "img/painting/block210929/01.jpg",
@@ -523,7 +742,7 @@
   {
     "type": "painting",
     "id": "block201015",
-    "title": "Block 201015",
+    "title": "Block 20-1",
     "year": 2020,
     "caption": "2020, acrylic on canvas, Dimensions variable",
     "thumb": "img/painting/block201015/01.jpg",
@@ -998,6 +1217,10 @@
       {
         "title": "Design by",
         "text": "Wonhyuk Son"
+      },
+      {
+        "title": "Thanks to",
+        "text": "Sangmin Lee"
       }
     ],
     "thumb": "img/archive/2022-assemblogy/thumb.jpg",
@@ -1009,6 +1232,7 @@
       "img/archive/2022-assemblogy/07.jpg",
       "img/archive/2022-assemblogy/01.jpg",
       "img/archive/2022-assemblogy/03.jpg",
+      "img/painting/harmony/03.jpg",
       "img/archive/2022-assemblogy/04.jpg"
     ]
   },
