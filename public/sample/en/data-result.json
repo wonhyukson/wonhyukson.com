@@ -1143,8 +1143,7 @@
       "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/04.jpg",
       "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/05.jpg",
       "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/06.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/07.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/08.jpg"
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/07.jpg"
     ]
   },
   {
@@ -1266,14 +1265,7 @@
     ],
     "thumb": "img/archive/2021-singing-word/thumb.jpg",
     "imgs": [
-      "img/archive/2021-singing-word/thumb.jpg",
-      "img/archive/2021-singing-word/01.jpeg",
-      "img/archive/2021-singing-word/02.jpeg",
-      "img/archive/2021-singing-word/03.jpeg",
-      "img/archive/2021-singing-word/04.jpg",
-      "img/archive/2021-singing-word/05.jpg",
-      "img/archive/2021-singing-word/06.jpg",
-      "img/archive/2021-singing-word/07.jpg"
+      "img/archive/2021-singing-word/thumb.jpg"
     ]
   },
   {
@@ -1431,37 +1423,6 @@
       "img/archive/2020-contactless/04.jpeg",
       "img/archive/2020-contactless/05.png",
       "img/archive/2020-contactless/03.jpeg"
-    ]
-  },
-  {
-    "type": "archive",
-    "id": "20-dreamland",
-    "title": "Dream Land | Solo exhibition",
-    "year": 2020,
-    "caption": "October 15 - October 24, 2020",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "h.art.bridge"
-      },
-      {
-        "title": "Organized by",
-        "text": "h.art.bridge"
-      },
-      {
-        "title": "Supported by",
-        "text": "Arts Council Korea"
-      }
-    ],
-    "thumb": "img/archive/2020-dreamland/thumb.jpg",
-    "imgs": [
-      "img/archive/2020-dreamland/thumb.jpg",
-      "img/archive/2020-dreamland/01.jpg",
-      "img/archive/2020-dreamland/02.jpg",
-      "img/archive/2020-dreamland/03.jpg",
-      "img/archive/2020-dreamland/04.jpg",
-      "img/archive/2020-dreamland/05.jpg",
-      "img/archive/2020-dreamland/06.jpg"
     ]
   },
   {
