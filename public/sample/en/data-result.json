@@ -9,7 +9,7 @@
       "img/sculpture/assemblesculpture2/01.jpg",
       "img/sculpture/assemblesculpture2/02.jpg"
     ],
-    "caption": "2022, Acrylic on panel, colored lego brick, Dimensions variable (each 50 x 50 x 94cm x 4ea)"
+    "caption": "2022, Acrylic on panel, colored lego brick, Dimensions variable 94 x 50 x 50cm (4)"
   },
 
   {
@@ -23,7 +23,7 @@
       "img/sculpture/assemblesculpture/02.jpg",
       "img/sculpture/assemblesculpture/03.jpg"
     ],
-    "caption": "2022, Acrylic on panel, colored lego brick, Dimensions variable (each 50 x 50 x 94cm x 4ea)"
+    "caption": "2022, Acrylic on panel, colored lego brick, Dimensions variable 94 x 50 x 50cm (4)"
   },
   {
     "type": "sculpture",
@@ -34,7 +34,7 @@
     "imgs": [
       "img/sculpture/composition-6/01.jpg"
     ],
-    "caption": "2022, Acrylic on panel, colored lego brick, 35 x 35 x 20cm"
+    "caption": "2022, Acrylic on panel, colored lego brick, 20 x 35 x 35cm"
   },
   {
     "type": "sculpture",
@@ -48,7 +48,7 @@
       "img/sculpture/buddha/03.jpg",
       "img/sculpture/buddha/04.jpg"
     ],
-    "caption": "2021, Slikscreen on canvas, Tv, Lego brick, Dimensions variable (430 x 400 x 140cm)",
+    "caption": "2021, Slikscreen on canvas, Tv, Lego brick, Dimensions variable (140 x430 x 400cm)",
     "text": "An infinite white Buddha who expands and converges infinitely, whose expression and shape cannot be clearly seen, looks at the transparent Buddha.\nThrough the prism of the transparent Buddha's face, the white Buddha turns into the original digital colors RGB (Red, Green, Blue) and CMYK (Cyan, Magenta, Yellow, and Black).\nThrough the prism, the transmitted color circulates back to the infinite Buddha.\nAll of the colors circulate and can implement all the colors, expand and converge through the form of Buddha. In a color-circulating hourglass structure, the Buddha, which continuously expands and converges, circulates in a circle of 4-3-1-∞ (infinite)."
   },
   {
@@ -76,7 +76,7 @@
     "id": "hunchback",
     "title": "hunchback",
     "year": 2020,
-    "caption": "2020, Lego brick, 22.7 x 3 x 42.5cm",
+    "caption": "2020, Lego brick, 42.5 x 22.7 x 3cm",
     "thumb": "img/sculpture/hunchback/04.jpg",
     "imgs": [
       "img/sculpture/hunchback/01.jpg",
@@ -96,7 +96,7 @@
     "id": "opera",
     "title": "The fall of opera",
     "year": 2019,
-    "caption": "2019, Lego brick, 41 x 24 x94cm",
+    "caption": "2019, Lego brick, 94 x 41 x 24cm",
     "thumb": "img/sculpture/opera/01.jpg",
     "imgs": [
       "img/sculpture/opera/01.jpg",
@@ -116,7 +116,7 @@
     "id": "cathedral",
     "title": "St.Atlas cathedral",
     "year": 2018,
-    "caption": "2018, Lego brick, LED, 26 x 26 x 65cm",
+    "caption": "2018, Lego brick, LED, 65 x 26 x 26cm",
     "thumb": "img/sculpture/cathedral/01.jpg",
     "imgs": [
       "img/sculpture/cathedral/01.jpg",
@@ -136,7 +136,7 @@
     "id": "guitar",
     "title": "Millennium Falcon Guitar",
     "year": 2016,
-    "caption": "2016, Lego brick, LED, Bluetooth speaker, Guitar string, 94 x 33 x 14cm",
+    "caption": "2016, Lego brick, LED, Bluetooth speaker, Guitar string, 14 x 94 x 33cm",
     "thumb": "img/sculpture/guitar/01.jpg",
     "imgs": [
       "img/sculpture/guitar/01.jpg",
@@ -774,7 +774,7 @@
   {
     "type": "typography",
     "id": "book-Dream Land-assemblogy",
-    "title": "Dream Land·assemblogy",
+    "title": "Dream Land·assemblogy | Book",
     "year": 2023,
     "caption": "2023, Offset, Perfect binding, 203 x 254mm, 72page",
     "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
@@ -795,7 +795,7 @@
   {
     "type": "typography",
     "id": "spaceship",
-    "title": "Wrecked but seemingly undamaged spcaeship",
+    "title": "Wrecked but seemingly undamaged spcaeship | Poster",
     "year": 2022,
     "caption": "2022, Screen and Print on paper, 101.6 x 57.15cm(3840 x 2160px)",
     "thumb": "img/typography/spaceship/01.jpg",
@@ -806,7 +806,7 @@
   {
     "type": "typography",
     "id": "assemblogy",
-    "title": "Assemblogy: compose and combine poster",
+    "title": "Assemblogy: compose and combine | Poster",
     "year": 2022,
     "caption": "2021, print on paper, 59.4 x 84.1cm",
     "thumb": "img/typography/assemblogy/01.jpg",
@@ -817,7 +817,7 @@
   {
     "type": "typography",
     "id": "blue-wedge",
-    "title": "Beat the Reds with Blue wedge",
+    "title": "Beat the Reds with Blue wedge | Poster",
     "year": 2022,
     "caption": "2022, Print on paper, 29.9 x 24.1cm",
     "thumb": "img/typography/blue-wedge/01.jpg",
@@ -829,7 +829,7 @@
   {
     "type": "typography",
     "id": "poster-buddha",
-    "title": "Dream Land : color poster",
+    "title": "Dream Land : color | Poster",
     "year": 2021,
     "caption": "2021, print on paper, 59.4 x 84.1cm",
     "thumb": "img/typography/buddha/01.jpg",
@@ -844,7 +844,7 @@
   {
     "type": "typography",
     "id": "rainwater",
-    "title": "Rainwater",
+    "title": "Rainwater | Poster",
     "year": 2021,
     "caption": "2021, illustration, 59.4 x 84.1cm",
     "thumb": "img/typography/rainwater/01.jpg",
@@ -856,7 +856,7 @@
   {
     "type": "typography",
     "id": "cycle-gestalt",
-    "title": "Cycle (gestalt)",
+    "title": "Cycle (gestalt) | Poster",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/01.jpg",
@@ -871,7 +871,7 @@
   {
     "type": "typography",
     "id": "cycle-triangle",
-    "title": "Cycle (triangle)",
+    "title": "Cycle (triangle) | Poster",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/02.jpg",
@@ -886,7 +886,7 @@
   {
     "type": "typography",
     "id": "cycle-circle",
-    "title": "Cycle (circle)",
+    "title": "Cycle (circle) | Poster",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/03.jpg",
@@ -901,7 +901,7 @@
   {
     "type": "typography",
     "id": "cycle-square",
-    "title": "Cycle (square)",
+    "title": "Cycle (square) | Poster",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/04.jpg",
