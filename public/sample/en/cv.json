@@ -34,12 +34,6 @@
         "title": "Group Exhibitions",
         "items": [
           {
-            "year": "2023",
-            "text": [
-              "Portrait (CICA Museum, Gimpo, Korea)"
-            ]
-          },
-          {
             "year": "2022",
             "text": [
               "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
@@ -65,10 +59,15 @@
         "title": "Awards and Grants",
         "items": [
           {
+            "year": "2024",
+            "text": [
+              "Incheon Foundation For Arts & Culture grant"
+            ]
+          },
+          {
             "year": "2023",
             "text": [
-              "Incheon Foundation For Arts & Culture grant",
-              "Incheon Foundation For Arts & Culture, Space ilbu grant"
+              "Incheon Foundation For Arts & Culture grant"
             ]
           },
           {
@@ -85,7 +84,7 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』 Independent Publishing"
+              "『Dream Land·assemblogy』, Independent Publishing"
             ]
           }
         ]
@@ -175,6 +174,12 @@
       "prizeArchive": {
         "title": "Awards and Grants",
         "items": [
+          {
+            "year": "2024",
+            "text": [
+              "Incheon Foundation For Arts & Culture grant"
+            ]
+          },
           {
             "year": "2023",
             "text": [
