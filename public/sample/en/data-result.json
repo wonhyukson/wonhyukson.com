@@ -1056,6 +1056,39 @@
   },
   {
     "type": "archive",
+    "id": "24-assembly",
+    "title": "Assembly | Solo exhibition",
+    "year": 2024,
+    "caption": "October 9 - 20, 2024",
+    "info": [
+      {
+        "title": "Venue",
+        "text": "Buyeon"
+      },
+      {
+        "title": "text by",
+        "text": "Yoonji Cho"
+      },
+      {
+        "title": "Designed by",
+        "text": "Jisook Moon"
+      },
+      {
+        "title": "Photo by",
+        "text": "Heesang Ahn"
+      },
+      {
+        "title": "Sponsored by",
+        "text": "Incheon Metropolitan City, Incheon Foundation for Arts and Culture, Space Ilbu"
+      }
+    ],
+    "thumb": "img/archive/2024-assembly/thumb.jpg",
+    "imgs": [
+      "img/archive/2024-assembly/thumb.jpg"
+    ]
+  },
+  {
+    "type": "archive",
     "id": "23-portrait",
     "title": "Portrait | Group exhibition",
     "year": 2023,

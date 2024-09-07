@@ -1045,6 +1045,39 @@
       {
         "title": "소개",
         "text": "『진동새와 손편지』는 (1) 한국타이포그라피학회의 열여섯 번째 전시이자, (2) SF 소설가 김초엽의 신작 소설이자, (3) 한국타이포그라피학회 회원 및 비회원 194명/팀이 참여한 26분 길이의 영상 작품이자, (4) 작품과 참여자를 종이 위에 망라한 오프라인 출판물이자, (5) 작품과 참여자를 웹사이트상에 망라한 온라인 출판물이다."
+      },
+      {
+        "type": "archive",
+        "id": "24-assembly",
+        "title": "조립 | 개인전",
+        "year": 2024,
+        "caption": "2024년 10월 9일 - 10월 20일",
+        "info": [
+          {
+            "title": "장소",
+            "text": "부연"
+          },
+          {
+            "title": "글",
+            "text": "조윤지"
+          },
+          {
+            "title": "디자인",
+            "text": "문지숙"
+          },
+          {
+            "title": "사진",
+            "text": "안희상"
+          },
+          {
+            "title": "후원",
+            "text": "인천시, 인천문화재단, 시작공간일부"
+          }
+        ],
+        "thumb": "img/archive/2024-assembly/thumb.jpg",
+        "imgs": [
+          "img/archive/2024-assembly/thumb.jpg"
+        ]
       }
     ],
     "thumb": "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
