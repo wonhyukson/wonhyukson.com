@@ -915,6 +915,32 @@
   },
   {
     "type": "news",
+    "id": "24-T incheon",
+    "title": "Art·T Incheon",
+    "year": 2024,
+    "caption": "November 1 - December 1, 2024",
+    "info": [
+      {
+        "title": "Hosted by",
+        "text": "Incheon Foundation for Arts and Culture"
+      },
+      {
+        "title": "Venue",
+        "text": "Cafe Taeo"
+      },
+      {
+        "title": "Sponsored by",
+        "text": "Incheon Metropolitan City, Incheon Foundation for Arts and Culture"
+      }
+    ],
+    "thumb": "img/news/24-T incheon/01.jpg",
+    "imgs": [
+      "img/news/24-T incheon/01.jpg",
+      "img/news/24-T incheon/02.jpg"
+    ]
+  },
+  {
+    "type": "news",
     "id": "23-Dream Land-assemblogy",
     "title": "Dream Land·assemblogy | Publication",
     "year": 2023,
@@ -1056,6 +1082,72 @@
   },
   {
     "type": "archive",
+    "id": "24-Wess",
+    "title": "Exhibition / Publication | Group exhibition",
+    "year": 2024,
+    "caption": "December 5 - 8, 2024",
+    "info": [
+      {
+        "title": "Venue",
+        "text": "daPalm"
+      },
+      {
+        "title": "Organized by",
+        "text": "WESS"
+      },
+      {
+        "title": "Cooperated with",
+        "text": "Adocs"
+      },
+      {
+        "title": "Coordinated by",
+        "text": "Jiyul fog"
+      },
+      {
+        "title": "Graphic Design by",
+        "text": "Bulldozer"
+      }
+    ],
+    "thumb": "img/archive/2024-wess/01.jpg",
+    "imgs": [
+      "img/archive/2024-wess/01.jpg"
+    ]
+  },
+  {
+    "type": "archive",
+    "id": "24-observer",
+    "title": "Harmonic Drive | Group exhibition",
+    "year": 2024,
+    "caption": "November 15 - December 7, 2024",
+    "info": [
+      {
+        "title": "Venue",
+        "text": "Hyeong OK"
+      },
+      {
+        "title": "Organized by",
+        "text": "OS (Observer: Sculpture)"
+      },
+      {
+        "title": "Curated by",
+        "text": "OS Curator team"
+      },
+      {
+        "title": "Photo by",
+        "text": "Yang IAn"
+      },
+      {
+        "title": "Sponsored by",
+        "text": "Hyeong OK"
+      }
+    ],
+    "thumb":"img/archive/2024-observer/01.jpg",
+    "imgs": [
+      "img/archive/2024-observer/01.jpg"
+    ]
+  },
+  {
+    "type": "archive",
     "id": "24-assembly",
     "title": "Assembly | Solo exhibition",
     "year": 2024,
@@ -1066,11 +1158,15 @@
         "text": "Buyeon"
       },
       {
+        "title": "Organized by",
+        "text": "Wonhyuk Son"
+      },
+      {
         "title": "Text by",
         "text": "Yoonji Cho"
       },
       {
-        "title": "Designed by",
+        "title": "Poster designed by",
         "text": "Jisook Moon"
       },
       {
