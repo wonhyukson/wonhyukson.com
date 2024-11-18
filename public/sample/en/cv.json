@@ -19,7 +19,7 @@
           {
             "year": "2024",
             "text": [
-              "Assembly (Buyeon, Incheon)"
+              "Assembly (Buyeon, Incheon, Korea)"
             ]
           },
           {
@@ -37,19 +37,19 @@
         ]
       },
       "groupExhibition": {
-        "title": "Group Exhibitions",
+        "title": "Group Exhibitions (*catalog)",
         "items": [
           {
             "year": "2024",
             "text": [
-              "Forthcoming | WESS Exhibition / Publication (daPalm, Seoul, Korea)",
-              "Forthcoming | Harmonic Drive (Hyeong OK, Seoul, Korea)"
+              "WESS Exhibition / Publication (daPalm, Seoul, Korea)",
+              "Harmonic Drive (moonrise kingdom, Seoul, Korea)*"
             ]
           },
           {
             "year": "2022",
             "text": [
-              "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
+              "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)*",
               "VENOMOLD (Gallery OOOJH, Seoul, Korea)"
             ]
           },
@@ -90,7 +90,7 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』, Independent Publishing"
+              "Independent Publishing 『Dream Land·assemblogy』"
             ]
           }
         ]
@@ -135,13 +135,13 @@
         ]
       },
       "groupExhibition": {
-        "title": "Group Exhibitions",
+        "title": "Group Exhibitions (*catalog)",
         "items": [
           {
             "year": "2024",
             "text": [
-              "Forthcoming | WESS Exhibition / Publication (daPalm, Seoul, Korea)",
-              "Forthcoming | Harmonic Drive (Hyeong OK, Seoul, Korea)"
+              "WESS Exhibition / Publication (daPalm, Seoul, Korea)",
+              "Harmonic Drive (moonrise kingdom, Seoul, Korea)*"
             ]
           },
           {
@@ -153,7 +153,7 @@
           {
             "year": "2022",
             "text": [
-              "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
+              "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)*",
               "VENOMOLD (Gallery OOOJH, Seoul, Korea)"
             ]
           },
@@ -254,7 +254,7 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』, Independent Publishing"
+              "Independent Publishing 『Dream Land·assemblogy』"
             ]
           }
         ]

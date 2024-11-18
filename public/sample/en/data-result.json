@@ -1089,7 +1089,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "daPalm"
+        "text": "daPalm (108, Eulji-ro, Jung-gu, Seoul, South Korea)"
       },
       {
         "title": "Organized by",
@@ -1118,11 +1118,11 @@
     "id": "24-observer",
     "title": "Harmonic Drive | Group exhibition",
     "year": 2024,
-    "caption": "November 15 - December 7, 2024",
+    "caption": "November 22 - December 13, 2024",
     "info": [
       {
         "title": "Venue",
-        "text": "Hyeong OK"
+        "text": "moonrise kingdom (17-22, Jangwi-ro 31-gil, Seongbuk-gu, Seoul, South Korea)"
       },
       {
         "title": "Organized by",
@@ -1133,12 +1133,20 @@
         "text": "OS Curator team"
       },
       {
+        "title": "Designed by",
+        "text": "Minhoon Kim, Soee yang, Minjae Joo"
+      },
+      {
         "title": "Photo by",
         "text": "Yang IAn"
       },
       {
         "title": "Sponsored by",
-        "text": "Hyeong OK"
+        "text": "Art Space Hyeong"
+      },
+      {
+        "title": "Cooperated with",
+        "text": "moonrise kingdom"
       }
     ],
     "thumb":"img/archive/2024-observer/01.jpg",
@@ -1155,7 +1163,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Buyeon"
+        "text": "Buyeon (8, Gaehang-ro 106beon-gil, Jung-gu, Incheon, South Korea)"
       },
       {
         "title": "Organized by",
@@ -1201,7 +1209,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "CICA Museum"
+        "text": "CICA Museum (196-30, Samdo-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do, South Korea)"
       },
       {
         "title": "Hosted by",
@@ -1229,7 +1237,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Online·Offline: 《Ob/Scene Festival》Art Sonje Center, S.A.P"
+        "text": "Online·Offline: 《Ob/Scene Festival》Art Sonje Center, S.A.P (87, Yulgok-ro 3-gil, Jongno-gu and 26-26, Kyonggidae-ro, Seodaemun-gu, Seoul, South Korea)"
       },
       {
         "title": "Period",
@@ -1293,7 +1301,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Gallery OOOJH"
+        "text": "Gallery OOOJH (121, Dongho-ro 17-gil, Jung-gu, Seoul, South Korea)"
       },
       {
         "title": "Hosted by",
@@ -1337,7 +1345,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "CICA Museum"
+        "text": "CICA Museum (196-30, Samdo-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do, South Korea)"
       },
       {
         "title": "Hosted by",
@@ -1382,7 +1390,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Online·Offline: 《Seoul Design Festival 2022》COEX"
+        "text": "Online·Offline: 《Seoul Design Festival 2022》COEX (513, Yeongdong-daero, Gangnam-gu, Seoul, South Korea)"
       },
       {
         "title": "Period",
@@ -1415,7 +1423,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Gwangmyeong Civic center"
+        "text": "Gwangmyeong Civic center (20, Sicheong-ro, Gwangmyeong-si, Gyeonggi-do, South Korea)"
       },
       {
         "title": "Organized by",
@@ -1470,7 +1478,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Dongduk art gallery"
+        "text": "Dongduk art gallery (68, Ujeongguk-ro, Jongno-gu, Seoul, South Korea)"
       },
       {
         "title": "Organized by",
@@ -1507,7 +1515,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "CICA Museum"
+        "text": "CICA Museum (196-30, Samdo-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do, South Korea)"
       },
       {
         "title": "Organized by",
@@ -1533,7 +1541,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Online·Offline:《Typojanchi saisai 2020-2021: International Typography Biennale》Culture Station Seoul 284 RTO"
+        "text": "Online·Offline:《Typojanchi saisai 2020-2021: International Typography Biennale》Culture Station Seoul 284 RTO (1, Tongil-ro, Jung-gu, Seoul, South Korea)"
       },
       {
         "title": "Period",
@@ -1572,7 +1580,7 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Gallery We"
+        "text": "Gallery We (15-1, Dosan-daero 56-gil, Gangnam-gu, Seoul, South Korea)"
       },
       {
         "title": "Organized by",
@@ -1581,12 +1589,3 @@
       {
         "title": "Supported by",
         "text": "Korean Fine Arts Association, Seoul Cultural Public Relations Institution "
-      }
-    ],
-    "thumb": "img/archive/2018-young-artist/thumb.jpg",
-    "imgs": [
-      "img/archive/2018-young-artist/thumb.jpg",
-      "img/archive/2018-young-artist/02.jpg"
-    ]
-  }
-]
