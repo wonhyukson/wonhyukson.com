@@ -1,6 +1,18 @@
 [
   {
     "type": "sculpture",
+    "id": "assemble-sculpture24",
+    "title": "조립 조각",
+    "year": 2024,
+    "thumb": "img/sculpture/assemblesculpture24/01.jpg",
+    "imgs": [
+      "img/sculpture/assemblesculpture24/01.jpg",
+      "img/sculpture/assemblesculpture24/02.jpg"
+    ],
+    "caption": "미장공 협업, 2024, 판넬에 모르타르, 시멘트, 메쉬망, 아크릴릭, 가변크기 37.9 x 37.9 x 2.5cm (8)"
+  },
+  {
+    "type": "sculpture",
     "id": "assemble-sculpture2",
     "title": "조립 조각 22-1",
     "year": 2022,
@@ -1141,6 +1153,10 @@
         "text": "양소이, 주민재"
       },
       {
+        "title": "사진",
+        "text": "신유진"
+      },
+      {
         "title": "후원",
         "text": "공간형"
       },
@@ -1149,9 +1165,19 @@
         "text": "OS, 문라이즈킹덤"
       }
     ],
-    "thumb":"img/archive/2024-observer/01.jpg",
+    "thumb":"img/archive/2024-observer/thumb.jpg",
     "imgs": [
-      "img/archive/2024-observer/01.jpg"
+      "img/archive/2024-observer/thumb.jpg",
+      "img/archive/2024-observer/04.jpg",
+      "img/archive/2024-observer/05.jpg",
+      "img/archive/2024-observer/06.jpg",
+      "img/archive/2024-observer/07.jpg",
+      "img/archive/2024-observer/01.jpg",
+      "img/archive/2024-observer/02.jpg",
+      "img/archive/2024-observer/03.jpg",
+      "img/archive/2024-observer/08.jpg",
+      "img/archive/2024-observer/09.jpg",
+      "img/archive/2024-observer/10.jpg"
     ]
   },
   {

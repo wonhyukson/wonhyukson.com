@@ -1,6 +1,18 @@
 [
   {
     "type": "sculpture",
+    "id": "assemble-sculpture24",
+    "title": "Assemble sculpture 24",
+    "year": 2024,
+    "thumb": "img/sculpture/assemblesculpture24/01.jpg",
+    "imgs": [
+      "img/sculpture/assemblesculpture24/01.jpg",
+      "img/sculpture/assemblesculpture24/02.jpg"
+    ],
+    "caption": "Collaboration with Plasterer, 2024, mortar, cement, mesh net, Acrylic on panel, Dimensions variable 37.9 x 37.9 x 2.5cm (8)"
+  },
+  {
+    "type": "sculpture",
     "id": "assemble-sculpture2",
     "title": "Assemble sculpture 22-1",
     "year": 2022,
@@ -1137,9 +1149,14 @@
         "text": "Minhoon Kim, Joongkyun Kim"
       },
       {
+        "title": "Photo by",
+        "text": "Yujin Shin"
+      },
+      {
         "title": "Designed by",
         "text": "Soee yang, Minjae Joo"
       },
+
       {
         "title": "Sponsored by",
         "text": "Art Space Hyeong"
@@ -1149,9 +1166,19 @@
         "text": "OS, moonrise kingdom"
       }
     ],
-    "thumb":"img/archive/2024-observer/01.jpg",
+    "thumb":"img/archive/2024-observer/thumb.jpg",
     "imgs": [
-      "img/archive/2024-observer/01.jpg"
+      "img/archive/2024-observer/thumb.jpg",
+      "img/archive/2024-observer/04.jpg",
+      "img/archive/2024-observer/05.jpg",
+      "img/archive/2024-observer/06.jpg",
+      "img/archive/2024-observer/07.jpg",
+      "img/archive/2024-observer/01.jpg",
+      "img/archive/2024-observer/02.jpg",
+      "img/archive/2024-observer/03.jpg",
+      "img/archive/2024-observer/08.jpg",
+      "img/archive/2024-observer/09.jpg",
+      "img/archive/2024-observer/10.jpg"
     ]
   },
   {
