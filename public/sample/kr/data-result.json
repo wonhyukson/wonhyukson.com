@@ -1118,11 +1118,24 @@
       {
         "title": "디자인",
         "text": "불도저"
+      },
+      {
+        "title": "사진",
+        "text": "최연근"
       }
     ],
-    "thumb": "img/archive/2024-wess/01.jpg",
+    "thumb": "img/archive/2024-wess/thumb.jpg",
     "imgs": [
-      "img/archive/2024-wess/01.jpg"
+      "img/archive/2024-wess/thumb.jpg",
+      "img/archive/2024-wess/01.jpg",
+      "img/archive/2024-wess/02.jpg",
+      "img/archive/2024-wess/03.jpg",
+      "img/archive/2024-wess/04.jpg",
+      "img/archive/2024-wess/05.jpg",
+      "img/archive/2024-wess/06.jpg",
+      "img/archive/2024-wess/07.jpg",
+      "img/archive/2024-wess/08.jpg",
+      "img/archive/2024-wess/09.png"
     ]
   },
   {
