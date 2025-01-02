@@ -13,6 +13,19 @@
   },
   {
     "type": "sculpture",
+    "id": "assemble-sculpture20240901",
+    "title": "조립 조각",
+    "year": 2024,
+    "thumb": "img/sculpture/assemblesculpture20240901/01.jpg",
+    "imgs": [
+      "img/sculpture/assemblesculpture20240901/01.jpg",
+      "img/sculpture/assemblesculpture20240901/02.jpg",
+      "img/sculpture/assemblesculpture20240901/03.jpg"
+    ],
+    "caption": "2024, 판넬에 아크릴릭, 채색된 레고 블록, 가변크기 72.7 x 60.6 x 7.5cm (3)"
+  },
+  {
+    "type": "sculpture",
     "id": "assemble-sculpture2",
     "title": "조립 조각 22-1",
     "year": 2022,
@@ -164,6 +177,45 @@
   },
   {
     "type": "painting",
+    "id": "Assembly 20240909",
+    "title": "조립",
+    "year": 2024,
+    "caption": "2024, 캔버스에 아크릴릭 및 채색된 레고, 160 x 132cm",
+    "thumb": "img/painting/Assembly 20240909/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20240909/01.jpg",
+      "img/painting/Assembly 20240909/02.jpg",
+      "img/painting/Assembly 20240909/03.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20240630",
+    "title": "조립",
+    "year": 2024,
+    "caption": "2024, 캔버스에 아크릴릭 및 채색된 레고, 145.5 x 112.1cm (2)",
+    "thumb": "img/painting/Assembly 20240630/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20240630/01.jpg",
+      "img/painting/Assembly 20240630/02.jpg",
+      "img/painting/Assembly 20240630/03.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly 20240519",
+    "title": "조립",
+    "year": 2024,
+    "caption": "2024, 캔버스에 아크릴릭, 160 x 132cm",
+    "thumb": "img/painting/Assembly 20240519/01.jpg",
+    "imgs": [
+      "img/painting/Assembly 20240519/01.jpg",
+      "img/painting/Assembly 20240519/02.jpg",
+      "img/painting/Assembly 20240519/03.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20231107-2",
     "title": "조립",
     "year": 2023,
@@ -192,7 +244,9 @@
     "caption": "2023, 캔버스에 아크릴릭, 90.9x72.7cm",
     "thumb": "img/painting/Assembly 20231106/01.jpg",
     "imgs": [
-      "img/painting/Assembly 20231106/01.jpg"
+      "img/painting/Assembly 20231106/01.jpg",
+      "img/painting/Assembly 20231106/02.jpg",
+      "img/painting/Assembly 20231106/03.jpg"
     ]
   },
   {
@@ -291,7 +345,9 @@
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 53x45.5cm",
     "thumb": "img/painting/Assembly 20230930/01.jpg",
     "imgs": [
-      "img/painting/Assembly 20230930/01.jpg"
+      "img/painting/Assembly 20230930/01.jpg",
+      "img/painting/Assembly 20230930/02.jpg",
+      "img/painting/Assembly 20230930/03.jpg"
     ]
   },
   {
