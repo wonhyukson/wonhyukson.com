@@ -73,7 +73,7 @@
       "img/sculpture/buddha/03.jpg",
       "img/sculpture/buddha/04.jpg"
     ],
-    "caption": "2021, Slikscreen on canvas, Tv, Lego brick, Dimensions variable (140 x430 x 400cm)",
+    "caption": "2021, Slikscreen on canvas, Tv, Lego brick, Dimensions variable (140 x 430 x 400cm)",
     "text": "An infinite white Buddha who expands and converges infinitely, whose expression and shape cannot be clearly seen, looks at the transparent Buddha.\nThrough the prism of the transparent Buddha's face, the white Buddha turns into the original digital colors RGB (Red, Green, Blue) and CMYK (Cyan, Magenta, Yellow, and Black).\nThrough the prism, the transmitted color circulates back to the infinite Buddha.\nAll of the colors circulate and can implement all the colors, expand and converge through the form of Buddha. In a color-circulating hourglass structure, the Buddha, which continuously expands and converges, circulates in a circle of 4-3-1-∞ (infinite)."
   },
   {
@@ -81,7 +81,7 @@
     "id": "194",
     "title": "194",
     "year": 2020,
-    "caption": "2020, Lego brick on acrylic, 86.6 x 65 cm",
+    "caption": "2020, Lego brick on acrylic, 86.6 x 65cm",
     "thumb": "img/sculpture/194/01.jpg",
     "imgs": [
       "img/sculpture/194/01.jpg",
@@ -217,10 +217,34 @@
   },
   {
     "type": "painting",
+    "id": "Assembly-dawn",
+    "title": "조립 여명",
+    "year": 2024,
+    "caption": "2024, 캔버스에 아크릴릭, 37.9 x 37.9cm",
+    "thumb": "img/painting/Assembly-dawn/02.jpg",
+    "imgs": [
+      "img/painting/Assembly-dawn/02.jpg",
+      "img/painting/Assembly-dawn/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly-dawn",
+    "title": "조립 여명",
+    "year": 2024,
+    "caption": "2024, 캔버스에 아크릴릭, 37.9 x 37.9cm",
+    "thumb": "img/painting/Assembly-dawn/01.jpg",
+    "imgs": [
+      "img/painting/Assembly-dawn/01.jpg",
+      "img/painting/Assembly-dawn/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20231107-2",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x60.6cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231107/03.jpg",
     "imgs": [
       "img/painting/Assembly 20231107/03.jpg"
@@ -231,7 +255,7 @@
     "id": "Assembly 20231107-1",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x60.6cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231107/02.jpg",
     "imgs": [
       "img/painting/Assembly 20231107/02.jpg"
@@ -242,7 +266,7 @@
     "id": "Assembly 20231106",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Acrylic on canvas, 90.9x72.7cm",
+    "caption": "2023, Acrylic on canvas, 90.9 x 72.7cm",
     "thumb": "img/painting/Assembly 20231106/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231106/01.jpg",
@@ -252,24 +276,14 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231028-2",
+    "id": "Assembly 20231028",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x91cm",
-    "thumb": "img/painting/Assembly 20231028/03.jpg",
-    "imgs": [
-      "img/painting/Assembly 20231028/03.jpg"
-    ]
-  },
-  {
-    "type": "painting",
-    "id": "Assembly 20231028-1",
-    "title": "Assembly",
-    "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x91cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8 x 91cm (2)",
     "thumb": "img/painting/Assembly 20231028/02.jpg",
     "imgs": [
-      "img/painting/Assembly 20231028/02.jpg"
+      "img/painting/Assembly 20231028/02.jpg",
+      "img/painting/Assembly 20231028/03.jpg"
     ]
   },
   {
@@ -277,7 +291,7 @@
     "id": "Assembly 20231021",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Acrylic, slikscreen on paper, 39.4x27.2cm",
+    "caption": "2023, Acrylic, slikscreen on paper, 39.4 x 27.2cm",
     "thumb": "img/painting/Assembly 20231021/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231021/01.jpg"
@@ -288,7 +302,7 @@
     "id": "Assembly 20231020",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Slikscreen on paper, 39.4x27.2cm",
+    "caption": "2023, Slikscreen on paper, 39.4 x 27.2cm",
     "thumb": "img/painting/Assembly 20231020/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231020/01.jpg"
@@ -299,7 +313,7 @@
     "id": "Assembly 20231011",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Acrylic on canvas, 24.2x24.2cm",
+    "caption": "2023, Acrylic on canvas, 24.2 x 24.2cm",
     "thumb": "img/painting/Assembly 20231011/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231011/01.jpg"
@@ -310,7 +324,7 @@
     "id": "Assembly 20231006",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x60.6cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231006/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231006/01.jpg"
@@ -321,7 +335,7 @@
     "id": "Assembly 20231005",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Acrylic on canvas, 72.7x60.6cm",
+    "caption": "2023, Acrylic on canvas, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231005/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231005/01.jpg"
@@ -332,7 +346,7 @@
     "id": "block 20231002",
     "title": "Block",
     "year": 2023,
-    "caption": "2023, Acrylic on canvas, 45.5x45.5cm",
+    "caption": "2023, Acrylic on canvas, 45.5 x 45.5cm",
     "thumb": "img/painting/Block 20231002/01.jpg",
     "imgs": [
       "img/painting/Block 20231002/01.jpg"
@@ -343,7 +357,7 @@
     "id": "Assembly 20230930",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 53x45.5cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 53 x 45.5cm",
     "thumb": "img/painting/Assembly 20230930/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230930/01.jpg",
@@ -353,24 +367,14 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230911-2",
-    "title": "Assembly",
-    "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x72.7cm",
-    "thumb": "img/painting/Assembly 20230911/03.jpg",
-    "imgs": [
-      "img/painting/Assembly 20230911/03.jpg"
-    ]
-  },
-  {
-    "type": "painting",
     "id": "Assembly 20230911-1",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8x72.7cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 116.8 x 72.7cm (2)",
     "thumb": "img/painting/Assembly 20230911/02.jpg",
     "imgs": [
-      "img/painting/Assembly 20230911/02.jpg"
+      "img/painting/Assembly 20230911/02.jpg",
+      "img/painting/Assembly 20230911/03.jpg"
     ]
   },
   {
@@ -378,7 +382,7 @@
     "id": "Assembly 20230824",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Acrylic on canvas, 45.5x53cm",
+    "caption": "2023, Acrylic on canvas, 45.5 x 53cm",
     "thumb": "img/painting/Assembly 20230824/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230824/01.jpg"
@@ -389,7 +393,7 @@
     "id": "Assembly 20230801-4",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/05.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/05.jpg"
@@ -400,7 +404,7 @@
     "id": "Assembly 20230801-3",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/04.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/04.jpg"
@@ -411,7 +415,7 @@
     "id": "Assembly 20230801-2",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/03.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/03.jpg"
@@ -422,7 +426,7 @@
     "id": "Assembly 20230801-1",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/02.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/02.jpg"
@@ -433,7 +437,7 @@
     "id": "Assembly 20230404",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 80.3x80.3cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 80.3 x 80.3cm",
     "thumb": "img/painting/Assembly 20230904/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230904/01.jpg"
@@ -444,7 +448,7 @@
     "id": "Assembly 20230119",
     "title": "Assembly",
     "year": 2023,
-    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x53cm",
+    "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 53cm",
     "thumb": "img/painting/Assembly 20230919/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230919/01.jpg"
@@ -455,7 +459,7 @@
     "id": "untitled",
     "title": "Untitled",
     "year": 2022,
-    "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm x 2개",
+    "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm (2)",
     "thumb": "img/painting/untitled/01.jpg",
     "imgs": [
       "img/painting/untitled/01.jpg",
@@ -467,7 +471,7 @@
     "id": "harmony",
     "title": "Harmony",
     "year": 2022,
-    "caption": "2022, Colored lego brick and acrylic on canvas, 60.6 x 60.6 cm",
+    "caption": "2022, Colored lego brick and acrylic on canvas, 60.6 x 60.6cm",
     "thumb": "img/painting/harmony/01.jpg",
     "imgs": [
       "img/painting/harmony/01.jpg",
@@ -493,7 +497,7 @@
     "id": "assembly-2",
     "title": "Assembly",
     "year": 2022,
-    "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6 cm",
+    "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
     "thumb": "img/painting/assembly-2/01.jpg",
     "imgs": [
       "img/painting/assembly-2/01.jpg"
@@ -529,7 +533,7 @@
     "id": "assemble-landscape",
     "title": "Assemble landscape",
     "year": 2022,
-    "caption": "2022, Acrylic on canvas, Dimensions variable (each 37.9 x 37.9cm)",
+    "caption": "2022, Acrylic on canvas, Dimensions variable 37.9 x 37.9cm (58)",
     "thumb": "img/painting/assemblelandscape/01.jpg",
     "imgs": [
       "img/painting/assemblelandscape/01.jpg",
@@ -541,7 +545,7 @@
     "id": "block211128",
     "title": "블록 21-2",
     "year": 2021,
-    "caption": "2021, Acrylic on canvas, Dimensions variable",
+    "caption": "2021, Acrylic on canvas, Dimensions variable 35 x 35cm (16)",
     "thumb": "img/painting/block211128/01.jpg",
     "imgs": [
       "img/painting/block211128/01.jpg",
@@ -746,7 +750,7 @@
     "id": "block210929",
     "title": "Block 21-1",
     "year": 2021,
-    "caption": "2021, acrylic on canvas, Dimensions variable",
+    "caption": "2021, acrylic on canvas, Dimensions variable 35 x 35cm (13)",
     "thumb": "img/painting/block210929/01.jpg",
     "imgs": [
       "img/painting/block210929/01.jpg",
@@ -812,7 +816,7 @@
     "id": "block201015",
     "title": "Block 20-1",
     "year": 2020,
-    "caption": "2020, acrylic on canvas, Dimensions variable",
+    "caption": "2020, acrylic on canvas, Dimensions variable 35 x 35cm (16)",
     "thumb": "img/painting/block201015/01.jpg",
     "imgs": [
       "img/painting/block201015/01.jpg",
@@ -865,7 +869,7 @@
     "id": "spaceship",
     "title": "Wrecked but seemingly undamaged spcaeship | Poster",
     "year": 2022,
-    "caption": "2022, Screen and Print on paper, 101.6 x 57.15cm(3840 x 2160px)",
+    "caption": "2022, Screen and Print on paper, 101.6 x 57.15cm (3840 x 2160px)",
     "thumb": "img/typography/spaceship/01.jpg",
     "imgs": [
       "img/typography/spaceship/01.jpg"

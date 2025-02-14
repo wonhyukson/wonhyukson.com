@@ -72,7 +72,7 @@
       "img/sculpture/buddha/03.jpg",
       "img/sculpture/buddha/04.jpg"
     ],
-    "caption": "2021, 캔버스에 실크스크린, TV, 레고 블록, 가변크기 (140 x430 x 400cm)",
+    "caption": "2021, 캔버스에 실크스크린, TV, 레고 블록, 가변크기 (140 x 430 x 400cm)",
     "text": "색의 순환과 부처의 확장.\n표정과 형태가 명확히 보이지 않는, 무한히 확장하며 수렴하는 무한(無限)의 흰색 부처가 투명한 부처를 바라본다.\n프리즘의 역할을 하는 투명한 부처의 얼굴을 지나 흰색 부처는 디지털의 원색인 RGB (빨강, 초록, 파랑)의 부처와 아날로그의 원색인 CMYK(시안, 마젠타, 노랑, 검정)의 부처로 확장한다.\n그렇게 프리즘으로 투과된 색은 무한의 부처로 다시 순환한다.\n모든 색은 순환하며 모든 색을 구현할 수 있으며 부처의 형태를 통해 확장되며 수렴된다.\n시작과 끝이 존재하지 않으며 끊임없이 확장하고 수렴하는 부처는 색으로 순환되는 모래시계 구조로 4-3-1-∞(무한)으로 순환한다.\n색으로 분리된 부처는 선을 상징하고, 프리즘으로 수렴되는 투명의 부처는 점을 상징하며, 분리된 선의 부처가 모인 무한의 색을 가진 다(多)부처는 면을 상징하여 점•선•면의 구조로 이루어져 있다."
   },
   {
@@ -216,10 +216,34 @@
   },
   {
     "type": "painting",
+    "id": "Assembly-dawn",
+    "title": "조립 여명",
+    "year": 2024,
+    "caption": "2024, 캔버스에 아크릴릭, 37.9 x 37.9cm",
+    "thumb": "img/painting/Assembly-dawn/02.jpg",
+    "imgs": [
+      "img/painting/Assembly-dawn/02.jpg",
+      "img/painting/Assembly-dawn/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly-dawn",
+    "title": "조립 여명",
+    "year": 2024,
+    "caption": "2024, 캔버스에 아크릴릭, 37.9 x 37.9cm",
+    "thumb": "img/painting/Assembly-dawn/01.jpg",
+    "imgs": [
+      "img/painting/Assembly-dawn/01.jpg",
+      "img/painting/Assembly-dawn/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20231107-2",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7x60.6cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231107/03.jpg",
     "imgs": [
       "img/painting/Assembly 20231107/03.jpg"
@@ -230,7 +254,7 @@
     "id": "Assembly 20231107-1",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7x60.6cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231107/02.jpg",
     "imgs": [
       "img/painting/Assembly 20231107/02.jpg"
@@ -241,7 +265,7 @@
     "id": "Assembly 20231106",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭, 90.9x72.7cm",
+    "caption": "2023, 캔버스에 아크릴릭, 90.9 x 72.7cm",
     "thumb": "img/painting/Assembly 20231106/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231106/01.jpg",
@@ -251,24 +275,14 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231028-2",
+    "id": "Assembly 20231028",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8x91cm",
-    "thumb": "img/painting/Assembly 20231028/03.jpg",
-    "imgs": [
-      "img/painting/Assembly 20231028/03.jpg"
-    ]
-  },
-  {
-    "type": "painting",
-    "id": "Assembly 20231028-1",
-    "title": "조립",
-    "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8x91cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8 x 91cm",
     "thumb": "img/painting/Assembly 20231028/02.jpg",
     "imgs": [
-      "img/painting/Assembly 20231028/02.jpg"
+      "img/painting/Assembly 20231028/02.jpg",
+      "img/painting/Assembly 20231028/03.jpg"
     ]
   },
   {
@@ -276,7 +290,7 @@
     "id": "Assembly 20231021",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 종이에 아크릴릭 및 실크스크린, 39.4x27.2cm",
+    "caption": "2023, 종이에 아크릴릭 및 실크스크린, 39.4 x 27.2cm",
     "thumb": "img/painting/Assembly 20231021/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231021/01.jpg"
@@ -287,7 +301,7 @@
     "id": "Assembly 20231020",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 종이에 실크스크린, 39.4x27.2cm",
+    "caption": "2023, 종이에 실크스크린, 39.4 x 27.2cm",
     "thumb": "img/painting/Assembly 20231020/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231020/01.jpg"
@@ -298,7 +312,7 @@
     "id": "Assembly 20231011",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭, 24.2x24.2cm",
+    "caption": "2023, 캔버스에 아크릴릭, 24.2 x 24.2cm",
     "thumb": "img/painting/Assembly 20231011/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231011/01.jpg"
@@ -309,7 +323,7 @@
     "id": "Assembly 20231006",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7x60.6cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231006/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231006/01.jpg"
@@ -320,7 +334,7 @@
     "id": "Assembly 20231005",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭, 72.7x60.6cm",
+    "caption": "2023, 캔버스에 아크릴릭, 72.7 x 60.6cm",
     "thumb": "img/painting/Assembly 20231005/01.jpg",
     "imgs": [
       "img/painting/Assembly 20231005/01.jpg"
@@ -331,7 +345,7 @@
     "id": "block 20231002",
     "title": "블록",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭, 45.5x45.5cm",
+    "caption": "2023, 캔버스에 아크릴릭, 45.5 x 45.5cm",
     "thumb": "img/painting/Block 20231002/01.jpg",
     "imgs": [
       "img/painting/Block 20231002/01.jpg"
@@ -342,7 +356,7 @@
     "id": "Assembly 20230930",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 53x45.5cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 53 x 45.5cm",
     "thumb": "img/painting/Assembly 20230930/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230930/01.jpg",
@@ -352,24 +366,14 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230911-2",
+    "id": "Assembly 20230911",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8x72.7cm",
-    "thumb": "img/painting/Assembly 20230911/03.jpg",
-    "imgs": [
-      "img/painting/Assembly 20230911/03.jpg"
-    ]
-  },
-  {
-    "type": "painting",
-    "id": "Assembly 20230911-1",
-    "title": "조립",
-    "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8x72.7cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8 x 72.7cm (2)",
     "thumb": "img/painting/Assembly 20230911/02.jpg",
     "imgs": [
-      "img/painting/Assembly 20230911/02.jpg"
+      "img/painting/Assembly 20230911/02.jpg",
+      "img/painting/Assembly 20230911/03.jpg"
     ]
   },
   {
@@ -377,7 +381,7 @@
     "id": "Assembly 20230824",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭, 45.5x53cm",
+    "caption": "2023, 캔버스에 아크릴릭, 45.5 x 53cm",
     "thumb": "img/painting/Assembly 20230824/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230824/01.jpg"
@@ -388,7 +392,7 @@
     "id": "Assembly 20230801-4",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6x32.3cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/05.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/05.jpg"
@@ -399,7 +403,7 @@
     "id": "Assembly 20230801-3",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6x32.3cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/04.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/04.jpg"
@@ -410,7 +414,7 @@
     "id": "Assembly 20230801-2",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6x32.3cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/03.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/03.jpg"
@@ -421,7 +425,7 @@
     "id": "Assembly 20230801-1",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6x32.3cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
     "thumb": "img/painting/Assembly 20230901/02.jpg",
     "imgs": [
       "img/painting/Assembly 20230901/02.jpg"
@@ -432,7 +436,7 @@
     "id": "Assembly 20230404",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 80.3x80.3cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 80.3 x 80.3cm",
     "thumb": "img/painting/Assembly 20230904/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230904/01.jpg"
@@ -443,7 +447,7 @@
     "id": "Assembly 20230119",
     "title": "조립",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7x53cm",
+    "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 53cm",
     "thumb": "img/painting/Assembly 20230919/01.jpg",
     "imgs": [
       "img/painting/Assembly 20230919/01.jpg"
@@ -454,7 +458,7 @@
     "id": "untitled",
     "title": "무제",
     "year": 2022,
-    "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm x 2개",
+    "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm (2)",
     "thumb": "img/painting/untitled/01.jpg",
     "imgs": [
       "img/painting/untitled/01.jpg",
@@ -492,7 +496,7 @@
     "id": "assembly-2",
     "title": "조립",
     "year": 2022,
-    "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6 cm",
+    "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
     "thumb": "img/painting/assembly-2/01.jpg",
     "imgs": [
       "img/painting/assembly-2/01.jpg"
@@ -503,7 +507,7 @@
     "id": "assembly-1",
     "title": "조립",
     "year": 2022,
-    "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 160 x 132 cm",
+    "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 160 x 132cm",
     "thumb": "img/painting/assembly-1/01.jpg",
     "imgs": [
       "img/painting/assembly-1/01.jpg",
@@ -528,7 +532,7 @@
     "id": "assemble-landscape",
     "title": "조립 산수",
     "year": 2022,
-    "caption": "2022, 캔버스에 아크릴릭, 가변크기 (각 37.9 x 37.9cm)",
+    "caption": "2022, 캔버스에 아크릴릭, 가변크기 37.9 x 37.9cm (58)",
     "thumb": "img/painting/assemblelandscape/01.jpg",
     "imgs": [
       "img/painting/assemblelandscape/01.jpg",
@@ -540,7 +544,7 @@
     "id": "block211128",
     "title": "블록 21-2",
     "year": 2021,
-    "caption": "2021, 캔버스에 아크릴릭, 가변크기",
+    "caption": "2021, 캔버스에 아크릴릭, 가변크기 35cm x 35cm (16)",
     "thumb": "img/painting/block211128/01.jpg",
     "imgs": [
       "img/painting/block211128/01.jpg",
@@ -746,7 +750,7 @@
     "id": "block210929",
     "title": "블록 21-1",
     "year": 2021,
-    "caption": "2021, 캔버스에 아크릴릭, 가변크기",
+    "caption": "2021, 캔버스에 아크릴릭, 가변크기 35cm x 35cm (13)",
     "thumb": "img/painting/block210929/01.jpg",
     "imgs": [
       "img/painting/block210929/01.jpg",
@@ -812,7 +816,7 @@
     "id": "block201015",
     "title": "블록 20-1",
     "year": 2020,
-    "caption": "2020, 캔버스에 아크릴릭, 가변크기",
+    "caption": "2020, 캔버스에 아크릴릭, 가변크기 35cm x 35cm (16)",
     "thumb": "img/painting/block201015/01.jpg",
     "imgs": [
       "img/painting/block201015/01.jpg",
@@ -865,7 +869,7 @@
     "id": "spaceship",
     "title": "겉보기에 손상은 없었으나 마치 난파된 것 같은 우주선 | 포스터",
     "year": 2022,
-    "caption": "2022, 스크린 및 종이에 인쇄, 101.6 x 57.15cm(3840 x 2160px)",
+    "caption": "2022, 스크린 및 종이에 인쇄, 101.6 x 57.15cm (3840 x 2160px)",
     "thumb": "img/typography/spaceship/01.jpg",
     "imgs": [
       "img/typography/spaceship/01.jpg"
