@@ -230,28 +230,28 @@
   },
   {
     "type": "painting",
-    "id": "Assembly-dawn",
+    "id": "Assembly-dawn-2",
     "collectionType": "assemble abstract",
     "title": "Assembly dawn",
     "year": 2023,
     "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
-    "thumb": "img/painting/Assembly-dawn/02.jpg",
+    "thumb": "img/painting/Assembly-dawn-2/01.jpg",
     "imgs": [
-      "img/painting/Assembly-dawn/02.jpg",
-      "img/painting/Assembly-dawn/01.jpg"
+      "img/painting/Assembly-dawn-2/01.jpg",
+      "img/painting/Assembly-dawn-1/01.jpg"
     ]
   },
   {
     "type": "painting",
-    "id": "Assembly-dawn",
+    "id": "Assembly-dawn-1",
     "collectionType": "assemble abstract",
     "title": "Assembly dawn",
     "year": 2023,
     "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
-    "thumb": "img/painting/Assembly-dawn/01.jpg",
+    "thumb": "img/painting/Assembly-dawn-1/01.jpg",
     "imgs": [
-      "img/painting/Assembly-dawn/01.jpg",
-      "img/painting/Assembly-dawn/02.jpg"
+      "img/painting/Assembly-dawn-1/01.jpg",
+      "img/painting/Assembly-dawn-2/01.jpg"
     ]
   },
   {
@@ -393,7 +393,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230911-1",
+    "id": "Assembly 20230911",
     "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
@@ -520,7 +520,7 @@
     "type": "painting",
     "id": "composition5",
     "collectionType": "assemble abstract",
-    "title": "composition 5 (Division – Unity)",
+    "title": "Composition 5 (Division – Unity)",
     "year": 2022,
     "caption": "2022, Acrylic on canvas, 35cm x 35cm",
     "thumb": "img/painting/composition-5/01.jpg",
@@ -585,7 +585,7 @@
     "type": "painting",
     "id": "block211128",
     "collectionType": "assemble abstract",
-    "title": "블록 21-2",
+    "title": "Block 21-2",
     "year": 2021,
     "caption": "2021, Acrylic on canvas, Dimensions variable 35 x 35cm (16)",
     "thumb": "img/painting/block211128/01.jpg",
@@ -948,7 +948,7 @@
     "collectionType": "poster",
     "title": "Assemblogy: compose and combine",
     "year": 2022,
-    "caption": "2021, print on paper, 59.4 x 84.1cm",
+    "caption": "2021, Print on paper, 59.4 x 84.1cm",
     "thumb": "img/typography/assemblogy/01.jpg",
     "imgs": [
       "img/typography/assemblogy/01.jpg"
@@ -973,7 +973,7 @@
     "collectionType": "poster",
     "title": "Dream Land : color",
     "year": 2021,
-    "caption": "2021, print on paper, 59.4 x 84.1cm",
+    "caption": "2021, Print on paper, 59.4 x 84.1cm",
     "thumb": "img/typography/buddha/01.jpg",
     "imgs": [
       "img/typography/buddha/01.jpg",
@@ -989,7 +989,7 @@
     "collectionType": "poster",
     "title": "Rainwater",
     "year": 2021,
-    "caption": "2021, illustration, 59.4 x 84.1cm",
+    "caption": "2021, Illustration, 59.4 x 84.1cm",
     "thumb": "img/typography/rainwater/01.jpg",
     "imgs": [
       "img/typography/rainwater/01.jpg"
