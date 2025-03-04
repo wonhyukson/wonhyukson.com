@@ -1,0 +1,65 @@
+{
+  "sculpture": [{
+    "id": "_ALL_",
+    "name": "All"
+  },{
+    "id": "assemble sculpture",
+    "name": "Assemble sculpture"
+  },{
+    "id": "dream land",
+    "name": "Dream land"
+  }],
+  "painting": [{
+    "id": "_ALL_",
+    "name": "All"
+  },{
+    "id": "assembly",
+    "name": "Assembly"
+  },{
+    "id": "assemble abstract",
+    "name": "Assemble abstract"
+  }],
+  "typography": [{
+    "id": "_ALL_",
+    "name": "All"
+    },{
+      "id": "poster",
+      "name": "Poster"
+    },{
+      "id": "book",
+      "name": "Book"
+  }],
+  "texts": [{
+    "id": "_ALL_",
+    "name": "All"
+  },{
+    "id": "artist critique",
+    "name": "Artist critique"
+  },{
+    "id": "exhibition critique",
+    "name": "Exhibition critique"
+  }],
+  "archives": [{
+    "id": "_ALL_",
+    "name": "All"
+  },{
+    "id": "solo exhibition",
+    "name": "Solo exhibitions"
+  },{
+    "id": "group exhibition",
+    "name": "Group exhibitions"
+  }],
+  "news": [{
+    "id": "_ALL_",
+    "name": "All"
+  },{
+     "id": "publication",
+    "name": "Publication"
+  },{
+    "id": "round table",
+    "name": "Round table"
+  },{
+    "id": "etc",
+    "name": "Etc"
+  }]
+}

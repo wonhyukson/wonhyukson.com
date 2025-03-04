@@ -2,6 +2,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture24",
+    "collectionType": "assemble sculpture",
     "title": "조립 조각",
     "year": 2024,
     "thumb": "img/sculpture/assemblesculpture24/01.jpg",
@@ -14,6 +15,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture20240901",
+    "collectionType": "assemble sculpture",
     "title": "조립 조각",
     "year": 2024,
     "thumb": "img/sculpture/assemblesculpture20240901/01.jpg",
@@ -27,6 +29,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture2",
+    "collectionType": "assemble sculpture",
     "title": "조립 조각 22-1",
     "year": 2022,
     "thumb": "img/sculpture/assemblesculpture2/01.jpg",
@@ -39,6 +42,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture",
+    "collectionType": "assemble sculpture",
     "title": "조립 조각",
     "year": 2022,
     "thumb": "img/sculpture/assemblesculpture/01.jpg",
@@ -52,6 +56,7 @@
   {
     "type": "sculpture",
     "id": "composition-6",
+    "collectionType": "assemble sculpture",
     "title": "구성 6 (분리 - 조합)",
     "year": 2022,
     "thumb": "img/sculpture/composition-6/01.jpg",
@@ -63,6 +68,7 @@
   {
     "type": "sculpture",
     "id": "lego-buddha",
+    "collectionType": "dream land",
     "title": "순환 (레고 부처)",
     "year": 2021,
     "thumb": "img/sculpture/buddha/01.jpg",
@@ -78,6 +84,7 @@
   {
     "type": "sculpture",
     "id": "194",
+    "collectionType": "dream land",
     "title": "194",
     "year": 2020,
     "caption": "2020, 아크릴릭에 레고 블록, 86.6 x 65cm",
@@ -98,6 +105,7 @@
   {
     "type": "sculpture",
     "id": "hunchback",
+    "collectionType": "dream land",
     "title": "꼽추",
     "year": 2020,
     "caption": "2020, 레고 블록, 42.5 x 22.7 x 3cm",
@@ -118,6 +126,7 @@
   {
     "type": "sculpture",
     "id": "opera",
+    "collectionType": "dream land",
     "title": "오페라의 몰락",
     "year": 2019,
     "caption": "2019, 레고 블록, 94 x 41 x 24cm",
@@ -138,6 +147,7 @@
   {
     "type": "sculpture",
     "id": "cathedral",
+    "collectionType": "dream land",
     "title": "성 아틀라스 성당\n",
     "year": 2018,
     "caption": "2018, 레고 블록, LED, 65 x 26 x 26cm",
@@ -158,6 +168,7 @@
   {
     "type": "sculpture",
     "id": "guitar",
+    "collectionType": "dream land",
     "title": "밀레니엄팔콘 기타",
     "year": 2016,
     "caption": "2016, 레고 블록, LED, 블루투스 스피커, 기타 줄, 14 x 94 x 33cm",
@@ -178,6 +189,7 @@
   {
     "type": "painting",
     "id": "Assembly 20240909",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2024,
     "caption": "2024, 캔버스에 아크릴릭 및 채색된 레고, 160 x 132cm",
@@ -191,6 +203,7 @@
   {
     "type": "painting",
     "id": "Assembly 20240630",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2024,
     "caption": "2024, 캔버스에 아크릴릭 및 채색된 레고, 145.5 x 112.1cm (2)",
@@ -204,6 +217,7 @@
   {
     "type": "painting",
     "id": "Assembly 20240519",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2024,
     "caption": "2024, 캔버스에 아크릴릭, 160 x 132cm",
@@ -217,6 +231,7 @@
   {
     "type": "painting",
     "id": "Assembly-dawn",
+    "collectionType": "assemble abstract",
     "title": "조립 여명",
     "year": 2023,
     "caption": "2023-2024, 캔버스에 아크릴릭, 37.9 x 37.9cm",
@@ -229,6 +244,7 @@
   {
     "type": "painting",
     "id": "Assembly-dawn",
+    "collectionType": "assemble abstract",
     "title": "조립 여명",
     "year": 2023,
     "caption": "2023-2024, 캔버스에 아크릴릭, 37.9 x 37.9cm",
@@ -241,6 +257,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231107-2",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
@@ -252,6 +269,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231107-1",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
@@ -263,6 +281,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231106",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭, 90.9 x 72.7cm",
@@ -276,6 +295,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231028",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8 x 91cm",
@@ -288,6 +308,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231021",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 종이에 아크릴릭 및 실크스크린, 39.4 x 27.2cm",
@@ -299,6 +320,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231020",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 종이에 실크스크린, 39.4 x 27.2cm",
@@ -310,6 +332,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231011",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭, 24.2 x 24.2cm",
@@ -321,6 +344,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231006",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
@@ -332,6 +356,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231005",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭, 72.7 x 60.6cm",
@@ -343,6 +368,7 @@
   {
     "type": "painting",
     "id": "block 20231002",
+    "collectionType": "assemble abstract",
     "title": "블록",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭, 45.5 x 45.5cm",
@@ -354,6 +380,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230930",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 53 x 45.5cm",
@@ -367,6 +394,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230911",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 116.8 x 72.7cm (2)",
@@ -379,6 +407,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230824",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭, 45.5 x 53cm",
@@ -390,6 +419,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-4",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
@@ -401,6 +431,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-3",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
@@ -412,6 +443,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-2",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
@@ -423,6 +455,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-1",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 76.6 x 32.3cm",
@@ -434,6 +467,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230404",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 80.3 x 80.3cm",
@@ -445,6 +479,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230119",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 53cm",
@@ -456,6 +491,7 @@
   {
     "type": "painting",
     "id": "untitled",
+    "collectionType": "assembly",
     "title": "무제",
     "year": 2022,
     "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm (2)",
@@ -468,6 +504,7 @@
   {
     "type": "painting",
     "id": "harmony",
+    "collectionType": "assembly",
     "title": "조화",
     "year": 2022,
     "caption": "2022, 캔버스에 아크릴릭 및 레고, 60.6 x 60.6 cm",
@@ -482,6 +519,7 @@
   {
     "type": "painting",
     "id": "composition5",
+    "collectionType": "assemble abstract",
     "title": "구성 5 (분리 – 조합)",
     "year": 2022,
     "caption": "2022, 캔버스에 아크릴릭, 35cm x 35cm",
@@ -494,6 +532,7 @@
   {
     "type": "painting",
     "id": "assembly-2",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2022,
     "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 72.7 x 60.6cm",
@@ -505,6 +544,7 @@
   {
     "type": "painting",
     "id": "assembly-1",
+    "collectionType": "assembly",
     "title": "조립",
     "year": 2022,
     "caption": "2022, 캔버스에 아크릴릭 및 채색된 레고, 160 x 132cm",
@@ -518,6 +558,7 @@
   {
     "type": "painting",
     "id": "composition-2-1",
+    "collectionType": "assemble abstract",
     "title": "구성 2-1",
     "year": 2022,
     "caption": "2022, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -530,6 +571,7 @@
   {
     "type": "painting",
     "id": "assemble-landscape",
+    "collectionType": "assemble abstract",
     "title": "조립 산수",
     "year": 2022,
     "caption": "2022, 캔버스에 아크릴릭, 가변크기 37.9 x 37.9cm (58)",
@@ -542,6 +584,7 @@
   {
     "type": "painting",
     "id": "block211128",
+    "collectionType": "assemble abstract",
     "title": "블록 21-2",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 가변크기 35cm x 35cm (16)",
@@ -556,6 +599,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-16",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -568,6 +612,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-15",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -580,6 +625,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-14",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -592,6 +638,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-13",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -604,6 +651,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-12",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -616,6 +664,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-11",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -628,6 +677,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-10",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -640,6 +690,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-9",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -652,6 +703,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-8",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -664,6 +716,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-7",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -676,6 +729,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-6",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -688,6 +742,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-5",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -700,6 +755,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-4",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -712,6 +768,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-3",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -724,6 +781,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-2",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -736,6 +794,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-1",
+    "collectionType": "assemble abstract",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 80.3cm x 80.3cm",
@@ -748,6 +807,7 @@
   {
     "type": "painting",
     "id": "block210929",
+    "collectionType": "assemble abstract",
     "title": "블록 21-1",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴릭, 가변크기 35cm x 35cm (13)",
@@ -762,6 +822,7 @@
   {
     "type": "painting",
     "id": "composition4",
+    "collectionType": "assemble abstract",
     "title": "구성 4 (분리 - 조합)",
     "year": 2020,
     "caption": "2020, 캔버스에 아크릴릭, 35cm x 35cm",
@@ -775,6 +836,7 @@
   {
     "type": "painting",
     "id": "composition3",
+    "collectionType": "assemble abstract",
     "title": "구성 3 (분리 – 조합)",
     "year": 2020,
     "caption": "2020, 캔버스에 아크릴릭, 35cm x 35cm",
@@ -788,6 +850,7 @@
   {
     "type": "painting",
     "id": "composition2",
+    "collectionType": "assemble abstract",
     "title": "구성 2 (분리 – 조합)",
     "year": 2020,
     "caption": "2020, 캔버스에 아크릴릭, 35cm x 35cm",
@@ -801,6 +864,7 @@
   {
     "type": "painting",
     "id": "composition1",
+    "collectionType": "assemble abstract",
     "title": "구성 1 (분리 – 조합)",
     "year": 2020,
     "caption": "2020, 캔버스에 아크릴릭, 35cm x 35cm",
@@ -814,6 +878,7 @@
   {
     "type": "painting",
     "id": "block201015",
+    "collectionType": "assemble abstract",
     "title": "블록 20-1",
     "year": 2020,
     "caption": "2020, 캔버스에 아크릴릭, 가변크기 35cm x 35cm (16)",
@@ -828,6 +893,7 @@
   {
     "type": "painting",
     "id": "twisted-harmony",
+    "collectionType": "assembly",
     "title": "뒤틀린 조화",
     "year": 2018,
     "caption": "2018, 캔버스에 레고 블록, 53cm x 53cm",
@@ -846,7 +912,8 @@
   {
     "type": "typography",
     "id": "book-Dream Land-assemblogy",
-    "title": "드림랜드·조립학 | 책",
+    "collectionType": "book",
+    "title": "드림랜드·조립학",
     "year": 2023,
     "caption": "2023, 오프셋 인쇄, 무선제본, 203 x 254mm, 72쪽",
     "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
@@ -867,7 +934,8 @@
   {
     "type": "typography",
     "id": "spaceship",
-    "title": "겉보기에 손상은 없었으나 마치 난파된 것 같은 우주선 | 포스터",
+    "collectionType": "poster",
+    "title": "겉보기에 손상은 없었으나 마치 난파된 것 같은 우주선",
     "year": 2022,
     "caption": "2022, 스크린 및 종이에 인쇄, 101.6 x 57.15cm (3840 x 2160px)",
     "thumb": "img/typography/spaceship/01.jpg",
@@ -878,7 +946,8 @@
   {
     "type": "typography",
     "id": "assemblogy",
-    "title": "조립학: 구성하고 조합하기 | 포스터",
+    "collectionType": "poster",
+    "title": "조립학: 구성하고 조합하기",
     "year": 2022,
     "caption": "2022, 종이에 인쇄, 59.4 x 84.1cm",
     "thumb": "img/typography/assemblogy/01.jpg",
@@ -889,7 +958,8 @@
   {
     "type": "typography",
     "id": "blue-wedge",
-    "title": "푸른색 쐐기로 붉은색을 쳐라 | 포스터",
+    "collectionType": "poster",
+    "title": "푸른색 쐐기로 붉은색을 쳐라",
     "year": 2022,
     "caption": "2022, 종이에 인쇄, 29.9 x 24.1cm",
     "thumb": "img/typography/blue-wedge/01.jpg",
@@ -901,7 +971,8 @@
   {
     "type": "typography",
     "id": "poster-buddha",
-    "title": "Dream Land : color | 포스터",
+    "collectionType": "poster",
+    "title": "Dream Land : color",
     "year": 2021,
     "caption": "2021, 종이에 인쇄, 59.4 x 84.1cm",
     "thumb": "img/typography/buddha/01.jpg",
@@ -916,7 +987,8 @@
   {
     "type": "typography",
     "id": "rainwater",
-    "title": "빗물 | 포스터",
+    "collectionType": "poster",
+    "title": "빗물",
     "year": 2021,
     "caption": "2021, 일러스트, 59.4 x 84.1cm",
     "thumb": "img/typography/rainwater/01.jpg",
@@ -928,7 +1000,8 @@
   {
     "type": "typography",
     "id": "cycle-gestalt",
-    "title": "순환 (형태) | 포스터",
+    "collectionType": "poster",
+    "title": "순환 (형태)",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/01.jpg",
@@ -943,7 +1016,8 @@
   {
     "type": "typography",
     "id": "cycle-triangle",
-    "title": "순환 (세모) | 포스터",
+    "collectionType": "poster",
+    "title": "순환 (세모)",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/02.jpg",
@@ -958,7 +1032,8 @@
   {
     "type": "typography",
     "id": "cycle-circle",
-    "title": "순환 (원) | 포스터",
+    "collectionType": "poster",
+    "title": "순환 (원)",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/03.jpg",
@@ -973,7 +1048,8 @@
   {
     "type": "typography",
     "id": "cycle-square",
-    "title": "순환 (네모) | 포스터",
+    "collectionType": "poster",
+    "title": "순환 (네모)",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/04.jpg",
@@ -988,6 +1064,7 @@
   {
     "type": "news",
     "id": "24-T incheon",
+    "collectionType": "etc",
     "title": "아트·T 인천",
     "year": 2024,
     "caption": "2024년 11월 1일 - 12월 1일",
@@ -1014,7 +1091,8 @@
   {
     "type": "news",
     "id": "23-Dream Land-assemblogy",
-    "title": "드림랜드·조립학 | 출판",
+    "collectionType": "publication",
+    "title": "드림랜드·조립학",
     "year": 2023,
     "caption": "2023년 11월",
     "info": [
@@ -1057,6 +1135,11 @@
       {
         "title": "소개",
         "text": "광명시민회관, CICA 미술관에서의 개인전, 작가노트, 정해선 큐레이터의 글을 엮은 도록입니다."
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Dream Land·assemblogy.pdf",
+        "fileName": "드림랜드·조립학.pdf"
       }
     ],
     "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
@@ -1071,7 +1154,8 @@
   {
     "type": "news",
     "id": "23-CICA PRESS CICA ART NOW 2023",
-    "title": "CICA ART NOW 2023 | 출판",
+    "collectionType": "publication",
+    "title": "CICA ART NOW 2023",
     "year": 2023,
     "caption": "2023년 8월 31일",
     "info": [
@@ -1099,6 +1183,7 @@
   {
     "type": "news",
     "id": "23-OS Round table",
+    "collectionType": "round table",
     "title": "옵서버 라운드 테이블",
     "year": 2023,
     "caption": "2023년 1월 28일",
@@ -1124,7 +1209,8 @@
   {
     "type": "news",
     "id": "22-Vibrating Birds and Handwritten Letter",
-    "title": "진동새와 손편지 | 출판",
+    "collectionType": "publication",
+    "title": "진동새와 손편지",
     "year": 2022,
     "caption": "2022년 11월 9일",
     "info": [
@@ -1153,9 +1239,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "24-Wess",
-    "title": "WESS 전시후도록 | 단체전",
+    "collectionType": "group exhibition",
+    "title": "WESS 전시후도록",
     "year": 2024,
     "caption": "2024년 12월 5일 - 12월 8일",
     "info": [
@@ -1199,9 +1286,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "24-observer",
-    "title": "Harmonic Drive | 단체전",
+    "collectionType": "group exhibition",
+    "title": "Harmonic Drive",
     "year": 2024,
     "caption": "2024년 11월 22일 - 12월 13일",
     "info": [
@@ -1254,9 +1342,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "24-assembly",
-    "title": "조립 | 개인전",
+    "collectionType": "solo exhibition",
+    "title": "조립",
     "year": 2024,
     "caption": "2024년 10월 9일 - 10월 20일",
     "info": [
@@ -1300,9 +1389,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "23-portrait",
-    "title": "Portrait | 단체전",
+    "collectionType": "group exhibition",
+    "title": "Portrait",
     "year": 2023,
     "caption": "2022년 12월 28일 - 2023년 1월 15일",
     "info": [
@@ -1324,9 +1414,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "22-A-vibrating bird-and-a-handwritten-letter",
-    "title": "진동새와 손편지 | 단체전",
+    "collectionType": "group exhibition",
+    "title": "진동새와 손편지",
     "year": 2022,
     "caption": "2022년 11월 9일 - 12월 31일",
     "info": [
@@ -1384,9 +1475,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "22-observer",
-    "title": "VENOMOLD | 단체전",
+    "collectionType": "group exhibition",
+    "title": "VENOMOLD",
     "year": 2022,
     "caption": "2022년 11월 16일 - 11월 27일 | (총 11월 2일 - 12월 11일)",
     "info": [
@@ -1424,9 +1516,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "22-assemblogy",
-    "title": "조립학: 구성하고 조합하기 | 개인전",
+    "collectionType": "solo exhibition",
+    "title": "조립학: 구성하고 조합하기",
     "year": 2022,
     "caption": "2022년 10월 19일 - 10월 23일",
     "info": [
@@ -1449,6 +1542,11 @@
       {
         "title": "도움",
         "text": "이상민"
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Dream Land·assemblogy.pdf",
+        "fileName": "드림랜드·조립학.pdf"
       }
     ],
     "thumb": "img/archive/2022-assemblogy/thumb.jpg",
@@ -1465,9 +1563,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-singing-word",
-    "title": "노래하는 말, 노래하는 글 | 단체전",
+    "collectionType": "group exhibition",
+    "title": "노래하는 말, 노래하는 글",
     "year": 2021,
     "caption": "2021년 12월 20일 - 2022년 1월 20일",
     "info": [
@@ -1498,9 +1597,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-dreamland",
-    "title": "Dream Land: Color | 개인전",
+    "collectionType": "solo exhibition",
+    "title": "Dream Land: Color",
     "year": 2021,
     "caption": "2021년 11월 28일 - 11월 30일",
     "info": [
@@ -1527,6 +1627,11 @@
       {
         "title": "사진",
         "text": "광명문화재단"
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Dream Land·assemblogy.pdf",
+        "fileName": "드림랜드·조립학.pdf"
       }
     ],
     "thumb": "img/archive/2021-dreamland/thumb.jpg",
@@ -1553,9 +1658,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-relativity-circuit",
-    "title": "상대성 회로: 지속 가능성 보고서 | 단체전",
+    "collectionType": "group exhibition",
+    "title": "상대성 회로: 지속 가능성 보고서",
     "year": 2021,
     "caption": "2021년 9월 29일 - 10월 4일",
     "info": [
@@ -1590,9 +1696,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-over-the-structures",
-    "title": "Over the structures 2021 | 단체전",
+    "collectionType": "group exhibition",
+    "title": "Over the structures 2021",
     "year": 2021,
     "caption": "2021년 3월 10일 - 3월 28일",
     "info": [
@@ -1616,9 +1723,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "20-contactless",
-    "title": "만질 수 없는 | 단체전",
+    "collectionType": "group exhibition",
+    "title": "만질 수 없는",
     "year": 2020,
     "caption": "2020년 12월 8일 - 2021년 2월 28일",
     "info": [
@@ -1655,9 +1763,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "18-young-artist",
-    "title": "YOUNG ARTIST CONTEST | 단체전",
+    "collectionType": "group exhibition",
+    "title": "YOUNG ARTIST CONTEST",
     "year": 2018,
     "caption": "2018년 8월 1일 - 8월 24일",
     "info": [

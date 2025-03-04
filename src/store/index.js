@@ -7,8 +7,8 @@ export default createStore({
     lang: Constants.lang.en,
     worksList: [],
     cv: {},
-    contact: {},
     review: [],
+    filterList: {},
   },
   mutations: {
     lang(state, lang) {
@@ -20,11 +20,11 @@ export default createStore({
     cv(state, data) {
       state.cv = data;
     },
-    contact(state, info) {
-      state.contact = info;
-    },
     review(state, data) {
       state.review = data;
+    },
+    filterList(state, data) {
+      state.filterList = data;
     },
   },
   actions: {
@@ -40,8 +40,8 @@ export default createStore({
         commit("lang", lang);
         dispatch("loadWorksList");
         dispatch("loadCv");
-        dispatch("loadContact");
         dispatch("loadReview");
+        dispatch("loadFilterList");
       }
     },
     loadWorksList({ commit, state }) {
@@ -73,26 +73,26 @@ export default createStore({
           console.log("error", error);
         });
     },
-    loadContact({ commit, state }) {
-      axios
-        .get("../sample/" + state.lang + "/contact.json")
-        .then((response) => {
-          if (response.statusText === "OK" || response.status === 200) {
-            commit("contact", response.data);
-          } else {
-            // TODO: error handling
-          }
-        })
-        .catch((error) => {
-          console.log("error", error);
-        });
-    },
     loadReview({ commit, state }) {
       axios
         .get("../sample/" + state.lang + "/review.json")
         .then((response) => {
           if (response.statusText === "OK" || response.status === 200) {
             commit("review", response.data);
+          } else {
+            //TODO: error handling
+          }
+        })
+        .catch((error) => {
+          console.log("error", error);
+        });
+    },
+    loadFilterList({ commit, state }) {
+      axios
+        .get("../sample/" + state.lang + "/filter-list.json")
+        .then((response) => {
+          if (response.statusText === "OK" || response.status === 200) {
+            commit("filterList", response.data);
           } else {
             //TODO: error handling
           }

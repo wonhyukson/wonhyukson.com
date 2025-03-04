@@ -2,6 +2,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture24",
+    "collectionType": "assemble sculpture",
     "title": "Assemble sculpture",
     "year": 2024,
     "thumb": "img/sculpture/assemblesculpture24/01.jpg",
@@ -14,6 +15,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture20240901",
+    "collectionType": "assemble sculpture",
     "title": "Assemble sculpture",
     "year": 2024,
     "thumb": "img/sculpture/assemblesculpture20240901/01.jpg",
@@ -27,6 +29,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture2",
+    "collectionType": "assemble sculpture",
     "title": "Assemble sculpture 22-1",
     "year": 2022,
     "thumb": "img/sculpture/assemblesculpture2/01.jpg",
@@ -36,10 +39,10 @@
     ],
     "caption": "2022, Acrylic on panel, colored lego brick, Dimensions variable 94 x 50 x 50cm (4)"
   },
-
   {
     "type": "sculpture",
     "id": "assemble-sculpture",
+    "collectionType": "assemble sculpture",
     "title": "Assemble sculpture",
     "year": 2022,
     "thumb": "img/sculpture/assemblesculpture/01.jpg",
@@ -53,6 +56,7 @@
   {
     "type": "sculpture",
     "id": "composition-6",
+    "collectionType": "assemble sculpture",
     "title": "Composition 6 (Division – Unity)",
     "year": 2022,
     "thumb": "img/sculpture/composition-6/01.jpg",
@@ -64,6 +68,7 @@
   {
     "type": "sculpture",
     "id": "lego-buddha",
+    "collectionType": "dream land",
     "title": "Cycle (Lego Buddha)",
     "year": 2021,
     "thumb": "img/sculpture/buddha/01.jpg",
@@ -79,6 +84,7 @@
   {
     "type": "sculpture",
     "id": "194",
+    "collectionType": "dream land",
     "title": "194",
     "year": 2020,
     "caption": "2020, Lego brick on acrylic, 86.6 x 65cm",
@@ -99,6 +105,7 @@
   {
     "type": "sculpture",
     "id": "hunchback",
+    "collectionType": "dream land",
     "title": "hunchback",
     "year": 2020,
     "caption": "2020, Lego brick, 42.5 x 22.7 x 3cm",
@@ -119,6 +126,7 @@
   {
     "type": "sculpture",
     "id": "opera",
+    "collectionType": "dream land",
     "title": "The fall of opera",
     "year": 2019,
     "caption": "2019, Lego brick, 94 x 41 x 24cm",
@@ -139,6 +147,7 @@
   {
     "type": "sculpture",
     "id": "cathedral",
+    "collectionType": "dream land",
     "title": "St.Atlas cathedral",
     "year": 2018,
     "caption": "2018, Lego brick, LED, 65 x 26 x 26cm",
@@ -159,6 +168,7 @@
   {
     "type": "sculpture",
     "id": "guitar",
+    "collectionType": "dream land",
     "title": "Millennium Falcon Guitar",
     "year": 2016,
     "caption": "2016, Lego brick, LED, Bluetooth speaker, Guitar string, 14 x 94 x 33cm",
@@ -179,6 +189,7 @@
   {
     "type": "painting",
     "id": "Assembly 20240909",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2024,
     "caption": "2024, Colored lego brick and Acrylic on canvas, 160 x 132cm",
@@ -192,6 +203,7 @@
   {
     "type": "painting",
     "id": "Assembly 20240630",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2024,
     "caption": "2024, Colored lego brick and Acrylic on canvas, 145.5 x 112.1cm (2)",
@@ -205,6 +217,7 @@
   {
     "type": "painting",
     "id": "Assembly 20240519",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2024,
     "caption": "2024, Acrylic on canvas, 160 x 132cm",
@@ -218,6 +231,7 @@
   {
     "type": "painting",
     "id": "Assembly-dawn",
+    "collectionType": "assemble abstract",
     "title": "Assembly dawn",
     "year": 2023,
     "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
@@ -230,6 +244,7 @@
   {
     "type": "painting",
     "id": "Assembly-dawn",
+    "collectionType": "assemble abstract",
     "title": "Assembly dawn",
     "year": 2023,
     "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
@@ -242,6 +257,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231107-2",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
@@ -253,6 +269,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231107-1",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
@@ -264,6 +281,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231106",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 90.9 x 72.7cm",
@@ -277,6 +295,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231028",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 116.8 x 91cm (2)",
@@ -289,6 +308,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231021",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic, slikscreen on paper, 39.4 x 27.2cm",
@@ -300,6 +320,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231020",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Slikscreen on paper, 39.4 x 27.2cm",
@@ -311,6 +332,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231011",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 24.2 x 24.2cm",
@@ -322,6 +344,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231006",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
@@ -333,6 +356,7 @@
   {
     "type": "painting",
     "id": "Assembly 20231005",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 72.7 x 60.6cm",
@@ -344,6 +368,7 @@
   {
     "type": "painting",
     "id": "block 20231002",
+    "collectionType": "assembly",
     "title": "Block",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 45.5 x 45.5cm",
@@ -355,6 +380,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230930",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 53 x 45.5cm",
@@ -368,6 +394,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230911-1",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 116.8 x 72.7cm (2)",
@@ -380,6 +407,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230824",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Acrylic on canvas, 45.5 x 53cm",
@@ -391,6 +419,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-4",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
@@ -402,6 +431,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-3",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
@@ -413,6 +443,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-2",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
@@ -424,6 +455,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230801-1",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 76.6 x 32.3cm",
@@ -435,6 +467,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230404",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 80.3 x 80.3cm",
@@ -446,6 +479,7 @@
   {
     "type": "painting",
     "id": "Assembly 20230119",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 72.7 x 53cm",
@@ -457,6 +491,7 @@
   {
     "type": "painting",
     "id": "untitled",
+    "collectionType": "assembly",
     "title": "Untitled",
     "year": 2022,
     "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm (2)",
@@ -469,6 +504,7 @@
   {
     "type": "painting",
     "id": "harmony",
+    "collectionType": "assembly",
     "title": "Harmony",
     "year": 2022,
     "caption": "2022, Colored lego brick and acrylic on canvas, 60.6 x 60.6cm",
@@ -483,6 +519,7 @@
   {
     "type": "painting",
     "id": "composition5",
+    "collectionType": "assemble abstract",
     "title": "composition 5 (Division – Unity)",
     "year": 2022,
     "caption": "2022, Acrylic on canvas, 35cm x 35cm",
@@ -495,6 +532,7 @@
   {
     "type": "painting",
     "id": "assembly-2",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2022,
     "caption": "2022, Colored lego brick and acrylic on canvas, 72.7 x 60.6cm",
@@ -506,6 +544,7 @@
   {
     "type": "painting",
     "id": "assembly-1",
+    "collectionType": "assembly",
     "title": "Assembly",
     "year": 2022,
     "caption": "2022, Colored lego brick and acrylic on canvas, 160 x 132cm",
@@ -519,6 +558,7 @@
   {
     "type": "painting",
     "id": "composition-2-1",
+    "collectionType": "assemble abstract",
     "title": "Composition 2-1",
     "year": 2022,
     "caption": "2022, Acrylic on canvas, 80.3cm x 80.3cm",
@@ -531,6 +571,7 @@
   {
     "type": "painting",
     "id": "assemble-landscape",
+    "collectionType": "assemble abstract",
     "title": "Assemble landscape",
     "year": 2022,
     "caption": "2022, Acrylic on canvas, Dimensions variable 37.9 x 37.9cm (58)",
@@ -543,6 +584,7 @@
   {
     "type": "painting",
     "id": "block211128",
+    "collectionType": "assemble abstract",
     "title": "블록 21-2",
     "year": 2021,
     "caption": "2021, Acrylic on canvas, Dimensions variable 35 x 35cm (16)",
@@ -556,6 +598,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-16",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -568,6 +611,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-15",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -580,6 +624,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-14",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -592,6 +637,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-13",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -604,6 +650,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-12",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -616,6 +663,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-11",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -628,6 +676,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-10",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -640,6 +689,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-9",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -652,6 +702,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-8",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -664,6 +715,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-7",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -676,6 +728,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-6",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -688,6 +741,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-5",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -700,6 +754,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-4",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -712,6 +767,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-3",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -724,6 +780,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-2",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -736,6 +793,7 @@
   {
     "type": "painting",
     "id": "assemble-abstract-1",
+    "collectionType": "assemble abstract",
     "title": "Assemble abstract",
     "year": 2021,
     "caption": "2021, acrylic on canvas, 80.3cm x 80.3cm",
@@ -748,6 +806,7 @@
   {
     "type": "painting",
     "id": "block210929",
+    "collectionType": "assemble abstract",
     "title": "Block 21-1",
     "year": 2021,
     "caption": "2021, acrylic on canvas, Dimensions variable 35 x 35cm (13)",
@@ -762,6 +821,7 @@
   {
     "type": "painting",
     "id": "composition4",
+    "collectionType": "assemble abstract",
     "title": "Composition 4 (Division – Unity)",
     "year": 2020,
     "caption": "2020, acrylic on canvas, 35cm x 35cm",
@@ -775,6 +835,7 @@
   {
     "type": "painting",
     "id": "composition3",
+    "collectionType": "assemble abstract",
     "title": "Composition 3 (Division – Unity)",
     "year": 2020,
     "caption": "2020, acrylic on canvas, 35cm x 35cm",
@@ -788,6 +849,7 @@
   {
     "type": "painting",
     "id": "composition2",
+    "collectionType": "assemble abstract",
     "title": "Composition 2 (Division – Unity)",
     "year": 2020,
     "caption": "2020, acrylic on canvas, 35cm x 35cm",
@@ -801,6 +863,7 @@
   {
     "type": "painting",
     "id": "composition1",
+    "collectionType": "assemble abstract",
     "title": "Composition 1 (Division – Unity)",
     "year": 2020,
     "caption": "2020, acrylic on canvas, 35cm x 35cm",
@@ -814,6 +877,7 @@
   {
     "type": "painting",
     "id": "block201015",
+    "collectionType": "assemble abstract",
     "title": "Block 20-1",
     "year": 2020,
     "caption": "2020, acrylic on canvas, Dimensions variable 35 x 35cm (16)",
@@ -828,6 +892,7 @@
   {
     "type": "painting",
     "id": "twisted-harmony",
+    "collectionType": "assembly",
     "title": "Twisted harmony",
     "year": 2018,
     "caption": "2018, Lego brick on canvas, 53cm x 53cm",
@@ -846,7 +911,8 @@
   {
     "type": "typography",
     "id": "book-Dream Land-assemblogy",
-    "title": "Dream Land·assemblogy | Book",
+    "collectionType": "book",
+    "title": "Dream Land·assemblogy",
     "year": 2023,
     "caption": "2023, Offset, Perfect binding, 203 x 254mm, 72page",
     "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
@@ -867,7 +933,8 @@
   {
     "type": "typography",
     "id": "spaceship",
-    "title": "Wrecked but seemingly undamaged spcaeship | Poster",
+    "collectionType": "poster",
+    "title": "Wrecked but seemingly undamaged spcaeship",
     "year": 2022,
     "caption": "2022, Screen and Print on paper, 101.6 x 57.15cm (3840 x 2160px)",
     "thumb": "img/typography/spaceship/01.jpg",
@@ -878,7 +945,8 @@
   {
     "type": "typography",
     "id": "assemblogy",
-    "title": "Assemblogy: compose and combine | Poster",
+    "collectionType": "poster",
+    "title": "Assemblogy: compose and combine",
     "year": 2022,
     "caption": "2021, print on paper, 59.4 x 84.1cm",
     "thumb": "img/typography/assemblogy/01.jpg",
@@ -889,7 +957,8 @@
   {
     "type": "typography",
     "id": "blue-wedge",
-    "title": "Beat the Reds with Blue wedge | Poster",
+    "collectionType": "poster",
+    "title": "Beat the Reds with Blue wedge",
     "year": 2022,
     "caption": "2022, Print on paper, 29.9 x 24.1cm",
     "thumb": "img/typography/blue-wedge/01.jpg",
@@ -901,7 +970,8 @@
   {
     "type": "typography",
     "id": "poster-buddha",
-    "title": "Dream Land : color | Poster",
+    "collectionType": "poster",
+    "title": "Dream Land : color",
     "year": 2021,
     "caption": "2021, print on paper, 59.4 x 84.1cm",
     "thumb": "img/typography/buddha/01.jpg",
@@ -916,7 +986,8 @@
   {
     "type": "typography",
     "id": "rainwater",
-    "title": "Rainwater | Poster",
+    "collectionType": "poster",
+    "title": "Rainwater",
     "year": 2021,
     "caption": "2021, illustration, 59.4 x 84.1cm",
     "thumb": "img/typography/rainwater/01.jpg",
@@ -928,7 +999,8 @@
   {
     "type": "typography",
     "id": "cycle-gestalt",
-    "title": "Cycle (gestalt) | Poster",
+    "collectionType": "poster",
+    "title": "Cycle (gestalt)",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/01.jpg",
@@ -943,7 +1015,8 @@
   {
     "type": "typography",
     "id": "cycle-triangle",
-    "title": "Cycle (triangle) | Poster",
+    "collectionType": "poster",
+    "title": "Cycle (triangle)",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/02.jpg",
@@ -958,7 +1031,8 @@
   {
     "type": "typography",
     "id": "cycle-circle",
-    "title": "Cycle (circle) | Poster",
+    "collectionType": "poster",
+    "title": "Cycle (circle)",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/03.jpg",
@@ -973,7 +1047,8 @@
   {
     "type": "typography",
     "id": "cycle-square",
-    "title": "Cycle (square) | Poster",
+    "collectionType": "poster",
+    "title": "Cycle (square)",
     "year": 2020,
     "caption": "2020, Digital printing, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/04.jpg",
@@ -988,6 +1063,7 @@
   {
     "type": "news",
     "id": "24-T incheon",
+    "collectionType": "etc",
     "title": "Art·T Incheon",
     "year": 2024,
     "caption": "November 1 - December 1, 2024",
@@ -1014,7 +1090,8 @@
   {
     "type": "news",
     "id": "23-Dream Land-assemblogy",
-    "title": "Dream Land·assemblogy | Publication",
+    "collectionType": "publication",
+    "title": "Dream Land·assemblogy",
     "year": 2023,
     "caption": "November, 2023",
     "info": [
@@ -1057,6 +1134,11 @@
       {
         "title": "Introduction",
         "text": "Dreamland·assemblogy is a catalog that compiles individual exhibitions held at the Gwangmyeong Civic Center and CICA Museum, featuring artist's notes and a curator's essay by Haesun Chung."
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Dream Land·assemblogy.pdf",
+        "fileName": "Dream Land·assemblogy.pdf"
       }
     ],
     "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
@@ -1071,7 +1153,8 @@
   {
     "type": "news",
     "id": "23-CICA PRESS CICA ART NOW 2023",
-    "title": "CICA ART NOW 2023 | Publication",
+    "collectionType": "publication",
+    "title": "CICA ART NOW 2023",
     "year": 2023,
     "caption": "August 31, 2023",
     "info": [
@@ -1099,6 +1182,7 @@
   {
     "type": "news",
     "id": "23-OS Round table",
+    "collectionType": "round table",
     "title": "OS Round table",
     "year": 2023,
     "caption": "January 28, 2023",
@@ -1124,7 +1208,8 @@
   {
     "type": "news",
     "id": "22-Vibrating Birds and Handwritten Letter",
-    "title": "Vibrating Birds and Handwritten Letter | Publication",
+    "collectionType": "publication",
+    "title": "Vibrating Birds and Handwritten Letter",
     "year": 2022,
     "caption": "November 9, 2022",
     "info": [
@@ -1153,9 +1238,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "24-Wess",
-    "title": "Exhibition / Publication | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Exhibition / Publication",
     "year": 2024,
     "caption": "December 5 - 8, 2024",
     "info": [
@@ -1199,9 +1285,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "24-observer",
-    "title": "Harmonic Drive | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Harmonic Drive",
     "year": 2024,
     "caption": "November 22 - December 13, 2024",
     "info": [
@@ -1255,9 +1342,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "24-assembly",
-    "title": "Assembly | Solo exhibition",
+    "collectionType": "solo exhibition",
+    "title": "Assembly",
     "year": 2024,
     "caption": "October 9 - 20, 2024",
     "info": [
@@ -1301,9 +1389,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "23-portrait",
-    "title": "Portrait | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Portrait",
     "year": 2023,
     "caption": "December 28 2022 - January 15 2023",
     "info": [
@@ -1329,9 +1418,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "22-A-vibrating bird-and-a-handwritten-letter",
-    "title": "Vibrating birds and handwritten letter | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Vibrating birds and handwritten letter",
     "year": 2022,
     "caption": "November 9 - December 31, 2022",
     "info": [
@@ -1393,9 +1483,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "22-observer",
-    "title": "VENOMOLD | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "VENOMOLD",
     "year": 2022,
     "caption": "November 16 - 27, 2022 | (Total Nov 2 - Dec 11)",
     "info": [
@@ -1437,9 +1528,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "22-assemblogy",
-    "title": "Assemblogy: compose and combine | Solo exhibition",
+    "collectionType": "solo exhibition",
+    "title": "Assemblogy: compose and combine",
     "year": 2022,
     "caption": "October 19 - 23, 2022",
     "info": [
@@ -1466,6 +1558,11 @@
       {
         "title": "Thanks to",
         "text": "Sangmin Lee"
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Dream Land·assemblogy.pdf",
+        "fileName": "Dream Land·assemblogy.pdf"
       }
     ],
     "thumb": "img/archive/2022-assemblogy/thumb.jpg",
@@ -1482,9 +1579,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-singing-word",
-    "title": "Singing word, singing text | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Singing word, singing text",
     "year": 2021,
     "caption": "December 20 2021 - January 20 2022",
     "info": [
@@ -1515,9 +1613,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-dreamland",
-    "title": "Dream Land: Color | Solo exhibition",
+    "collectionType": "solo exhibition",
+    "title": "Dream Land: Color",
     "year": 2021,
     "caption": "November 28 - 30, 2021",
     "info": [
@@ -1544,6 +1643,11 @@
       {
         "title": "Photo by",
         "text": "Gwangmyeong Foundation for Arts and Culture"
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Dream Land·assemblogy.pdf",
+        "fileName": "Dream Land·assemblogy.pdf"
       }
     ],
     "thumb": "img/archive/2021-dreamland/thumb.jpg",
@@ -1570,9 +1674,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-relativity-circuit",
-    "title": "Relativity Circuit: Sustainability Report | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Relativity Circuit: Sustainability Report",
     "year": 2021,
     "caption": "September 29 - October 4",
     "info": [
@@ -1607,9 +1712,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "21-over-the-structures",
-    "title": "Over the structures 2021 | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Over the structures 2021",
     "year": 2021,
     "caption": "March 10 - March 28, 2021",
     "info": [
@@ -1633,9 +1739,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "20-contactless",
-    "title": "Contactless | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "Contactless",
     "year": 2020,
     "caption": "December 8, 2020 - February 28",
     "info": [
@@ -1672,9 +1779,10 @@
     ]
   },
   {
-    "type": "archive",
+    "type": "archives",
     "id": "18-young-artist",
-    "title": "YOUNG ARTIST CONTEST | Group exhibition",
+    "collectionType": "group exhibition",
+    "title": "YOUNG ARTIST CONTEST",
     "year": 2018,
     "caption": "August 1 - August 24, 2018",
     "info": [

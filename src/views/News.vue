@@ -1,16 +1,16 @@
 <template>
   <div class="wrap">
     <page-title/>
-    <gallery-list/>
+    <contents-with-filter />
   </div>
 </template>
 
 <script>
-import GalleryList from "../components/GalleryList";
 import PageTitle from "../components/PageTitle";
+import ContentsWithFilter from "../components/ContentsWithFilter.vue";
 export default {
   name: "News",
-  components: {PageTitle, GalleryList},
+  components: {ContentsWithFilter, PageTitle},
   data() {
     return {
 

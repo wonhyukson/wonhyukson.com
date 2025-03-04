@@ -1,0 +1,65 @@
+{
+  "sculpture": [{
+    "id": "_ALL_",
+    "name": "전체"
+  },{
+    "id": "assemble sculpture",
+    "name": "조립 조각"
+  },{
+    "id": "dream land",
+    "name": "드림랜드"
+  }],
+  "painting": [{
+    "id": "_ALL_",
+    "name": "전체"
+  },{
+    "id": "assembly",
+    "name": "조립"
+  },{
+    "id": "assemble abstract",
+    "name": "조립 추상"
+  }],
+  "typography": [{
+    "id": "_ALL_",
+    "name": "전체"
+    },{
+      "id": "poster",
+      "name": "포스터"
+    },{
+      "id": "book",
+      "name": "책"
+  }],
+  "texts": [{
+    "id": "_ALL_",
+    "name": "전체"
+  },{
+    "id": "artist critique",
+    "name": "작가 평론"
+  },{
+    "id": "exhibition critique",
+    "name": "전시 평론"
+  }],
+  "archives": [{
+    "id": "_ALL_",
+    "name": "전체"
+  },{
+    "id": "solo exhibition",
+    "name": "개인전"
+  },{
+    "id": "group exhibition",
+    "name": "단체전"
+  }],
+  "news": [{
+    "id": "_ALL_",
+    "name": "전체"
+  },{
+     "id": "publication",
+    "name": "출판"
+  },{
+    "id": "round table",
+    "name": "라운드테이블"
+  },{
+    "id": "etc",
+    "name": "기타"
+  }]
+}
