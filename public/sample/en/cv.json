@@ -16,22 +16,22 @@
       "soloExhibition": {
         "title": "Solo Exhibitions",
         "items": [
-            {
-              "year": "2024",
-              "text": [
-                "Assembly (Buyeon, Incheon, Korea)"
-              ]
-            },
+          {
+            "year": "2024",
+            "text": [
+              "Assembly (Buyeon, Incheon, Korea)"
+            ]
+          },
           {
             "year": "2022",
             "text": [
-              "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)"
+              "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)*"
             ]
           },
           {
             "year": "2021",
             "text": [
-              "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)"
+              "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)*"
             ]
           }
         ]
@@ -85,7 +85,7 @@
         ]
       },
       "Publication": {
-        "title": "Publication",
+        "title": "Publications",
         "items": [
           {
             "year": "2023",
@@ -123,13 +123,13 @@
           {
             "year": "2022",
             "text": [
-              "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)"
+              "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)*"
             ]
           },
           {
             "year": "2021",
             "text": [
-              "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)"
+              "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)*"
             ]
           }
         ]
@@ -180,14 +180,8 @@
         ]
       },
       "project": {
-        "title": "Project",
+        "title": "Projects",
         "items": [
-          {
-            "year": "2024",
-            "text": [
-              "Art·T Incheon (Incheon Foundation For Arts & Culture, Incheon)"
-            ]
-          },
           {
             "year": "2023",
             "text": [
@@ -220,9 +214,21 @@
           }
         ]
       },
-      "ph": {
-        "title": "PH",
+      "division": {
+        "title": "Activities",
         "items": [
+          {
+            "year": "2022 - 2024",
+            "text": [
+              "Collective OBSERVER: SCULPTURE (OS)"
+            ]
+          },
+          {
+            "year": "2020 -",
+            "text": [
+              "Korean Society of Typography"
+            ]
+          },
           {
             "year": "2019",
             "text": [
@@ -231,25 +237,8 @@
           }
         ]
       },
-      "division": {
-        "title": "Divisions",
-        "items": [
-          {
-            "year": "2022 -",
-            "text": [
-              "OBSERVER: SCULPTURE (OS) | Member"
-            ]
-          },
-          {
-            "year": "2020 -",
-            "text": [
-              "Korean Society of Typography | Regular Member"
-            ]
-          }
-        ]
-      },
       "Publication": {
-        "title": "Publication",
+        "title": "Publications",
         "items": [
           {
             "year": "2023",
@@ -285,12 +274,6 @@
             "year": "2021",
             "text": [
               "CA BOOKS #254 『Contactless』"
-            ]
-          },
-          {
-            "year": "2017",
-            "text": [
-              "Creator #9 『IDEA OF CREATION』"
             ]
           }
         ]
