@@ -63,20 +63,21 @@
 </template>
 
 <script>
-import PageTitle from "./PageTitle";
+import PageTitle from "./PageTitle.vue";
 import ImageSlider from "./ImageSlider.vue";
+import {useStore} from "../stores/index.js";
 export default {
   name: "Detail",
   components: { ImageSlider, PageTitle },
   computed: {
     itemData() {
-      return this.$store.state.worksList.find(
-        (item) => item.id === this.$route.params.id
-      );
+      return useStore().worksList.find(
+          (item) => item.id === this.$route.params.id
+      )
     },
   },
   mounted() {
-    this.$store.dispatch("loadWorksList");
+    useStore().loadWorksList()
   },
   data() {
     return {
@@ -88,7 +89,6 @@ export default {
       if (this.showSlider) {
         return;
       }
-      // console.log('썸네일 index는?! >>>', index)
       this.$refs["slider-component"].currentIndex = index + 1;
       this.$refs["slider-component"].sliderOpacity = 1;
       this.showSlider = true;
