@@ -12,8 +12,12 @@
                class="contact-icon-item contact-email-icon"></div>
           <a href="https://www.instagram.com/wonhyuk_son/"
              :style="{backgroundImage: 'url(' + svgIcon.get('instagramIcon', false, 'white') + ')'}"
+             target="_blank"
              class="contact-icon-item contact-instagram-icon"></a>
         </div>
+      </li>
+      <li class="lang-wrap">
+        <LangContainer class="is-mobile" />
       </li>
     </ul>
   </div>
@@ -22,9 +26,12 @@
 <script>
 import svgIcon from "../../public/img/svgIcon";
 import {useStore} from "../stores/index.js";
+import LangContainer from "./LangContainer.vue";
+import Constants from "../contants/constants.js";
 
 export default {
   name: "MobileHamburgerMenu",
+  components: {LangContainer},
   computed: {
     svgIcon() {
       return svgIcon
@@ -50,7 +57,7 @@ export default {
     },
     onClickEmailIcon(lang) {
       navigator.clipboard.writeText("xg6033@gmail.com")
-      if (lang === 'kr') {
+      if (lang === Constants.lang.ko) {
         alert('이메일 주소가 복사되었습니다.')
       } else {
         alert('Email address copied.')
@@ -110,7 +117,7 @@ export default {
     }
 
     .contact-wrap {
-      margin-top: 24px;
+      margin: 24px 0 16px;
 
       h4 {
         font-weight: 400;
