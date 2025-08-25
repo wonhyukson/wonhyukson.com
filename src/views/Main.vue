@@ -1,6 +1,6 @@
 <template>
   <div class="wrap">
-    <PageTitle v-if="!isTouchDevice" />
+    <PageTitle/>
     <div
       :style="{ backgroundImage: 'url(img/main/01' + isTouchDevice + '.jpg)' }"
       class="spot"
@@ -47,6 +47,7 @@ import PageTitle from "../components/PageTitle.vue";
 import GalleryListItem from "../components/GalleryListItem.vue";
 import svgIcon from "../../public/img/svgIcon";
 import {useStore} from "../stores/index.js";
+import Constants from "../contants/constants.js";
 
 export default {
   name: "Main",
@@ -62,7 +63,7 @@ export default {
         : "";
     },
     isKorean() {
-      return useStore().lang === "kr";
+      return useStore().lang === Constants.lang.ko;
     },
     exhibitionListData() {
       let list = useStore().worksList;
@@ -78,7 +79,7 @@ export default {
     },
   },
   mounted() {
-    useStore().loadWorksList();
+    // useStore().loadWorksList();
   },
 };
 </script>

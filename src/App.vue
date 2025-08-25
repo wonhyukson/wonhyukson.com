@@ -9,7 +9,7 @@
 
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
-@import "src/assets/css/reset.css";
+@import "/src/assets/css/reset.css";
 
 body{
   font-size: 16px;
@@ -65,9 +65,16 @@ import {defineComponent} from "vue";
 import GlobalNav from "./components/GlobalNav.vue";
 import MobileGlobalNav from "./components/MobileGlobalNav.vue";
 import Copyright from "./components/Copyright.vue";
+import {useStore} from "./stores/index.js";
 
 export default defineComponent({
-  components: {Copyright, MobileGlobalNav, GlobalNav}
+  components: {Copyright, MobileGlobalNav, GlobalNav},
+  mounted() {
+    useStore().loadWorksList();
+    useStore().loadCv();
+    useStore().loadReview();
+    useStore().loadFilterList();
+  }
 })
 
 </script>

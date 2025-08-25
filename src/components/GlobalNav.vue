@@ -18,15 +18,16 @@
 
 <script>
 import svgIcon from "../../public/img/svgIcon";
+import Constants from "../contants/constants.js";
 export default {
   name: "GlobalNav",
   computed: {
     svgIcon() {
       return svgIcon
     },
-    /*currentLang() {
+    currentLang() {
       return this.$store.state.lang
-    }*/
+    }
   },
   mounted() {
     this.menu = this.$router.options.gnb;
@@ -39,7 +40,7 @@ export default {
   methods: {
      onClickEmailIcon(lang) {
        navigator.clipboard.writeText("xg60333@gmail.com")
-       if (lang === 'kr') {
+       if (lang === Constants.lang.ko) {
          alert('이메일 주소가 복사되었습니다.')
        } else {
          alert('Email address copied.')
