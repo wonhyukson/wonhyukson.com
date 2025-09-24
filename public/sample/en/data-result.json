@@ -910,6 +910,25 @@
   },
   {
     "type": "typography",
+    "id": "book-Incheon-Qingdao Rubbing Project",
+    "collectionType": "book",
+    "title": "Incheon-Qingdao Rubbing Project",
+    "year": 2025,
+    "caption": "2025, Indigo printing, Saddle Stitch, 148 x 210mm, 56page",
+    "thumb": "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+    "imgs": [
+      "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/02.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/03.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/04.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/05.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
+    ]
+  },
+  {
+    "type": "typography",
     "id": "book-Dream Land-assemblogy",
     "collectionType": "book",
     "title": "Dream Land·assemblogy",
@@ -1059,6 +1078,68 @@
       "img/typography/cycle/04.jpg"
     ],
     "text": "The principle of stroke addition, which changes shape as sound becomes stronger and weaker, can be compared implicitly to the circulation of the human world through the use of letters created by humans again.\nThere is a surreal structure in which the beginning and end of time cannot be separated, as well as geometric and concrete artistic characteristics in the form of sans serif."
+  },
+  {
+    "type": "news",
+    "id": "25-Incheon-Qingdao Rubbing Project",
+    "collectionType": "publication",
+    "title": "Incheon-Qingdao Rubbing Project",
+    "year": 2025,
+    "caption": "August, 2025",
+    "info": [
+      {
+        "title": "Specification",
+        "text": "Indigo printing, Saddle Stitch, 148 x 210mm, 56page"
+      },
+      {
+        "title": "Coordinated by",
+        "text": "Kixung Eum"
+      },
+      {
+        "title": "Designed by",
+        "text": "Wonhyuk Son"
+      },
+      {
+        "title": "Photo by",
+        "text": "Mina Park"
+      },
+      {
+        "title": "Translated by",
+        "text": "Gahyeon Nam"
+      },
+      {
+        "title": "Thanks to",
+        "text": "Wang Peng, Incheon Spectacle"
+      },
+      {
+        "title": "Printed by",
+        "text": "TAESAN Indigo"
+      },
+      {
+        "title": "Sponsored by",
+        "text": "Incheon Metropolitan City, Incheon Foundation for Arts and Culture, Space Ilbu"
+      },
+      {
+        "title": "Introduction",
+        "text": "A booklet of Incheon and Qingdao rubbings from the Incheon Foundation for Arts and Culture's Korea-China Youth Joint City Documentation 'Your City, My City' project."
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Incheon-Qingdao Rubbing Project.pdf",
+        "fileName": "Incheon-Qingdao Rubbing Project.pdf"
+      }
+    ],
+    "thumb": "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+    "imgs": [
+      "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/02.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/03.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/04.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/05.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
+    ]
   },
   {
     "type": "news",

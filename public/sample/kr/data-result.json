@@ -911,6 +911,25 @@
   },
   {
     "type": "typography",
+    "id": "book-Incheon-Qingdao Rubbing Project",
+    "collectionType": "book",
+    "title": "인천-칭다오 탁본 프로젝트",
+    "year": 2025,
+    "caption": "2025, 인디고 인쇄, 중철제본, 148 x 210mm, 56쪽",
+    "thumb": "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+    "imgs": [
+      "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/02.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/03.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/04.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/05.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
+    ]
+  },
+  {
+    "type": "typography",
     "id": "book-Dream Land-assemblogy",
     "collectionType": "book",
     "title": "드림랜드·조립학",
@@ -1060,6 +1079,68 @@
       "img/typography/cycle/04.jpg"
     ],
     "text": "인간이 창조해낸 글자를 통해 다시 인간의 세상을 바라보며 해석한다.\n소리가 세어지고 약해짐에 따라 형태가 변화되는 가획의 원리는 인간 세상의 순환을 함축적으로 비유할 수 있다\n각기 다른 모습과 성질을 내포하지만 결국에는 한 맥락 속에서 기본 도형인 원, 네모, 세모의 균형으로 맞추어 나아간다.\n그렇기 때문에 시간의 시작과 끝이 구분이 안가는 초현실적인 구조도 내포되어 있고, 산세리프 형태의 기하학적이고 구체예술적 성격이 두드러진다."
+  },
+  {
+    "type": "news",
+    "id": "25-Incheon-Qingdao Rubbing Project",
+    "collectionType": "publication",
+    "title": "인천-칭다오 탁본 프로젝트",
+    "year": 2025,
+    "caption": "2025년 8월",
+    "info": [
+      {
+        "title": "사양",
+        "text": "인디고 인쇄, 중철제본, 148 x 210mm, 56쪽"
+      },
+      {
+        "title": "진행",
+        "text": "엄기성"
+      },
+      {
+        "title": "디자인",
+        "text": "손원혁"
+      },
+      {
+        "title": "사진",
+        "text": "박민아"
+      },
+      {
+        "title": "번역",
+        "text": "남가현"
+      },
+      {
+        "title": "도움",
+        "text": "왕펑, 인천스펙타클"
+      },
+      {
+        "title": "인쇄",
+        "text": "태산인디고"
+      },
+      {
+        "title": "후원",
+        "text": "인천광역시, 인천문화재단, 시작공간일부"
+      },
+      {
+        "title": "소개",
+        "text": "인천문화재단 한중 청년 공동 도시기록 <너의 도시, 나의도시> 프로젝트의 일환으로 인천과 칭다오 도시의 탁본을 엮은 책자입니다."
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Incheon-Qingdao Rubbing Project.pdf",
+        "fileName": "인천-칭다오 탁본 프로젝트.pdf"
+      }
+    ],
+    "thumb": "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+    "imgs": [
+      "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/02.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/03.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/04.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/05.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
+      "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
+    ]
   },
   {
     "type": "news",
@@ -1405,7 +1486,7 @@
         "text": "CICA 미술관"
       }
     ],
-    "thumb":"img/archive/2023-portrait/thumb.jpg",
+    "thumb": "img/archive/2023-portrait/thumb.jpg",
     "imgs": [
       "img/archive/2023-portrait/thumb.jpg",
       "img/archive/2023-portrait/01.jpg",
@@ -1503,7 +1584,7 @@
         "text": "양이언"
       }
     ],
-    "thumb":"img/archive/2022-observer/07.jpg",
+    "thumb": "img/archive/2022-observer/07.jpg",
     "imgs": [
       "img/archive/2022-observer/thumb.jpg",
       "img/archive/2022-observer/07.jpg",
