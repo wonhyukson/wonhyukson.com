@@ -1,24 +1,21 @@
 <template>
   <div class="wrap">
-    <page-title/>
+    <page-title />
     <contents-with-filter />
   </div>
 </template>
 
 <script>
-import PageTitle from "../components/PageTitle";
+import PageTitle from "../components/PageTitle.vue";
 import ContentsWithFilter from "../components/ContentsWithFilter.vue";
+
 export default {
   name: "News",
-  components: {ContentsWithFilter, PageTitle},
+  components: { ContentsWithFilter, PageTitle },
   data() {
-    return {
-
-    }
-  }
-}
+    return {};
+  },
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
