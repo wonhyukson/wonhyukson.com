@@ -90,7 +90,17 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』, Independent Publishing"
+              "Dream Land·assemblogy, Independent Publishing"
+            ]
+          }
+        ]
+      },
+      "PublicCollection": {
+        "title": "Public Collection",
+        "items": [
+          {
+            "text": [
+              "Incheon Art Bank, Korea"
             ]
           }
         ]
@@ -249,7 +259,17 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』, Independent Publishing"
+              "Dream Land·assemblogy, Independent Publishing"
+            ]
+          }
+        ]
+      },
+      "PublicCollection": {
+        "title": "Public Collection",
+        "items": [
+          {
+            "text": [
+              "Incheon Art Bank, Korea"
             ]
           }
         ]
