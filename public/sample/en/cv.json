@@ -234,13 +234,19 @@
         "title": "Activities",
         "items": [
           {
+            "year": "2025",
+            "text": [
+              "Incheon Art Platform Archive Coordinator"
+            ]
+          },
+          {
             "year": "2022 - 2024",
             "text": [
               "Collective OBSERVER: SCULPTURE (OS)"
             ]
           },
           {
-            "year": "2020 -",
+            "year": "2020 - present",
             "text": [
               "Korean Society of Typography"
             ]
@@ -268,6 +274,7 @@
         "title": "Public Collections",
         "items": [
           {
+            "year": "2025",
             "text": [
               "Incheon Art Bank, Korea"
             ]
