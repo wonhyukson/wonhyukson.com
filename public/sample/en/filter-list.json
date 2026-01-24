@@ -22,12 +22,12 @@
   "typography": [{
     "id": "_ALL_",
     "name": "All"
-    },{
-      "id": "poster",
-      "name": "Poster"
-    },{
-      "id": "book",
-      "name": "Book"
+  },{
+    "id": "poster",
+    "name": "Poster"
+  },{
+    "id": "book",
+    "name": "Book"
   }],
   "texts": [{
     "id": "_ALL_",
@@ -53,13 +53,13 @@
     "id": "_ALL_",
     "name": "All"
   },{
-     "id": "publication",
+    "id": "publication",
     "name": "Publication"
   },{
     "id": "round table",
     "name": "Round table"
   },{
-    "id": "etc",
-    "name": "Etc"
+    "id": "selection",
+    "name": "Selection"
   }]
 }

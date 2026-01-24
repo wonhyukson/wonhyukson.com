@@ -22,12 +22,12 @@
   "typography": [{
     "id": "_ALL_",
     "name": "전체"
-    },{
-      "id": "poster",
-      "name": "포스터"
-    },{
-      "id": "book",
-      "name": "책"
+  },{
+    "id": "poster",
+    "name": "포스터"
+  },{
+    "id": "book",
+    "name": "책"
   }],
   "texts": [{
     "id": "_ALL_",
@@ -53,13 +53,13 @@
     "id": "_ALL_",
     "name": "전체"
   },{
-     "id": "publication",
+    "id": "publication",
     "name": "출판"
   },{
     "id": "round table",
     "name": "라운드테이블"
   },{
-    "id": "etc",
-    "name": "기타"
+    "id": "selection",
+    "name": "선정"
   }]
 }

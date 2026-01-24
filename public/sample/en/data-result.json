@@ -1062,6 +1062,28 @@
   },
   {
     "type": "news",
+    "id": "25-Incheon-Art-Bank-Collection",
+    "collectionType": "selection",
+    "title": "Incheon Art Bank Collection",
+    "year": 2025,
+    "caption": "November 25, 2025",
+    "info": [
+      {
+        "title": "Collection",
+        "text": "Incheon Art Bank"
+      },
+      {
+        "title": "Caption",
+        "text": "Block, 2023, Acrylic on canvas, 53 x 53cm"
+      }
+    ],
+    "thumb": "img/news/25-Incheon-Art-Bank-Collection/01.png",
+    "imgs": [
+      "img/painting/Block20231002/01.jpg"
+    ]
+  },
+  {
+    "type": "news",
     "id": "25-Incheon-Qingdao-Rubbing-Project",
     "collectionType": "publication",
     "title": "Incheon-Qingdao Rubbing Project",
