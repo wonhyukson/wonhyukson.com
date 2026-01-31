@@ -45,9 +45,6 @@ export default {
   display: flex;
   gap: 16px;
   margin-bottom: 24px;
-  overflow: auto hidden;
-  margin-left: -16px;
-  width: calc(100% + 32px);
 
   // 스크롤바 숨기기
   -ms-overflow-style: none;
@@ -68,6 +65,14 @@ export default {
     &.is-active {
       color: #000;
     }
+  }
+}
+
+@media (max-width: 768px) {
+  .filter-list {
+    overflow: auto hidden;
+    margin-left: -16px;
+    width: calc(100% + 32px);
   }
 }
 </style>
