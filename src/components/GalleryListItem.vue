@@ -1,11 +1,11 @@
 <template>
   <div class="item-wrap">
     <router-link
-      :to="`/${itemData.type}/${itemData.id}`"
+      :to="`/${useStore().lang}/${itemData.type}/${itemData.id}`"
       @click="onClickArtworkList"
     >
       <div :class="{ archives: itemData.type === 'archives' }" class="bg-img">
-        <img :src="itemData.thumb" alt="" />
+        <img :src="'/' + itemData.thumb" :alt="itemData.title + ' thumbnail'" />
       </div>
       <template v-if="this.$route.name !== 'Main'">
         <p class="text-title">{{ itemData.title }}</p>
@@ -20,6 +20,8 @@
 </template>
 
 <script>
+import {useStore} from "../stores/index.js";
+
 export default {
   name: "GalleryListItem",
   props: {
@@ -32,6 +34,7 @@ export default {
   },
 
   methods: {
+    useStore,
     onClickArtworkList() {
       this.$emit("invisible", !this.displayList);
     },

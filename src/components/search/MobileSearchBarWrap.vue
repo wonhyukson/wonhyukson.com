@@ -13,6 +13,7 @@
 
 <script>
 import svgIcon from "../../../public/img/svgIcon.js";
+import {useStore} from "../../stores/index.js";
 
 export default {
   name: "MobileSearchBarWrap",
@@ -30,11 +31,12 @@ export default {
     }
   },
   methods: {
+    useStore,
     onHandleSearch() {
       if (!this.inputText || this.inputText.length === 0) {
         return;
       }
-      this.$router.push(`/search/${this.inputText}`);
+      this.$router.push(`/${useStore().lang}/search/${this.inputText}`);
       this.$emit('closeSearchBar');
     },
     onClickDimArea() {
@@ -46,6 +48,7 @@ export default {
 
 <style scoped lang="scss">
 .mobile-search-bar-wrap {
+  display: none;
   width: 100%;
   height: 100svh;
   visibility: hidden;
@@ -147,6 +150,12 @@ export default {
     .mobile-search-bar-dim {
       opacity: 0.5;
     }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .mobile-search-bar-wrap {
+    display: block;
   }
 }
 </style>

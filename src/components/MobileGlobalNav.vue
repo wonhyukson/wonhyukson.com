@@ -1,6 +1,7 @@
 <template>
-  <div id="mobile-nav" :class="[{active: this.showMobileNav}, {'open-search': this.showMobileSearchBar}]" v-if="this.$route.name !== 'Intro'">
-    <router-link @click="closeMobileMenu(false)" to="/main" class="logo">Wonhyuk Son</router-link>
+  <nav id="mobile-nav" v-if="this.$route.name !== 'Intro'"
+       :class="[{active: this.showMobileNav}, {'open-search': this.showMobileSearchBar}]">
+    <router-link @click="closeMobileMenu(false)" :to="`/${useStore().lang}/main`" class="logo">Wonhyuk Son</router-link>
     <div class="search-bar-wrap">
       <button @click="onClickMobileSearchActiveBtn" class="search-active-btn">
         <span :style="{maskImage: 'url(' + svgIcon.get(!showMobileSearchBar ? 'searchIcon' : 'searchCloseIcon') + ')'}"
@@ -10,8 +11,9 @@
     <button class="btn-hamburger" @click="onClickMenu">
       <span></span>
     </button>
-  </div>
-  <MobileSearchBarWrap :show-mobile-search-bar="this.showMobileSearchBar" @closeSearchBar="closeMobileSearchBar" ref="mobileSearchBarWarp" />
+  </nav>
+  <MobileSearchBarWrap :show-mobile-search-bar="this.showMobileSearchBar" @closeSearchBar="closeMobileSearchBar"
+                       ref="mobileSearchBarWarp"/>
   <MobileHamburgerMenu :is-active="this.showMobileNav" @removeClass="closeMobileMenu"/>
 </template>
 
@@ -21,6 +23,7 @@ import MobileHamburgerMenu from "./MobileHamburgerMenu.vue";
 import svgIcon from "../../public/img/svgIcon.js";
 import MobileSearchBarWrap from "./search/MobileSearchBarWrap.vue";
 import LangContainer from "./LangContainer.vue";
+import {useStore} from "../stores/index.js";
 
 export default {
   name: "MobileGlobalNav",
@@ -29,6 +32,9 @@ export default {
     svgIcon() {
       return svgIcon
     },
+    searchKeywordInStore() {
+      return useStore().searchKeyword;
+    }
   },
   mounted() {
     window.addEventListener('scroll', this.onScrollToggleClass);
@@ -42,7 +48,19 @@ export default {
       showMobileSearchBar: false,
     }
   },
+  watch: {
+    // store에 값이 있을 때(search 페이지에 params가 있을 때) 검색어 기본 값 설정
+    searchKeywordInStore(newValue) {
+      console.log('test')
+      if (!newValue || newValue.length === 0) {
+        return;
+      }
+      this.inputText = newValue;
+      this.showSearchInput = true;
+    }
+  },
   methods: {
+    useStore,
     onClickMenu() {
       this.showMobileNav = !this.showMobileNav
       this.showMobileSearchBar = false;

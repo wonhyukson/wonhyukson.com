@@ -1,8 +1,8 @@
 <template>
-  <div class="wrap">
+  <main class="wrap">
     <PageTitle/>
     <div
-      :style="{ backgroundImage: 'url(img/main/01' + isTouchDevice + '.jpg)' }"
+      :style="{ backgroundImage: 'url(/img/main/01' + isTouchDevice + '.jpg)' }"
       class="spot"
     ></div>
     <div class="contents">
@@ -39,7 +39,7 @@
         </ul>
       </div>
     </div>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -78,15 +78,13 @@ export default {
       return list ? filtered : [];
     },
   },
-  mounted() {
-    // useStore().loadWorksList();
-  },
 };
 </script>
 
 <style lang="scss" scoped>
 .wrap {
   margin: 0;
+  padding: 0;
   position: relative;
 
   .spot {
