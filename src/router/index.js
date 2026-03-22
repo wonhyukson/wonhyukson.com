@@ -1,11 +1,19 @@
 import { createRouter, createWebHistory } from "vue-router";
-import Sculpture from "../views/Sculpture.vue";
+import Main from "../views/Main.vue";
 
 const gnb = [
   {
+    path: "/:lang(ko|en)/works",
+    name: "Works",
+    component: () => import("../views/Works.vue"),
+    meta: {
+      isWorks: true,
+    },
+  },
+  /*{
     path: "/:lang(ko|en)/sculpture",
     name: "Sculpture",
-    component: Sculpture,
+    component: () => import("../views/Sculpture.vue"),
     meta: {
       isWorks: true,
     },
@@ -17,7 +25,7 @@ const gnb = [
     meta: {
       isWorks: true,
     },
-  },
+  },*/
   {
     path: "/:lang(ko|en)/typography",
     name: "Typography",
@@ -55,23 +63,33 @@ const routes = [
   {
     path: "/",
     name: "Intro",
+    redirect: '/en/main'
+  },
+  /*{
+    path: "/",
+    name: "Intro",
     component: () => import("../views/Intro.vue"),
     // redirect: '/sculpture'
-  },
+  },*/
   {
-    path: "/:lang(ko|en)/:works/:id",
+    path: "/:lang(ko|en)/:works(works|texts|archives|news)/:id",
     name: "DetailPage",
     component: () => import("../components/Detail.vue"),
   },
   {
     path: "/:lang(ko|en)/main",
     name: "Main",
-    component: () => import("../views/Main.vue"),
+    component: Main,
   },
   {
     path: "/:lang(ko|en)/search/:keyword",
     name: "Search",
     component: () => import("../views/Search.vue"),
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    name: 'NotFound',
+    component: () => import('../views/NotFound.vue')
   },
   ...gnb,
 ];
