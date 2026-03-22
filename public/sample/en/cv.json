@@ -3,12 +3,12 @@
     "name": "Selected CV",
     "list": {
       "profile": {
-        "title": "Wonhyuk Son",
+        "title": "Wonhyuk Son (b.1999)",
         "items": [
           {
             "year": null,
             "text": [
-              "Born in 1999 Seoul, South Korea"
+              "Through the iterative assembly and disassembly of modules, non-linear spatiotemporality is reconfigured, mapping the trajectories of the image’s response to the physical environment."
             ]
           }
         ]
@@ -21,35 +21,23 @@
             "text": [
               "Assembly (Buyeon, Incheon, Korea)"
             ]
-          },
-          {
-            "year": "2022",
-            "text": [
-              "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)*"
-            ]
-          },
-          {
-            "year": "2021",
-            "text": [
-              "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)*"
-            ]
           }
         ]
       },
       "groupExhibition": {
-        "title": "Group Exhibitions (*catalog)",
+        "title": "Group Exhibitions",
         "items": [
           {
             "year": "2024",
             "text": [
               "WESS Exhibition / Publication (daPalm, Seoul, Korea)",
-              "Harmonic Drive (moonrise kingdom, Seoul, Korea)*"
+              "Harmonic Drive (moonrise kingdom, Seoul, Korea)"
             ]
           },
           {
             "year": "2022",
             "text": [
-              "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)*",
+              "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
               "VENOMOLD (Gallery OOOJH, Seoul, Korea)"
             ]
           },
@@ -67,19 +55,20 @@
           {
             "year": "2024",
             "text": [
-              "Incheon Foundation For Arts & Culture grant"
+              "Incheon Foundation For Arts & Culture grant(IFAC)"
             ]
           },
           {
             "year": "2023",
             "text": [
-              "Incheon Foundation For Arts & Culture grant"
+              "Incheon Foundation For Arts & Culture grant(IFAC)",
+              "Incheon Foundation For Arts & Culture, Space ilbu grant(IFAC)"
             ]
           },
           {
             "year": "2021",
             "text": [
-              "Gwangmyeong Cultural Foundation grant"
+              "Gwangmyeong Cultural Foundation grant(GMCF)"
             ]
           }
         ]
@@ -122,7 +111,7 @@
         ]
       },
       "soloExhibition": {
-        "title": "Solo Exhibitions",
+        "title": "Solo Exhibitions (*catalog)",
         "items": [
           {
             "year": "2024",
@@ -155,12 +144,6 @@
             ]
           },
           {
-            "year": "2023",
-            "text": [
-              "Portrait (CICA Museum, Gimpo, Korea)"
-            ]
-          },
-          {
             "year": "2022",
             "text": [
               "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)*",
@@ -170,21 +153,13 @@
           {
             "year": "2021",
             "text": [
-              "Singing word, singing text (COEX, Seoul, Korea, Metaverse online)",
-              "Relativity Circuit: Sustainability Report (Dongduk art gallery, Seoul, Korea)",
-              "Over the structures (CICA Museum, Gimpo, Korea)"
+              "Relativity Circuit: Sustainability Report (Dongduk art gallery, Seoul, Korea)"
             ]
           },
           {
             "year": "2020",
             "text": [
-              "Contactless (Culture Station Seoul 284 RTO, Seoul, Korea, Online)"
-            ]
-          },
-          {
-            "year": "2018",
-            "text": [
-              "International young artist contest (Gallery We, Seoul, Korea)"
+              "Contactless (Culture Station Seoul 284 RTO, Seoul, Korea)*"
             ]
           }
         ]
@@ -197,12 +172,6 @@
             "text": [
               "Incheon-Qingdao Rubbing Project (Incheon·Qingdao, Incheon Foundation For Arts & Culture)"
             ]
-          },
-          {
-            "year": "2023",
-            "text": [
-              "Orgin of forms: Letters and typography (Online, Incheon Foundation For Arts & Culture)"
-            ]
           }
         ]
       },
@@ -212,49 +181,20 @@
           {
             "year": "2024",
             "text": [
-              "Incheon Foundation For Arts & Culture grant"
+              "Incheon Foundation For Arts & Culture grant(IFAC)"
             ]
           },
           {
             "year": "2023",
             "text": [
-              "Incheon Foundation For Arts & Culture grant",
-              "Incheon Foundation For Arts & Culture, Space ilbu grant"
+              "Incheon Foundation For Arts & Culture grant(IFAC)",
+              "Incheon Foundation For Arts & Culture, Space ilbu grant(IFAC)"
             ]
           },
           {
             "year": "2021",
             "text": [
-              "Gwangmyeong Cultural Foundation grant"
-            ]
-          }
-        ]
-      },
-      "division": {
-        "title": "Activities",
-        "items": [
-          {
-            "year": "2025",
-            "text": [
-              "Incheon Art Platform Archive Coordinator"
-            ]
-          },
-          {
-            "year": "2022 - 2024",
-            "text": [
-              "Collective OBSERVER: SCULPTURE (OS)"
-            ]
-          },
-          {
-            "year": "2020 - present",
-            "text": [
-              "Korean Society of Typography"
-            ]
-          },
-          {
-            "year": "2019",
-            "text": [
-              "AhnGraphics Publishers | Designer (intern)"
+              "Gwangmyeong Cultural Foundation grant(GMCF)"
             ]
           }
         ]
@@ -281,15 +221,38 @@
           }
         ]
       },
-      "References": {
-        "title": "References",
+      "division": {
+        "title": "Activities",
         "items": [
           {
             "year": "2025",
             "text": [
-              "Independent Publishing 『Incheon-Qingdao Rubbing Project』"
+              "Incheon Art Platform Archive Coordinator"
             ]
           },
+          {
+            "year": "2022 - 2024",
+            "text": [
+              "Collective OBSERVER: SCULPTURE (OS)"
+            ]
+          },
+          {
+            "year": "2020 - present",
+            "text": [
+              "Korean Society of Typography | Regular member"
+            ]
+          },
+          {
+            "year": "2019",
+            "text": [
+              "AhnGraphics Publishers | Designer (intern)"
+            ]
+          }
+        ]
+      },
+      "References": {
+        "title": "References",
+        "items": [
           {
             "year": "2024",
             "text": [
@@ -299,7 +262,6 @@
           {
             "year": "2023",
             "text": [
-              "Independent Publishing 『Dream Land·assemblogy』",
               "CICA PRESS 『CICA ART NOW 2023』"
             ]
           },
