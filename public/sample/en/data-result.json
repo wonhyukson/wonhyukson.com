@@ -1,32 +1,5 @@
 [
   {
-    "type": "sculpture",
-    "id": "assemble-sculpture24",
-    "collectionType": "assemble sculpture",
-    "title": "Assemble sculpture",
-    "year": 2024,
-    "thumb": "img/sculpture/assemblesculpture24/01.jpg",
-    "imgs": [
-      "img/sculpture/assemblesculpture24/01.jpg",
-      "img/sculpture/assemblesculpture24/02.jpg"
-    ],
-    "caption": "Collaboration with Plasterer, 2024, mortar, cement, mesh net, Acrylic on panel, Dimensions variable 37.9 x 37.9 x 2.5cm (8)"
-  },
-  {
-    "type": "sculpture",
-    "id": "assemble-sculpture20240901",
-    "collectionType": "assemble sculpture",
-    "title": "Assemble sculpture",
-    "year": 2024,
-    "thumb": "img/sculpture/assemblesculpture20240901/01.jpg",
-    "imgs": [
-      "img/sculpture/assemblesculpture20240901/01.jpg",
-      "img/sculpture/assemblesculpture20240901/02.jpg",
-      "img/sculpture/assemblesculpture20240901/03.jpg"
-    ],
-    "caption": "2024, Acrylic on panel, colored lego brick, Dimensions variable 72.7 x 60.6 x 7.5cm (3)"
-  },
-  {
     "type": "painting",
     "id": "Assembly20240909",
     "collectionType": "assembly",
@@ -69,30 +42,31 @@
     ]
   },
   {
-    "type": "painting",
-    "id": "Assembly-dawn-2",
-    "collectionType": "assemble abstract",
-    "title": "Assembly dawn",
-    "year": 2023,
-    "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
-    "thumb": "img/painting/Assembly-dawn-2/01.jpg",
+    "type": "sculpture",
+    "id": "assemble-sculpture20240901",
+    "collectionType": "assemble sculpture",
+    "title": "Assemble sculpture",
+    "year": 2024,
+    "thumb": "img/sculpture/assemblesculpture20240901/01.jpg",
     "imgs": [
-      "img/painting/Assembly-dawn-2/01.jpg",
-      "img/painting/Assembly-dawn-1/01.jpg"
-    ]
+      "img/sculpture/assemblesculpture20240901/01.jpg",
+      "img/sculpture/assemblesculpture20240901/02.jpg",
+      "img/sculpture/assemblesculpture20240901/03.jpg"
+    ],
+    "caption": "2024, Acrylic on panel, colored lego brick, Dimensions variable 72.7 x 60.6 x 7.5cm (3)"
   },
   {
-    "type": "painting",
-    "id": "Assembly-dawn-1",
-    "collectionType": "assemble abstract",
-    "title": "Assembly dawn",
-    "year": 2023,
-    "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
-    "thumb": "img/painting/Assembly-dawn-1/01.jpg",
+    "type": "sculpture",
+    "id": "assemble-sculpture24",
+    "collectionType": "assemble sculpture",
+    "title": "Assemble sculpture",
+    "year": 2024,
+    "thumb": "img/sculpture/assemblesculpture24/01.jpg",
     "imgs": [
-      "img/painting/Assembly-dawn-1/01.jpg",
-      "img/painting/Assembly-dawn-2/01.jpg"
-    ]
+      "img/sculpture/assemblesculpture24/01.jpg",
+      "img/sculpture/assemblesculpture24/02.jpg"
+    ],
+    "caption": "Collaboration with Plasterer, 2024, mortar, cement, mesh net, Acrylic on panel, Dimensions variable 37.9 x 37.9 x 2.5cm (8)"
   },
   {
     "type": "painting",
@@ -215,6 +189,32 @@
     "thumb": "img/painting/Block20231002/01.jpg",
     "imgs": [
       "img/painting/Block20231002/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly-dawn-2",
+    "collectionType": "assemble abstract",
+    "title": "Assembly abstract",
+    "year": 2023,
+    "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
+    "thumb": "img/painting/Assembly-dawn-2/01.jpg",
+    "imgs": [
+      "img/painting/Assembly-dawn-2/01.jpg",
+      "img/painting/Assembly-dawn-1/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "Assembly-dawn-1",
+    "collectionType": "assemble abstract",
+    "title": "Assembly abstract",
+    "year": 2023,
+    "caption": "2023-2024, Acrylic on canvas, 37.9 x 37.9cm",
+    "thumb": "img/painting/Assembly-dawn-1/01.jpg",
+    "imgs": [
+      "img/painting/Assembly-dawn-1/01.jpg",
+      "img/painting/Assembly-dawn-2/01.jpg"
     ]
   },
   {
