@@ -54,6 +54,34 @@
           }
         ]
       },
+      "project": {
+        "title": "Curatorial Projects",
+        "items": [
+          {
+            "year": "2026",
+            "text": [
+              "Incheon Art Road (Incheon Art Platform, Incheon) co-curated"
+            ]
+          },
+          {
+            "year": "2025",
+            "text": [
+              "Incheon-Qingdao Rubbing Project (Incheon·Qingdao, Incheon Foundation For Arts & Culture) co-curated"
+            ]
+          }
+        ]
+      },
+      "Publication": {
+        "title": "Publications",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "Dream Land·assemblogy, Independent Publishing"
+            ]
+          }
+        ]
+      },
       "prizeArchive": {
         "title": "Awards and Grants",
         "items": [
@@ -74,17 +102,6 @@
             "year": "2021",
             "text": [
               "Gwangmyeong Cultural Foundation grant(GMCF)"
-            ]
-          }
-        ]
-      },
-      "Publication": {
-        "title": "Publications",
-        "items": [
-          {
-            "year": "2023",
-            "text": [
-              "Dream Land·assemblogy, Independent Publishing"
             ]
           }
         ]
@@ -170,12 +187,29 @@
         ]
       },
       "project": {
-        "title": "Projects",
+        "title": "Curatorial Projects",
         "items": [
+          {
+            "year": "2026",
+            "text": [
+              "Incheon Art Road (Incheon Art Platform, Incheon) co-curated"
+            ]
+          },
           {
             "year": "2025",
             "text": [
-              "Incheon-Qingdao Rubbing Project (Incheon·Qingdao, Incheon Foundation For Arts & Culture)"
+              "Incheon-Qingdao Rubbing Project (Incheon·Qingdao, Incheon Foundation For Arts & Culture) co-curated"
+            ]
+          }
+        ]
+      },
+      "Publication": {
+        "title": "Publications",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "Dream Land·assemblogy, Independent Publishing"
             ]
           }
         ]
@@ -200,17 +234,6 @@
             "year": "2021",
             "text": [
               "Gwangmyeong Cultural Foundation grant(GMCF)"
-            ]
-          }
-        ]
-      },
-      "Publication": {
-        "title": "Publications",
-        "items": [
-          {
-            "year": "2023",
-            "text": [
-              "Dream Land·assemblogy, Independent Publishing"
             ]
           }
         ]
