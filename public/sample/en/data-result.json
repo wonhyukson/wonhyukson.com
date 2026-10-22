@@ -1057,10 +1057,6 @@
         "text": "Incheon Metropolitan City, Incheon Foundation for Arts and Culture, Space Ilbu"
       },
       {
-        "title": "Introduction",
-        "text": "Dreamland·assemblogy is a catalog that compiles individual exhibitions held at the Gwangmyeong Civic Center and CICA Museum, featuring artist's notes and a curator's essay by Haesun Chung."
-      },
-      {
         "type": "PDF",
         "link": "pdf/Dream Land·assemblogy.pdf",
         "fileName": "Dream Land·assemblogy.pdf"
@@ -1470,109 +1466,6 @@
       "img/archive/2022-assemblogy/03.jpg",
       "img/painting/harmony/03.jpg",
       "img/archive/2022-assemblogy/04.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "21-dreamland",
-    "collectionType": "solo exhibition",
-    "title": "Dream Land: Color",
-    "year": 2021,
-    "caption": "November 28 - 30, 2021",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "Gwangmyeong Civic center (20, Sicheong-ro, Gwangmyeong-si, Gyeonggi-do, South Korea)"
-      },
-      {
-        "title": "Organized by",
-        "text": "Gwangmyeong Foundation for Arts and Culture"
-      },
-      {
-        "title": "Supported by",
-        "text": "Gwangmyeong City, Gwangmyeong Foundation for Arts and Culture"
-      },
-      {
-        "title": "Curated·Design by",
-        "text": "Wonhyuk Son"
-      },
-      {
-        "title": "Artist critique by",
-        "text": "Haesun Chung"
-      },
-      {
-        "title": "Photo by",
-        "text": "Gwangmyeong Foundation for Arts and Culture"
-      },
-      {
-        "type": "PDF",
-        "link": "pdf/Dream Land·assemblogy.pdf",
-        "fileName": "Dream Land·assemblogy.pdf"
-      }
-    ],
-    "thumb": "img/archive/2021-dreamland/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-dreamland/thumb.jpg",
-      "img/typography/buddha/02.jpg",
-      "img/archive/2021-dreamland/07.jpg",
-      "img/archive/2021-dreamland/11.jpg",
-      "img/archive/2021-dreamland/12.jpg",
-      "img/archive/2021-dreamland/13.jpg",
-      "img/archive/2021-dreamland/14.jpg",
-      "img/archive/2021-dreamland/06.jpg",
-      "img/typography/buddha/05.jpg",
-      "img/archive/2021-dreamland/02.jpg",
-      "img/archive/2021-dreamland/03.jpg",
-      "img/archive/2021-dreamland/04.jpg",
-      "img/sculpture/buddha/01.jpg",
-      "img/archive/2021-dreamland/05.jpg",
-      "img/archive/2021-dreamland/08.jpg",
-      "img/archive/2021-dreamland/09.jpg",
-      "img/archive/2021-dreamland/10.jpg",
-      "img/painting/block211128/01.jpg",
-      "img/painting/block211128/02.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "21-relativity-circuit",
-    "collectionType": "group exhibition",
-    "title": "Relativity Circuit: Sustainability Report",
-    "year": 2021,
-    "caption": "September 29 - October 4",
-    "info": [
-      {
-        "title": "Participating Artists",
-        "text": "Sunghyun Kim, Seungmin Kim, Wonhyuk Son, Serin Lee"
-      },
-      {
-        "title": "Venue",
-        "text": "Dongduk art gallery (68, Ujeongguk-ro, Jongno-gu, Seoul, South Korea)"
-      },
-      {
-        "title": "Organized by",
-        "text": "Dongduk art gallery, Dongduk Women's University Museum"
-      },
-      {
-        "title": "Directed by",
-        "text": "Lee Seungchul, Cho Jinhee"
-      },
-      {
-        "title": "Curated by",
-        "text": "Soojin Hong, Pearl Kim, Aran Choi, Yoonjin Han"
-      }
-    ],
-    "thumb": "img/archive/2021-relativity-circuit/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-relativity-circuit/thumb.jpg",
-      "img/archive/2021-relativity-circuit/01.jpg",
-      "img/archive/2021-relativity-circuit/07.jpg",
-      "img/archive/2021-relativity-circuit/08.jpg",
-      "img/archive/2021-relativity-circuit/02.jpg",
-      "img/archive/2021-relativity-circuit/03.jpg",
-      "img/archive/2021-relativity-circuit/04.jpg",
-      "img/archive/2021-relativity-circuit/05.jpg",
-      "img/archive/2021-relativity-circuit/06.jpg"
     ]
   }
 ]

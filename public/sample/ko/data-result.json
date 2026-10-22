@@ -1058,10 +1058,6 @@
         "text": "인천광역시, 인천문화재단, 시작공간일부"
       },
       {
-        "title": "소개",
-        "text": "광명시민회관, CICA 미술관에서의 개인전, 작가노트, 정해선 큐레이터의 글을 엮은 도록입니다."
-      },
-      {
         "type": "PDF",
         "link": "pdf/Dream Land·assemblogy.pdf",
         "fileName": "드림랜드·조립학.pdf"
@@ -1470,113 +1466,6 @@
       "img/archive/2022-assemblogy/03.jpg",
       "img/painting/harmony/03.jpg",
       "img/archive/2022-assemblogy/04.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "21-dreamland",
-    "collectionType": "solo exhibition",
-    "title": "Dream Land: Color",
-    "year": 2021,
-    "caption": "2021년 11월 28일 - 11월 30일",
-    "info": [
-      {
-        "title": "비평 발췌\n(정해선)",
-        "text": "그로부터 탄생한 손원혁의 콤포지션 작품은 전시장 내에서 이동하고 조립되며 ‘이동식 회화’로 완성된다. 작가만의 독창적인 특징이라고 할 수 있는 이동식 회화는 시간성이 담긴 퍼포먼스적 성격의 작업이라 할 수 있는데, 이동식 회화를 통해 각각의 개체를 해체하고 파편적 이미지를 재배치하여 대안적 내러티브를 구축하기 때문이다. 작가가 작품을 설치하는 시간, 장소, 환경에 따라 이동식 회화의 구성이나 배치 형태는 달라지며, 여러 방식으로 변화할 수 있는 무한한 가능성을 내포한다. (...) 이처럼 시간성과 수행성이 담긴 손원혁의 조립추상은, 앞으로도 다양한 형태로 이동되고 조립될 것이며, 근미래에 마주할 상상적 미래를 향해 나아갈 것이다."
-      },
-      {
-        "title": "장소",
-        "text": "광명시민회관 (경기 광명시 시청로 20)"
-      },
-      {
-        "title": "주최·주관",
-        "text": "광명문화재단"
-      },
-      {
-        "title": "후원",
-        "text": "광명시, 광명문화재단"
-      },
-      {
-        "title": "기획·디자인",
-        "text": "손원혁"
-      },
-      {
-        "title": "작가 평론",
-        "text": "정해선"
-      },
-      {
-        "title": "사진",
-        "text": "광명문화재단"
-      },
-      {
-        "type": "PDF",
-        "link": "pdf/Dream Land·assemblogy.pdf",
-        "fileName": "드림랜드·조립학.pdf"
-      }
-    ],
-    "thumb": "img/archive/2021-dreamland/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-dreamland/thumb.jpg",
-      "img/typography/buddha/02.jpg",
-      "img/archive/2021-dreamland/07.jpg",
-      "img/archive/2021-dreamland/06.jpg",
-      "img/typography/buddha/05.jpg",
-      "img/archive/2021-dreamland/02.jpg",
-      "img/archive/2021-dreamland/03.jpg",
-      "img/archive/2021-dreamland/04.jpg",
-      "img/sculpture/buddha/01.jpg",
-      "img/archive/2021-dreamland/05.jpg",
-      "img/archive/2021-dreamland/08.jpg",
-      "img/archive/2021-dreamland/09.jpg",
-      "img/archive/2021-dreamland/10.jpg",
-      "img/painting/block211128/01.jpg",
-      "img/painting/block211128/02.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "21-relativity-circuit",
-    "collectionType": "group exhibition",
-    "title": "상대성 회로: 지속 가능성 보고서",
-    "year": 2021,
-    "caption": "2021년 9월 29일 - 10월 4일",
-    "info": [
-      {
-        "title": "서문 발췌",
-        "text": "블록의 조립과 조합을 통해 인간의 특정 생애주기에만 나타나는 동심을 잡아내는 손원혁의 작업은 자신과 타인이 공통으로 소유했었던 마음을 이 자리에 소환해내어 (...) 그들은 각각이 겪어낸 현상과 의식의 양면들을 이미지로 잡아냄으로써 각자의 삶 속에서 살아내고자 하는 지속 가능성에 관한 대답을 제시한다."
-      },
-      {
-        "title": "참여 작가",
-        "text": "김성현, 김승민, 손원혁, 이세린"
-      },
-      {
-        "title": "장소",
-        "text": "동덕아트갤러리 (서울 종로구 우정국로 68)"
-      },
-      {
-        "title": "주최·주관",
-        "text": "동덕아트갤러리, 동덕여자대학교박물관"
-      },
-      {
-        "title": "총괄",
-        "text": "이승철, 조진희"
-      },
-      {
-        "title": "기획·진행",
-        "text": "김진주, 홍수진, 최아란, 한윤진"
-      }
-    ],
-    "thumb": "img/archive/2021-relativity-circuit/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-relativity-circuit/thumb.jpg",
-      "img/archive/2021-relativity-circuit/01.jpg",
-      "img/archive/2021-relativity-circuit/07.jpg",
-      "img/archive/2021-relativity-circuit/08.jpg",
-      "img/archive/2021-relativity-circuit/02.jpg",
-      "img/archive/2021-relativity-circuit/03.jpg",
-      "img/archive/2021-relativity-circuit/04.jpg",
-      "img/archive/2021-relativity-circuit/05.jpg",
-      "img/archive/2021-relativity-circuit/06.jpg"
     ]
   }
 ]
